@@ -1,0 +1,1236 @@
+student_id,name,age,gender,city,state,department,marks,attendance,cgpa,internship,placement,package_lpa,salary,projects,backlogs,joining_date,payment_mode,email,phone
+STU1000,Rishabh Singh,19.0,female,Bengaluru,Karnataka,AIML,75.95,76.1,7.82,No,Not Placed,8.84,884000.0,6.0,0,2022-02-21,UPI,student0@example.com,9200604502
+STU1001,Diya Sharma,21.0,female,pune,Maharashtra,civil,64.25,74.7,6.98,YES,not placed,unknown,656000.0,7.0,4,2024-10-31,cash,student1@example.com,9969119330
+STU1002,Neha Khan,,M,Indore,Madhya Pradesh,AIML,60.49,85.6,5.89,no,Not placed,3.14,314000.0,1.0,N/A,,Net Banking,,9203848421
+STU1003,Rishabh Chauhan,23.0,Male,jaipur,Rajasthan,civil,,51.2, 6.58 ,NO,Not Placed, 3.73 ,373000.0,6.0,0,2025-05-21,cash,student3@example.com,99905664
+STU1004,Muskan Singh,,Female,Bangalore,Karnataka,,51.79,,,no,PLACED,1.5,150000.0,1.0,1,2024/01/11,Cash,student4@example.com,
+STU1005,Priya Patel,25.0,F,,Delhi,I.T.,91.45,74.8,9.17,no,PLACED,5.02,502000.0,1.0,4,2025-07-25,Card,student5@example.com,9673528321
+STU1006,Kavya Mehta,21.0,M,CALCUTTA,West Bengal,CIVIL,,79.6,5.53,no,Not placed,4.26,₹426000,0.0,1,2022-12-01,UPI,invalid_email,9964411347
+STU1007,Aditya Singh,24.0,F,Jaipur,Rajasthan,AIML,58.39,73.9,5.63,NO,Yes,7.03,,7.0,1,2023-07-03,cash,student7@example.com,9249926919
+STU1008,Rishabh Joshi,26.0,MALE,pune,Maharashtra,me,67.78,63.2,7.07,YES,Not placed,3.08,308000.0,3.0,1,2025-01-08,,student8@example.com,9197613238
+STU1009,Rahul Chauhan,19.0,MALE,indore,Madhya Pradesh,ME,71.34,50.6,6.67,No,Yes,5.19,519000.0,6.0,4,2022-11-10,,student9@example.com,9668132202
+STU1010,Arjun Tiwari,26.0,M,delhi,Delhi,Data Science,79.82,unknown,,N,Not Placed,,569000.0,4.0,3,2022-01-24,Card,student10@example.com,9587182120
+STU1011,Rahul Yadav,22.0,Female, Indore ,Madhya Pradesh,data science,44.34,67.9,4.27,Y,, 4.1 ,410000.0,2.0,2,2024-10-22,Card,student11@example.com,9679153816
+STU1012,Ananya Jain,18.0,Male,Gwalior,Madhya Pradesh,C.S.E,73.5,53.3,7.46,N,PLACED,5.01,501000.0,3.0,N/A,2025-05-11,upi,student12@example.com,9709194872
+STU1013,Isha Agrawal,19.0,Female,bhopal,Madhya Pradesh,DS,,86.6,6.08,yes,placed,5.86,586000.0,7.0,4,,Card,student13@example.com,9384602384
+STU1014,Karan Soni,27.0,female,gwalior,Madhya Pradesh,CIVIL,54.57,73.7,5.57,Y,Yes,,538000.0,5.0,unknown,2024-05-16,,student14@example.com,9229927269
+STU1015,Ananya Sharma,21.0,female,,Maharashtra,me,60.33,75.4,5.65,no,Placed,1.56,156000.0,1.0,5,2022-05-12,UPI,student15@example.com,9345824373
+STU1016,Aditya Yadav, 18.0 ,female,BHOPAL,Madhya Pradesh,,81.0, 97.0 ,8.07,NO,not placed,8.18,818000.0,8.0,1,2023-11-08,,student16@example.com,9360916298
+STU1017,Arjun Verma,,,DEWAS,,IT,73.79,69.0,7.51,YES,Yes,8.53,N/A,7.0,5,2023-01-25,UPI,student17@example.com,9823019672
+STU1018,Vivaan Mehta,28.0,F,Bengaluru,,Data Science,67.43,99.9,5.83,No,not placed,5.39,539000.0,3.0,1,2022-07-21,,student18@example.com,9250519597
+STU1019,Kavya Singh,20.0,Female,UJJAIN,Madhya Pradesh,ECE,69.39,,6.97,No,Placed,1.59,159000.0,8.0,0,2023-07-25,Cash,student19@example.com,9909134796
+STU1020,Isha Jain,20.0,female,pune,Maharashtra,data science,64.49,83.0,6.97,YES,Placed,4.23,423000.0,2.0,3,2024-04-12,UPI,student20@example.com,9519212169
+STU1021,Neha Joshi,25.0,FEMALE,delhi,Delhi,AIML,55.06,71.0,5.83,,PLACED,4.5,450000.0,3.0,0,2023-08-08,UPI,student21@example.com,9903132646
+STU1022,Muskan Jain,18.0,male,JAIPUR,Rajasthan,CSE,59.52,85.2,5.99,No,placed,5.83,unknown,1.0,4,2022-04-13,Cash,student22@example.com,9825003955
+STU1023,Muskan Singh,24.0,Male,pune,Maharashtra,me,56.77,73.4,5.54,No,,1.5,150000.0,8.0,2,2022-09-03,cash,student23@example.com,9319321646
+STU1024,Rishabh Mehta,23.0,male,bengaluru,Karnataka,Civil,,81.7,7.28,Y,No,,509000.0,5.0,0,2023-05-04,UPI,student24@example.com,9592080329
+STU1025,Aditya Yadav,27.0,,Nagpur,Maharashtra,ME,45.35,72.1,4.42,,, 1.5 ,150000.0,5.0,0,,,student25@example.com,9496776692
+STU1026,Simran Joshi,,M,New Delhi,Delhi,ME,65.42,83.7,7.2,Yes,PLACED,5.73,573000.0,1.0,1,2024-06-16,cash,student26@example.com,9223940587
+STU1027,Rishabh Gupta,26.0,female,BHOPAL,Madhya Pradesh,Civil,72.12,,6.54,N,not placed,4.65,465000.0,4.0,4,2022-11-15,,student27@example.com,9369639388
+STU1028,Neha Agrawal,19.0,M, Indore ,Madhya Pradesh,cse,unknown,100.0,6.83,Yes,Not placed,5.56,556000.0,,5,2025-07-23,cash,,9273497327
+STU1029,Neha Yadav,25.0,Male,CALCUTTA,West Bengal,Computer Science,67.44,61.6,7.14,,placed,6.71,?,8.0,0,2025-02-03,CARD,student29@example.com,9725464884
+STU1030,Rohan Sharma,20.0,M,gwalior,Madhya Pradesh,IT,80.66,65.3,8.56,Yes,Not placed,4.39,439000.0,3.0,5,30 May 2024,upi,student30@example.com,9816114302
+STU1031,Simran Soni,23.0,MALE, Bhopal,Madhya Pradesh,me,77.39,100.0,7.39,yes,not placed,4.6lpa,N/A,2.0,1,,Net Banking,student31@example.com,9126614158
+STU1032,Aman Gupta,23.0,male,MUMBAI,Maharashtra,data science,69.59, 71.0 ,6.42,No,Yes,4.69,469000.0,,3,2024-04-23,upi,student32@example.com,9314289692
+STU1033,Aman Singh,23.0,,dewas,Madhya Pradesh,civil,51.0,84.6,4.78,no,Yes,5.55,N/A,5.0,2,2023-09-18,Cash,student33@example.com,9930353157
+STU1034,Pooja Mehta,23.0,,Delhi,Delhi,CSE,,73.5,5.83,No,,1.7,₹170000,,4,2025-08-06,cash,student34@example.com,9141078352
+STU1035,Priya Joshi,27.0,F,Bhopal,Madhya Pradesh,ECE,71.64,96.3,6.6,No,,5.09,509000.0,3.0,2,2024-06-08,UPI,student35@example.com,9861052404
+STU1036,Simran Tiwari,18.0,female,Ujjain,Madhya Pradesh,I.T.,72.16,88.9,6.78,YES,Not Placed,2.58,258000.0,5.0,4,2024-11-30,CARD,student36@example.com,9812306873
+STU1037,Yash Tiwari,22.0,MALE,bhopal,Madhya Pradesh,IT,,82.2,7.72,YES,PLACED,6.62,662000.0,8.0, 1 ,2024-11-04,upi,student@@example.com,
+STU1038,Rahul Mishra,24.0,M,Bangalore,Karnataka,ECE,,81.3,5.81,Yes,PLACED,2.61,261000.0,4.0,1,2025-10-19,Net Banking,student38@example.com,9943702118
+STU1039,Ananya Jain,27.0,FEMALE,Nagpur,Maharashtra,ece,97.85,84.6,9.37,no,No,,899000.0,2.0,5,2025-09-02,Cash,student39@example.com,9404713332
+STU1040,Diya Khan,28.0,Female,gwalior,,Data Science, 52.41 ,,?,no,PLACED,2.24,224000.0,3.0,1,2025-07-20,Card,student40@example.com,9126226563
+STU1041,Diya Agrawal,21.0,Female, Indore ,Madhya Pradesh,E.C.E,83.41,83.8,?,YES,not placed,10.41,1041000.0,unknown,3,2024-08-31,Net Banking,student41@example.com,9361976301
+STU1042,Aarav Soni,28.0,Female,MUMBAI,Maharashtra,Data Science,64.07,67.4,6.1,YES,not placed,2.74,274000.0,2.0,5,2025-11-09,,,9153921577
+STU1043,Kavya Patel,21.0,FEMALE,gwalior,Madhya Pradesh,CIVIL,66.77,,6.77,N,No,6.44,,8.0,3,2022-09-06,,student43@example.com,9270894498
+STU1044,Rishabh Chauhan,25.0,,kolkata,West Bengal,data science,68.21,98.3,6.73,Y,No,N/A,980000.0,unknown,2,2024-07-10,,student44@example.com,9183197117
+STU1045,Rishabh Khan,22.0,F,Kolkata,West Bengal,ME,78.01,66.0,7.43,No,placed,6.54,654000.0,2.0,1,2023-04-26,Net Banking,student45@example.com,9845122940
+STU1046,Neha Mehta,21.0,F,mumbai,Maharashtra,me,64.42,88.0,6.61,NO,Yes,4.64,464000.0,0.0,1,,Net Banking,student46@example.com,9518197538
+STU1047,Muskan Mehta,18.0,FEMALE,nagpur,Maharashtra,cse,54.45,56.8,N/A,N,PLACED,4.86,486000.0,6.0,3,2026-04-17,,student47@example.com,9624232414
+STU1048,Isha Sharma,22.0,MALE,Pune,Maharashtra,IT,71.43,60.6,7.2,YES,placed,6.11,N/A,7.0,1,N/A,UPI,student48@example.com,9523076025
+STU1049,Aarav Verma,27.0,MALE,,Maharashtra,aiml,53.86,80.2,5.41,NO,placed,1.5,150000.0,0.0,2,19/09/2025,Net Banking,student49@example.com,9451492250
+STU1050,Ananya Chauhan,25.0,MALE, PUNE ,Maharashtra,I.T.,73.72,85.9,7.75,YES,PLACED,,792000.0,1.0,3,2023-11-01,UPI,student50@example.com,9904258674
+STU1051,Aman Tiwari,18.0,Female,gwalior,Madhya Pradesh,Data Science,45.96,64.9,4.78,Yes,Placed,3.68,368000.0,3.0,1,2023-12-18,UPI,student51@example.com,9767154083
+STU1052,Isha Tiwari,21.0,Female,mumbai,Maharashtra,me,76.24,100.0,7.82,no,,8.15,?,4.0,2,2022-09-16,Card,student52@example.com,9750572325
+STU1053,Rahul Gupta,19.0,Female,nagpur,Maharashtra,me,83.26,,8.22,Yes,PLACED,7.91,791000.0,6.0,3,2026-05-12,upi,student53@example.com,9181600593
+STU1054,Arjun Joshi,28.0 ,M,Nagpur,Maharashtra,DS,55.63,74.7,5.39,No,Placed,3.58,358000.0,5.0, 4 ,2023-05-13,Net Banking,student54@example.com,9810303128
+STU1055,Ananya Sharma,19.0,MALE,JAIPUR,Rajasthan,Data Science,100.0,51.9,10.0,NO,Not Placed,5.6,,6.0,2,2024-11-02,,student55@example.com,9859466878
+STU1056,Pooja Tiwari,24.0,M,mumbai,Maharashtra,ME,N/A,,6.07,NO,No,2.24,224000.0,6.0,5,2022-12-27,cash,,9446071904
+STU1057,Kavya Singh,19.0,,pune,Maharashtra,Mechanical,56.56,87.5,5.4,YES,Not placed,3.83,383000.0,0.0,3,2023-07-26,CARD,student57@example.com,9295249057
+STU1058,Rishabh Khan,21.0,M,Dewas,Madhya Pradesh,Mechanical,68.73,68.9,7.62,Y,Placed,7.02,702000.0,8.0,1,2023-12-28,Cash,student58@example.com,9359154084
+STU1059,Simran Chauhan,24.0,female,kolkata,West Bengal,CIVIL,35.6,80.6,3.33,NO,No,2.7,270000.0,7.0,0,2024-09-27,Cash,student59@example.com,9415933049
+STU1060,Aman Gupta,24.0,F, PUNE ,Maharashtra,ece,55.32,76.4,5.71,N,Yes,5.34,534000.0,8.0,2,2025-11-17,CARD,student@@example.com,98765ABCDE
+STU1061,Rishabh Singh,22.0,Female,DEWAS,Madhya Pradesh,CIVIL,48.8,73.3,4.71,no,Not placed, 1.51 ,151000.0,1.0,5,2023-09-20,,student61@example.com,9305665554
+STU1062,Muskan Chauhan,25.0,M,pune,Maharashtra,Computer Science,96.25,83.7,unknown,no,PLACED,9.25,,3.0,2,2023-07-21,Card,student62@example.com,9424557359
+STU1063,Rishabh Sharma,26.0,Male,INDORE,,me,100.0,,9.47,Y,placed,7.05,705000.0,,0,2022-09-17,,student63@example.com,9716396766
+STU1064,Kavya Khan,25.0,male,DELHI,Delhi,CSE,unknown,,8.98,Y,No,8.77,877000.0,1.0,0,2024-09-07,Net Banking,student64@example.com,9628008852
+STU1065,Vivaan Patel, 27.0 ,male,BHOPAL,Madhya Pradesh,Data Science,53.17,77.2,4.18,Y,Not Placed,1.5,150000.0,3.0,0,2025-07-13,Net Banking,student65@example.com,12345
+STU1066,Pooja Mehta,27.0,FEMALE,Nagpur,Maharashtra,ECE,63.96,60.5,6.97,Y,Yes,2.59,259000.0,4.0,4,2023-04-08,UPI,student66@example.com,9754586204
+STU1067,Karan Tiwari,19.0,female,Kolkata,West Bengal,IT,60.96,79.8,,,placed,2.18,218000.0,3.0,1,2026-04-12,Cash,student67@example.com,9268075622
+STU1068,Diya Jain,24.0,M,indore,Madhya Pradesh,CSE,86.61,78.1,8.32,no,PLACED,7.48,748000.0,4.0, 5 ,2024-07-11,,student68@example.com,9176428684
+STU1069,Muskan Tiwari,21.0,female,,Karnataka,ECE,71.18,69.6,7.14,No,not placed,4.66,466000.0,2.0,2,N/A,Card,,9176675731
+STU1070,Diya Joshi,20.0,M,indore ,Madhya Pradesh,ece,N/A,87.3,7.54,No,No,3.57,357000.0,4.0,5,2023/09/22,Net Banking,student70@example.com,9392322121
+STU1071,Kavya Verma,26.0,Male,gwalior,Madhya Pradesh,E.C.E,100.0,50.7,9.95,N,PLACED,9.5,950000.0,0.0,0,2024-10-08,upi,student71@example.com,9824022357
+STU1072,Rishabh Mishra,27.0,Male,nagpur,Maharashtra,,72.5,69.3,7.18,yes,No,,451000.0,8.0,5,2022-02-12,,student72@example.com,9398668350
+STU1073,Isha Verma,27.0,FEMALE,MUMBAI,Maharashtra,I.T.,58.57,89.9,5.98,YES,Not placed,2.8 LPA,283000.0,5.0,5,2024-06-11,Cash,student73@example.com,9272684373
+STU1074,Isha Gupta,24.0,MALE,JAIPUR,,Data Science,82.39,82.3,8.52,Yes,No,unknown,801000.0,1.0,2,2025-11-21,cash,student74@example.com,9447112584
+STU1075,Aarav Tiwari,,FEMALE, Bhopal,,E.C.E,54.74,70.2,5.74,Yes,not placed,?,491000.0,8.0,2,2024-11-19,,student75@example.com,9771527524
+STU1076,Rishabh Yadav,18.0,male,Dewas,Madhya Pradesh,I.T.,,79.6,7.21,NO,No,4.37,437000.0,1.0,0,2023-02-21,upi,,9862123506
+STU1077,Aarav Yadav,22.0,MALE,MUMBAI,Maharashtra,cse,76.75,75.2,7.6,no,Not Placed,7.84,784000.0,7.0,0,2025-02-02,Card, student77@example.com,9635126623
+STU1078,Rishabh Mehta,N/A,,,,E.C.E,81.21,89.4,8.58,no,,6.98,698000.0,8.0,1,2024-11-08,Net Banking,student78@example.com,9304666325
+STU1079,Rohan Agrawal,26.0,Female,Nagpur,Maharashtra,it,78.91,73.7,8.0,YES,Not placed,6.07,607000.0,8.0,2,2026-03-09,UPI,student79@example.com,9403696046
+STU1080,Muskan Tiwari,22.0,FEMALE,Kolkata,West Bengal,data science,69.55,86.3,6.67,yes,No,8.6,860000.0,8.0,3,2025-04-17,CARD,invalid_email,9456954682
+STU1081,Kavya Soni,26.0,F,gwalior,Madhya Pradesh,data science,51.9,61.0,5.6,no,not placed,5.08,508000.0,6.0,1,2024-02-12,Net Banking,student81@example.com,9146865930
+STU1082,Sneha Mehta,25.0,male,JAIPUR,Rajasthan,ECE,77.99,,7.79,Yes,placed,4.45,445000.0,8.0,4,2025-12-15,CARD,student82@example.com,9207765664
+STU1083,Kavya Sharma,19.0,male,DEWAS,Madhya Pradesh,ECE,69.21,68.5,7.26,,,5.22,522000.0,7.0,2,2024-12-13,CARD,student83@example.com,9769219685
+STU1084,Aditya Agrawal,24.0,F,CALCUTTA,West Bengal,Data Science,54.79,73.5,5.62,YES,Not placed,,267000.0,7.0,4,2025-08-23,,student84@example.com,9762992051
+STU1085,Yash Singh,21.0,Female,BHOPAL,Madhya Pradesh,E.C.E,54.84,81.4, 5.57 ,No,,2.71,271000.0,7.0,N/A,2025-07-16,cash,student85@example.com,9131081879
+STU1086,Yash Khan,23.0,F,indore ,Madhya Pradesh,ece,60.46,81.2,5.54,yes,not placed,1.5,150000.0,8.0,3,2022-04-25,Card,student86@example.com,92825185
+STU1087,Sneha Mishra,19.0,female,MUMBAI,Maharashtra,E.C.E,56.5,75.0,5.76,yes,not placed,6.49,649000.0,7.0,5,,cash,student87@example.com,9593460064
+STU1088,Kavya Soni,28.0,M,DELHI,Delhi,CIVIL,81.72,unknown,8.17,yes,Not Placed,4.7 LPA,468000.0,7.0,2,2022-01-20,,student88@example.com,9786055206
+STU1089,Yash Singh,22.0,MALE,ujjain,Madhya Pradesh,data science,67.7,74.0,6.88,,Not Placed,,358000.0,3.0,3,2024-07-24,CARD,,9717199615
+STU1090,Sneha Gupta,22.0,Male,New Delhi,Delhi,,76.31,99.5,N/A,Yes,No,6.57,657000.0,4.0,N/A,2022-02-14,CARD,invalid_email,9335154329
+STU1091,Rishabh Tiwari,21.0,male,Bengaluru,,CIVIL,79.04,72.4,7.98,No,Placed,,630000.0,4.0,3,2025-06-25,UPI,student91@example.com,9722312633
+STU1092,Yash Khan,20.0,MALE,JAIPUR,Rajasthan,,69.56,67.2,6.96,no,placed,6.05,605000.0,8.0,2,2022-07-04,cash,student92@example.com,9991713190
+STU1093,Yash Joshi,22.0,F,Mumbai,Maharashtra,Data Science,,,9.88,No,No,6.99,699000.0,1.0,1,2024-09-13,upi,student93@example.com,9826197069
+STU1094,Simran Khan,28.0,Female,CALCUTTA,West Bengal,DS,81.96,80.6,8.96,YES,,5.9,590000.0,4.0, 4 ,2024-03-24,Cash,student94@example.com,9588322781
+STU1095,Rishabh Mishra, 28.0 ,MALE,jaipur,Rajasthan,data science,54.56,69.6,4.71,N,Not Placed,N/A,N/A,3.0,3,2026-03-14,UPI,student95@example.com,9765233376
+STU1096,Aman Tiwari,,Female,Gwalior,Madhya Pradesh,Civil,?,80.1,N/A,NO,PLACED,7.15,715000.0,6.0,0,2025-06-03,Card,student96@example.com,9148690765
+STU1097,Arjun Verma,unknown,female, Indore ,Madhya Pradesh,me,,69.9,8.01,yes,Yes,7.2,720000.0,7.0,2,2024-10-05,Net Banking,student97@example.com,9730651895
+STU1098,Arjun Agrawal,20.0,FEMALE,kolkata,West Bengal,ME,,,5.1,YES,PLACED,,,0.0,5,2024-04-29,CARD,student98@example.com,9333291547
+STU1099,Priya Verma,25.0,F,Dewas,Madhya Pradesh,Mechanical,40.59,97.0,4.02,N,Placed,4.15,415000.0,,2,2023-04-29,,student99@example.com,9231167999
+STU1100,Karan Tiwari, 19.0 ,Male,Dewas,Madhya Pradesh,Computer Science,42.49,69.6,4.25,N,not placed,, 226000.0 ,2.0,unknown,2025-09-19,,student100@example.com,9173669588
+STU1101,Karan Agrawal,,,gwalior,Madhya Pradesh,I.T.,60.8,86.7,5.71,yes,Placed,3.52,?,?,1,2025-04-15,Card,student101@example.com,9680051935
+STU1102,Aarav Patel,20.0,Male,,Delhi,IT,,85.2,,no,Not placed,3.44,344000.0,0.0,1,2022-08-14,cash,student102@example.com,9156263020
+STU1103,Arjun Joshi,24.0,Female,MUMBAI,Maharashtra,ece,?,95.9,4.46,NO,Not placed,1.5,150000.0,8.0,4,2024-12-13,Cash,student103@example.com,9585337126
+STU1104,Vivaan Joshi,21.0,M,gwalior,Madhya Pradesh,ECE,92.82,79.6,9.69,Yes,Placed,,828000.0,7.0,3,2025-06-13,Net Banking,student104@example.com,9836691577
+STU1105,Kavya Verma,25.0,Female, Bhopal,Madhya Pradesh,it,100.0,100.0,9.91,yes,Not Placed,10.15,1015000.0,2.0,2,2025-12-29,CARD,student105@example.com,9508992977
+STU1106,Kavya Yadav,26.0,MALE,nagpur,Maharashtra,Computer Science,78.33,97.2,7.5,No,not placed,6.98 ,698000.0,6.0,3,2023-08-27,upi,student106@example.com,9544328940
+STU1107,Neha Joshi,25.0,,Jaipur,Rajasthan,it,84.93,53.4,8.08,,Not placed,2.72,272000.0,4.0,2,2024-03-27,Card,student107@example.com,9837468465
+STU1108,Aditya Verma,19.0,MALE,,Madhya Pradesh,cse,63.69,88.0,6.89,N,placed,,,8.0,0,2022-07-06,CARD,student108@example.com,9819421270
+STU1109,Neha Agrawal,24.0,Male,,Madhya Pradesh,IT,94.06,58.7,8.81,Y,Not placed,7.09,709000.0,1.0,N/A,2023-12-26,upi,student109@example.com,9266140258
+STU1110,Arjun Khan,25.0,F,Bangalore,Karnataka,C.S.E,74.15,77.5,6.69,Y,not placed,4.7,470000.0,6.0,4,2023-04-05,UPI,invalid_email,9753903309
+STU1111,Rahul Gupta,?,M,Bengaluru,Karnataka,it,47.13,87.4,4.84,N,Placed,1.5,150000.0,2.0,1,,Net Banking,student111@example.com,9174716780
+STU1112,Aditya Joshi,28.0,female,Mumbai,Maharashtra,ECE,59.78,63.2,5.96,YES,No,5.78,578000.0,5.0,1,2022-03-04,CARD,student112@example.com,9434618074
+STU1113,Muskan Mishra,23.0,Female,kolkata,West Bengal,cse,52.23,85.1,5.04,yes,placed,1.62,162000.0,0.0,5,,Cash,student113@example.com,9392168202
+STU1114,Isha Mishra,28.0,FEMALE,Dewas,Madhya Pradesh,ECE,66.29,63.5,6.44,Y,not placed,2.43, 243000.0 ,8.0,0,2024-05-18,CARD,student114@example.com,9561616250
+STU1115,Muskan Jain,22.0,M,BHOPAL,Madhya Pradesh,Computer Science,,78.5,9.7,no,Yes,8.56,856000.0,0.0,0,20/10/2025,upi,student115@example.com,9423646570
+STU1116,Rishabh Gupta,20.0,F, PUNE ,Maharashtra,cse,66.2,74.9,6.83,Yes,No, 6.4 ,,6.0,1,2026-04-15,Card,student116@example.com,9508244633
+STU1117,Simran Agrawal,21.0,F,gwalior,Madhya Pradesh,,59.51,69.9,5.85,YES,Placed,1.5,150000.0,6.0, 0 ,2024-10-21,,student117@example.com,
+STU1118,Muskan Mehta,27.0,,jaipur,Rajasthan,IT,43.76,97.1,?,No,Yes,2.5,250000.0,0.0,2,2024-05-29,Card,student118@example.com,9960413104
+STU1119,Priya Verma,,MALE,nagpur,Maharashtra,Data Science,77.22,82.4 ,8.8,,,9.2,920000.0 ,6.0,4,2025-11-13,,student119@example.com,9662600500
+STU1120,Ananya Singh,24.0,F, Bhopal,Madhya Pradesh,data science,,N/A,6.03,yes,Not Placed,4.5,450000.0,8.0,5,2023-09-28,,student120@example.com,9669732591
+STU1121,Priya Khan,21.0,male,gwalior,Madhya Pradesh,aiml,55.9,,5.36,No,placed,1.5,150000.0,4.0,1,2026-05-09,,student121@example.com,9746820987
+STU1122,Rahul Chauhan,28.0,FEMALE,MUMBAI,Maharashtra,E.C.E,94.99,, 9.5 ,NO,Not placed,,1061000.0 ,5.0,1,2022-06-04,,student122@example.com,9173321814
+STU1123,Yash Chauhan,25.0,M,,Madhya Pradesh,Mechanical,69.24,,7.46,Yes,Not placed,6.68,668000.0,8.0,0,2025-07-17,cash,student123@example.com,9595792218
+STU1124,Priya Agrawal,18.0,M,Dewas,Madhya Pradesh,C.S.E,51.4,75.3,4.83,No,Yes,1.5,150000.0,7.0, 4 ,2022-04-27,UPI,invalid_email,9582897882
+STU1125,Ananya Mishra,28.0 ,FEMALE,nagpur,Maharashtra,Mechanical,82.82,100.0,7.79,yes,Placed,7.08,708000.0,7.0,0,2023-01-21,CARD,student125@example.com,9866990485
+STU1126,Rahul Sharma,26.0,female,BHOPAL,Madhya Pradesh,Civil,57.59,71.2,5.55,,No,2.05,205000.0,8.0,4,2025-08-16,Card,student126@example.com,9490732457
+STU1127,Neha Chauhan,22.0,F,JAIPUR,Rajasthan,CIVIL,68.78,66.4,6.97,Yes,Not placed,5.08,508000.0,1.0,2,,Cash,student127@example.com,9699108439
+STU1128,Rishabh Joshi,24.0,male,,Karnataka,,64.18, 65.3 ,6.22,No,placed,5.7,570000.0,5.0,2,2023-08-05,Net Banking,student128@example.com,9238460786
+STU1129,Simran Mehta,19.0,,,Maharashtra,DS,76.01,64.3,7.64,yes,Not Placed,7.26,726000.0,6.0,4,2023-09-27,CARD,student129@example.com,9119574893
+STU1130,Karan Khan,22.0,FEMALE,JAIPUR,Rajasthan,AI ML,,85.6,3.9,no,placed,2.82,282k,2.0,0,2023-01-05,cash,student130@example.com,9946237594
+STU1131,Simran Agrawal,26.0,Male,BHOPAL,Madhya Pradesh,Civil,55.79,52.7,5.01,N,placed,3.1,310000.0,6.0,1,2026-04-28,Card,student131@example.com,9294181873
+STU1132,Kavya Sharma,unknown,MALE,CALCUTTA,West Bengal,it,,65.3,7.44,no,No,2.69,269000.0,4.0,5,2022-12-06,,student132@example.com,9351258749
+STU1133,Isha Soni,21.0,female,Gwalior,Madhya Pradesh,IT,66.94 ,61.0,6.47,NO,No,4.7,470000.0,4.0,3,2023-09-26,Net Banking,student133@example.com,9274008639
+STU1134,Rishabh Sharma,,FEMALE,Pune,Maharashtra,DS,54.23,72.6,5.78,N,Not Placed,2.82,,8.0,0,2022-10-11,,student134@example.com,9190060226
+STU1135,Pooja Patel,22.0,MALE,MUMBAI,Maharashtra,cse,81.37,62.2,8.32,no,No,9.25,925000 INR,5.0,0,2024-07-09,Net Banking,student135@example.com,9157184151
+STU1136,Aman Mehta,26.0,Female,Ujjain,Madhya Pradesh,I.T.,28.45,66.8,3.05,no,Placed,1.5,150000.0,5.0,0,2024-02-05,,student136@example.com,9949738493
+STU1137,Yash Soni,20.0,FEMALE,Mumbai,Maharashtra,,73.94,69.5,7.42,yes,No,5.38,538000.0,7.0,4,2022-03-20,UPI,student137@example.com,9185068029
+STU1138,Rohan Yadav,22.0,MALE, Indore ,,cse,unknown,,8.79,Y,not placed,6.43,643000.0,4.0,0,2023-03-18,UPI,invalid_email,9356022467
+STU1139,Kavya Verma,28.0,,Ujjain,Madhya Pradesh,Data Science,60.2,,,NO,Placed, 3.5 ,352000.0,8.0,4,2025-06-29,upi,student139@example.com,9871531100
+STU1140,Aarav Mishra,22.0,F,MUMBAI,Maharashtra,AI ML, 72.64 ,100.0,7.57,YES,placed,5.24,,1.0,4,2024-05-29,CARD,student140@example.com,9172670118
+STU1141,Pooja Yadav,26.0,Male,gwalior,Madhya Pradesh,E.C.E,87.22,72.3,8.01,NO,Placed,4.5,450000.0,6.0,2,2024-11-05,cash,student141@example.com,9902425085
+STU1142,Priya Singh,23.0,Female,INDORE,Madhya Pradesh,,38.07,73.1,3.81 ,N,placed,4.71,471000.0, 0.0 ,2,2022-05-19,CARD,student142@example.com,9973498494
+STU1143,Kavya Joshi,20.0,FEMALE,bengaluru,Karnataka,Civil,73.23,74.9,7.61,yes,placed,1.89,189000.0,1.0,5,N/A,,student143@example.com,9139711044
+STU1144,Karan Soni,21.0,Male,New Delhi,Delhi,I.T.,71.77,88.8,6.66,Y,Yes,6.88,688000.0,8.0,3,2022-03-31,cash,student144@example.com,9139321248
+STU1145,Priya Agrawal, 21.0 ,Male,Bangalore,Karnataka,data science,73.42,72.2,7.56,N,PLACED,9.9,990000.0,1.0,2,2023-08-09,Net Banking,student145@example.com,9529520110
+STU1146,Ananya Patel,25.0,FEMALE,,West Bengal,CIVIL,70.91,,6.93,NO,,3.59,359000.0,8.0,2,03-02-2024,Cash,student146@example.com,9880697625
+STU1147,Diya Agrawal,19.0,male,UJJAIN,,ME,81.29,66.0,8.15,,Not placed,,?,1.0,0,2024-05-31,CARD,student147@example.com,
+STU1148,Diya Joshi,22.0,MALE,Delhi,Delhi,AIML,75.66,82.7,,NO,Not placed,5.3,530000.0,7.0,0,2024-07-02,,student148@example.com,
+STU1149,Vivaan Verma,22.0,MALE,,Madhya Pradesh,it,?,64.3,6.21,,Placed,5.01,501000.0,2.0,unknown,2025-08-02,,,9137365109
+STU1150,Priya Khan,,MALE,MUMBAI,Maharashtra,ME,80.11,65.1,8.32,Yes,placed,9.09,909000.0, 7.0 ,2,2023-04-29,CARD,student150@example.com,9576676179
+STU1151,Pooja Khan,27.0,MALE,Bhopal,Madhya Pradesh,it,74.61,100.0,7.19,Y,not placed,?,317000.0,1.0,0,2022-10-09,Card,student151@example.com,
+STU1152,Arjun Gupta,24.0,,,Madhya Pradesh,Civil,39.54,98.9,4.18,NO,not placed,2.0,N/A,4.0,5,2025-02-24,,student152@example.com,9314939857
+STU1153,Kavya Patel,20.0,FEMALE, Bhopal,Madhya Pradesh,,72.48,62.2 ,,N,Not placed,6.64,664000.0,1.0,4,2022-06-01,,student@@example.com,9422076028
+STU1154,Priya Yadav,28.0,,MUMBAI,Maharashtra,CSE,69.75,88.2,7.14,no,placed,5.76,576000.0,3.0,N/A,2022-12-23,UPI,student154@example.com,9487509692
+STU1155,Kavya Chauhan,27.0,male,Gwalior,Madhya Pradesh,ME,55.35,84.6, 6.19 ,No,,6.73,673000.0,4.0,3,2024-01-26,,student155@example.com,9664461415
+STU1156,Aditya Patel,,F,Ujjain,Madhya Pradesh,CIVIL,93.49,70.8,9.0,No,No,7.17,,7.0,5,2025-03-23,CARD,student156@example.com,9237798236
+STU1157,Rahul Chauhan,28.0,male,Gwalior,Madhya Pradesh,ECE,68.89,93.3,6.3,Yes,Not Placed,7.18,718000.0,8.0,1,2025-04-18,cash,student157@example.com,9276799196
+STU1158,Aman Khan,,M,mumbai,Maharashtra,DS,65.47,72.0,6.19,No,PLACED,,150000.0,3.0,5,2025-12-23,cash,student158@example.com,9234400576
+STU1159,Simran Verma,22.0,male,bengaluru,Karnataka,me,?,79.0,7.67,yes,placed,3.61,361000.0,unknown,4,2025-06-12,UPI,student159@example.com,9986090690
+STU1160,Muskan Gupta,19.0,female, Indore ,Madhya Pradesh,data science,62.63,100.0,6.17,YES,Placed,1.58,158k,7.0,5,2022-04-04,,student160@example.com,9789242701
+STU1161,Sneha Gupta,25.0,FEMALE,delhi,Delhi,C.S.E,64.07,74.2,5.46,Yes,placed,3.41,341000.0,7.0,3,2023-05-17,,student161@example.com,9598690974
+STU1162,Rohan Khan,23.0,F,pune,,Civil,,87.7,7.08,N,Yes,,732000.0,2.0,2,2025-05-27,Cash,student162@example.com,98765ABCDE
+STU1163,Rishabh Jain,25.0,female,Pune,Maharashtra,aiml,63.7,,7.27,No,Placed,N/A,560000.0,4.0,3,2022-09-08,Net Banking,student163@example.com,9366578178
+STU1164,Ananya Singh,23.0,male,MUMBAI,Maharashtra,ECE,68.22,N/A,6.89,NO,No,4.82,N/A,4.0,N/A,2025-03-29,UPI,student164@example.com,9196689473
+STU1165,Aman Singh,26.0,F,UJJAIN,Madhya Pradesh,Computer Science,58.82,70.3,5.87,Yes,PLACED,2.98,N/A,7.0,4,2024-07-25,,student165@example.com,9406819991
+STU1166,Neha Patel,18.0,M,Gwalior,Madhya Pradesh,CIVIL,56.59,79.5,5.57,N,Yes,,633000.0,5.0,0,2022-08-09,Net Banking,student166@example.com,9154930149
+STU1167,Priya Yadav,26.0,M,Nagpur,Maharashtra,C.S.E,25.58,93.3,,YES,,1.5,150000.0,8.0,2,2023-02-03,,student167@example.com,9238151258
+STU1168,Ananya Yadav,24.0,F, Bhopal,Madhya Pradesh,Data Science,62.52,72.8,5.76,yes,,2.44,244000.0,8.0,3,2024-02-04,UPI,student168@example.com,9148644109
+STU1169,Ananya Chauhan,20.0,FEMALE,indore,Madhya Pradesh,,unknown,,5.35,NO,placed,5.67,567000.0,8.0,1,2026-01-01,CARD,student169@example.com,
+STU1170,Diya Joshi,,M,Jaipur,Rajasthan,ME,,62.2,7.77,N,No,,693000.0,4.0,3,,UPI,student170@example.com,9495521185
+STU1171,Neha Mishra,,,Jaipur,Rajasthan,DS,48.45,88.0,4.76,Yes,No,,206000.0,4.0,5,2022-08-13,,student171@example.com,9874597473
+STU1172,Rahul Yadav,27.0,MALE, Indore ,Madhya Pradesh,AI ML,79.38,84.2,7.81,no,Placed,8.18,818000.0,1.0,1,2024-09-10,UPI,student172@example.com,9573561557
+STU1173,Neha Joshi,24.0,female,Jaipur,Rajasthan,ECE,50.7,86.6,5.28,NO,Placed,2.75,275000.0,2.0,4,2022-11-07,upi,student173@example.com,9702247585
+STU1174,Pooja Mehta,28.0,F,jaipur,Rajasthan,AI-ML,73.22,60.5,7.65,NO,Not placed,5.58,,8.0,2,2024-09-06,cash,student174@example.com,9755064741
+STU1175,Rishabh Yadav,21.0,M,Dewas,Madhya Pradesh,aiml,59.64,92.7,,Y,PLACED,1.5,150000.0,3.0,5,2023-05-20,,student175@example.com,
+STU1176,Rishabh Gupta,23.0,Female,dewas,Madhya Pradesh,me,43.09,86.5,3.86,YES,Yes,,490000.0,5.0,1,2025-02-21,,student176@example.com,9145168545
+STU1177,Kavya Tiwari,19.0,M,delhi,Delhi,CIVIL,34.69,N/A,3.54,NO,,,150000.0,3.0,4,2023-12-11,cash,student177@example.com,9703462253
+STU1178,Arjun Mishra,,female,CALCUTTA,West Bengal,aiml,59.28,83.6, 5.91 ,Yes,not placed,5.99,599k,,0,2022-10-09,Cash,student178@example.com,9543778963
+STU1179,Rohan Sharma,25.0,male,Jaipur,Rajasthan,E.C.E,69.83 ,N/A,6.86,NO,No,4.94,494000.0,3.0,2,2022-07-25,CARD,student179@example.com,9406462391
+STU1180,Aditya Tiwari,18.0,female,Bangalore,Karnataka,me,,54.1,6.82,Yes,placed,6.34,634000.0, 6.0 ,1,2026-04-24,UPI,student180@example.com,
+STU1181,Yash Soni,25.0,,ujjain,Madhya Pradesh,Computer Science,70.73,,7.08,Y,Not Placed,5.91,?,5.0,2,2023-01-17,,student181@example.com,9788603957
+STU1182,Rohan Agrawal,26.0,FEMALE,gwalior,Madhya Pradesh,I.T.,59.36,67.1,6.0,,,2.34,,5.0,1,,,student182@example.com,9796091085
+STU1183,Ananya Chauhan,20.0,M,DELHI,Delhi,me,74.53,54.2,7.81,no,placed,6.94,694k,6.0,3,2022-01-29,CARD,student183@example.com,9193133974
+STU1184,Rahul Patel,28.0,FEMALE,Ujjain,Madhya Pradesh,IT,72.1,91.8,7.79,no,Placed,7.89,₹789000, 4.0 ,3,2022-07-15,,student184@example.com,9579678614
+STU1185,Muskan Joshi,23.0,Male,Delhi,Delhi,it,38.55,60.1 ,3.64,N,not placed,1.55,₹155000,0.0,5,2023-09-11,Cash,student185@example.com,9599714064
+STU1186,Pooja Soni,20.0,M,DELHI,Delhi,Civil,76.28,67.8,7.69,No,PLACED,,460000.0,5.0,4,2024-04-10,upi,student186@example.com,9335287540
+STU1187,Kavya Joshi,25.0,F,Mumbai,Maharashtra,E.C.E,58.22,58.3,,NO,not placed,1.5,150000.0,3.0,5,2022-11-10,Cash,student187@example.com,9664258474
+STU1188,Priya Verma,,Female,dewas,,Computer Science,52.39,92.8,4.91,no,placed,7.64,,2.0,2,2025-12-12,,student188@example.com,9224811770
+STU1189,Muskan Jain,21.0,Female,Bangalore,Karnataka,me,75.89,80.6,7.29,NO,Placed,6.78,,7.0,1,2026-01-08,Net Banking,student189@example.com,9590483627
+STU1190,Kavya Tiwari,18.0,M,nagpur,Maharashtra,Civil,58.79,79.7,6.78,Yes,Yes,4.79,479000.0,4.0,0,,upi,student190@example.com,9720956992
+STU1191,Priya Joshi,18.0,Female,Bhopal,Madhya Pradesh,,86.39,68.2,8.63,Yes,,10.18,1018000.0,7.0, 0 ,2024-05-17,cash,student191@example.com,9539017530
+STU1192,Neha Khan,20.0,MALE,Mumbai,Maharashtra,ECE,57.97,100.0,unknown,YES,Yes,3.13,313000.0,,5,2026-04-18,Card,student192@example.com,9801726890
+STU1193,Simran Mehta,19.0,,jaipur,,civil,78.12,91.6,8.03,no,Placed,3.51,351000.0,0.0,2,2023-01-01,,student193@example.com,9823164961
+STU1194,Simran Mehta,26.0,female,Kolkata,West Bengal,aiml,56.37,74.5, 5.61 ,NO,Not placed,4.79,479000.0,2.0,2,2024-05-18,,student194@example.com,9878488534
+STU1195,Neha Mishra,18.0,Male,Bhopal,Madhya Pradesh,AIML,70.84,59.3,7.22,no,Not Placed,6.54,654000.0,1.0,4,2025-09-14,UPI,student195@example.com,9579362443
+STU1196,Vivaan Singh,28.0,Male,Nagpur,Maharashtra,E.C.E,76.96,93.1,7.99,NO,,7.12,,?,1,2025-12-11,UPI,student196@example.com,9250469429
+STU1197,Muskan Khan,22.0,F,,Madhya Pradesh,AI-ML,66.88,54.7,6.84,Y,placed,?, 540000.0 ,8.0,1,2023-04-25,Net Banking,student197@example.com,9422660441
+STU1198,Muskan Soni,18.0,male,DELHI,Delhi,CIVIL,?,,6.86,YES,No,6.94,,0.0,2,,Net Banking,student198@example.com,9943751263
+STU1199,Neha Mehta,23.0,male,gwalior,Madhya Pradesh,I.T.,67.37,87.5 ,6.75,YES,placed,4.98,,8.0,3,2025-11-27,upi,student199@example.com,9341961866
+STU1200,Vivaan Yadav,20.0,MALE,Delhi,Delhi,E.C.E,83.01,,8.33,,Yes,5.83,583000.0,3.0,2,2024-08-06,,student200@example.com,9454617185
+STU1201,Priya Verma,19.0,,Bengaluru,Karnataka,CSE,61.05,73.7,6.18,Y,Yes, 3.4 ,344000.0,0.0,0,2024-07-10,upi,student201@example.com,9963987020
+STU1202,Karan Jain,28.0,female,Nagpur,Maharashtra,DS,88.09,65.5,8.74,N,PLACED,6.32,632000.0,0.0,1,2025-02-18,upi,student202@example.com,9896152940
+STU1203,Diya Joshi,25.0,female,BHOPAL,Madhya Pradesh,E.C.E,?,80.8,9.48,no,Not placed,5.25,525000.0,4.0,3,2023-05-12,,student203@example.com,9673002461
+STU1204,Rishabh Khan,23.0,FEMALE,Bengaluru,Karnataka,E.C.E,,unknown,7.26,No,No,7.4,N/A,5.0,1,2023-09-24,CARD,student204@example.com,9435997460
+STU1205,Aman Joshi,18.0,male,UJJAIN,Madhya Pradesh,C.S.E,59.72,,6.78,Y,Yes,4.3,430000.0,4.0,1,26/02/2025,upi,student205@example.com,9454190155
+STU1206,Aman Jain,24.0,F,Pune,Maharashtra,it,60.87,98.3,6.64,NO,No,3.86,386000.0,7.0,1,2025-03-12,CARD,student206@example.com,9281747678
+STU1207,Rahul Soni,26.0,Male,Mumbai,Maharashtra,ME,61.28,74.1,5.66,,Not Placed,2.07,207000.0,,0,2024-09-27,Net Banking,student207@example.com,9247630403
+STU1208,Rohan Sharma,21.0,female,,Karnataka,ME,51.93,67.3,5.18,NO,Not placed,3.62,362000.0,0.0,4,2022-05-20,,student208@example.com,9807901168
+STU1209,Simran Yadav,18.0,MALE,DEWAS,Madhya Pradesh,CSE,92.81,,,,PLACED,7.71,771000.0,8.0,2,2022-01-14,,student209@example.com,9639250352
+STU1210,Rahul Verma,28.0,Female,Kolkata,West Bengal,,67.21,87.4,,yes,not placed,5.15,515000.0,3.0,4,2024-05-31,cash,student210@example.com,
+STU1211,Aditya Khan,22.0,MALE,JAIPUR,Rajasthan,ECE,70.66,84.9,7.17,no,not placed,9.81,unknown,4.0,5,2024-03-23,Cash,student211@example.com,9801943382
+STU1212,Sneha Mehta,18.0,MALE,Bengaluru,Karnataka,Mechanical,57.8,70.6,5.56,NO,Placed,2.62 ,,0.0,5,2022-07-11,Card,student212@example.com,98765ABCDE
+STU1213,Ananya Mishra,24.0,Female,dewas,Madhya Pradesh,Mechanical,57.8,94.6,6.28,Yes,not placed, 3.38 ,338000.0,3.0,5,2025-08-13,,student213@example.com,9391086098
+STU1214,Rishabh Soni,19.0,Male, Indore ,Madhya Pradesh,AIML,54.68,84.6,5.27,N,Placed,,444000.0,3.0,4,2025-11-02,Card,student214@example.com,9907727084
+STU1215,Yash Patel,24.0,female,CALCUTTA,West Bengal,me,71.25,56.8,7.67,YES,Not placed,?,917000.0,6.0,5,2022-06-07,Card,student215@example.com,9948790854
+STU1216,Priya Sharma,19.0,Female,Kolkata,West Bengal,ECE,58.2,72.6,5.92,no,,4.61,461000.0,5.0,N/A,2024-10-22,Net Banking,student216@example.com,9930598266
+STU1217,Rishabh Chauhan,18.0,FEMALE,jaipur,Rajasthan,E.C.E,78.54,100.0,7.79,no,Not placed,4.63,463000.0,8.0,3,2025-07-22,,student217@example.com,9299434489
+STU1218,Sneha Verma,27.0,M,bengaluru,Karnataka,data science,45.93,,4.58,,Not Placed,5.77,577000.0,1.0,2,2025-09-15,Card,student218@example.com,9508021882
+STU1219,Sneha Khan,28.0,F,,West Bengal,cse,59.72,81.1,5.97,No,Placed,6.21,621000.0,4.0,3,2022-11-12,CARD,student219@example.com,9917489574
+STU1220,Aditya Patel,19.0,MALE,New Delhi,Delhi,ECE,100.0,70.6,9.83,YES,,,1019000.0,0.0,0,2022-09-29,CARD,student220@example.com,9695088987
+STU1221,Ananya Agrawal,27.0,MALE,BHOPAL,Madhya Pradesh,C.S.E,78.91,100.0,8.1,,Yes,,576000.0,6.0,0,2025-05-09,upi,,9714137833
+STU1222,Sneha Patel,20.0,male,Gwalior,Madhya Pradesh,,77.45,93.5,8.03,Y,PLACED,7.25,725000.0,7.0,1,2025-11-04,Cash,student222@example.com,9279537578
+STU1223,Yash Jain,22.0,Female,Ujjain,Madhya Pradesh,I.T.,85.07,94.4,8.99,Y,not placed,8.56,856000.0,7.0,4,,,student223@example.com,9591625191
+STU1224,Aarav Mehta,20.0,F,BHOPAL,Madhya Pradesh,DS,65.33,80.1,?,YES,Not placed,3.69,369000.0,7.0,2,2023-09-16,Net Banking,student224@example.com,9975610118
+STU1225,Yash Khan,27.0,female,bengaluru,Karnataka,,73.9 ,72.5,unknown,N,placed,7.9 LPA,794000.0,6.0,2,2022-10-06,cash,student225@example.com,9889065340
+STU1226,Muskan Chauhan,28.0,female,kolkata,West Bengal,I.T.,71.06,78.7,6.63,YES,PLACED,6.14,614000.0,6.0,2,2024-10-02,Cash,student226@example.com,9705429879
+STU1227,Rahul Tiwari,27.0,Male, PUNE ,Maharashtra,CIVIL,78.33,100.0,7.73,NO,not placed,6.4,640000.0,7.0,2,2025-01-22,Cash,student227@example.com,9979357576
+STU1228,Rohan Tiwari,28.0,M,ujjain,Madhya Pradesh,AI ML,71.99,?,7.17,,placed,5.89,,6.0,3,2024-10-19,Cash,student228@example.com,9582181718
+STU1229,Sneha Yadav,N/A,MALE,nagpur,Maharashtra,Mechanical,77.73,80.6,7.62,Yes,Not placed,6.23,623000.0,8.0,4,2025-04-07,Cash,student229@example.com,9217434526
+STU1230,Priya Patel,28.0,Male,pune,Maharashtra,Mechanical,,63.6,8.56,YES,, 5.66 ,566000.0,6.0,0,2025-09-23,UPI,,9205877984
+STU1231,Pooja Yadav,21.0,female,DELHI,Delhi,ECE,,56.7,8.52,N,Yes,7.55,755000.0,7.0,5,2024-11-11,Card,student231@example.com,9470405910
+STU1232,Yash Mehta,25.0,Female,indore,Madhya Pradesh,cse,93.05,77.1,9.11,yes,Not placed,10.91,1091000.0,4.0,2,2022-08-03,,student232@example.com,9942103498
+STU1233,Priya Jain,26.0,Female,Pune,Maharashtra,ECE,44.83,47.2,4.64,NO,Not placed,1.7,170000.0,1.0,2,2024-09-16,UPI,student233@example.com,9969930526
+STU1234,Ananya Tiwari,19.0,Female,Kolkata,West Bengal,CIVIL,51.66,87.9,5.25,yes,,,226000.0,8.0,1,2022-02-16,,invalid_email,9455397438
+STU1235,Aman Chauhan,24.0,MALE,Gwalior,Madhya Pradesh,CIVIL,47.52,90.2,4.98,yes,placed,,280000.0,6.0 ,3,2024-08-04,UPI,student235@example.com,9891764728
+STU1236,Muskan Mehta,21.0,MALE,Nagpur,Maharashtra,C.S.E,97.55,63.0,9.22,no,not placed,6.4 LPA,640000.0,4.0,5,2024-07-09,Cash,student236@example.com,9719922596
+STU1237,Priya Khan,26.0,female,Bhopal,,ece,,81.4,6.64,No,PLACED,5.44 ,544000.0,,4,2023-01-18,CARD,student237@example.com,9740992546
+STU1238,Muskan Verma,27.0,F,Ujjain,Madhya Pradesh,I.T.,47.98,98.2,4.77,NO,placed,4.76,476000.0,4.0,4,2024-03-14,Cash,student238@example.com,98216727
+STU1239,Aman Gupta,23.0,Female,MUMBAI,Maharashtra,AI-ML,73.48, 84.4 ,7.55,N,placed,6.61,661000.0,8.0,3,2022-08-30,,student239@example.com,9740407346
+STU1240,Neha Patel,27.0,FEMALE,Mumbai,Maharashtra,Civil,78.28,96.6, 7.9 ,yes,,?,,7.0,2,2024-02-25,Card,student240@example.com,9300895568
+STU1241,Vivaan Agrawal,unknown,F,Jaipur,Rajasthan,Computer Science,66.56,98.2,6.42,NO,placed,7.8,780000.0,3.0,3,2025-06-22,,student241@example.com,9539304662
+STU1242,Kavya Jain,25.0,male,Bangalore,,cse, 67.36 ,58.0,6.78,Yes,not placed,3.73,373000.0,4.0,0,2024-05-01,cash,student242@example.com,9341423782
+STU1243,Kavya Mishra,unknown,FEMALE,gwalior,,Mechanical,81.45,68.9,7.99,No,Not Placed,2.89,289000.0,4.0,4,2022-12-11,CARD,student243@example.com,9682014641
+STU1244,Karan Mehta,25.0,Female,Indore,Madhya Pradesh,Civil,60.76 ,,5.52,no,PLACED,4.94,494000 INR,0.0,3,2025-01-23,,,9474281674
+STU1245,Aman Singh,25.0,F,BHOPAL,Madhya Pradesh,Data Science,80.57,84.0,7.72,YES,placed,5.91,591000.0,2.0 ,1,2022-08-29,upi,student245@example.com,9964835149
+STU1246,Simran Gupta,27.0,male,indore ,Madhya Pradesh,IT,67.94 ,,7.32,Y,PLACED,7.13,,N/A,4,2023-12-20,Cash,student246@example.com,9245587477
+STU1247,Rohan Joshi,18.0,male,Ujjain,Madhya Pradesh,AIML,64.46,78.4,6.52,yes,Not placed,1.5,,3.0,5,2023-07-22,Net Banking,student247@example.com,9625552311
+STU1248,Rishabh Tiwari,N/A,MALE,mumbai,,ECE,64.05,68.5,6.05,NO,,3.65,365000.0,1.0,N/A,2025-07-19,,student248@example.com,9845932321
+STU1249,Ananya Mishra,25.0,Male,jaipur,Rajasthan,,96.76,87.0,9.48,No,No,8.96,896000.0,5.0,0,2024-09-26,Net Banking,student249@example.com,9333893106
+STU1250,Rishabh Khan,,M,UJJAIN,Madhya Pradesh,it,,90.9,9.06,yes,No,6.3,630000.0,5.0,5,10-Oct-2024,UPI,student250@example.com,9149330844
+STU1251,Aarav Verma,28.0,,Bhopal,Madhya Pradesh,ECE,79.17,83.5,8.23,NO,Placed,7.7,770000.0,6.0,1,2024-07-30,Card,student251@example.com,9797929178
+STU1252,Aditya Tiwari, 20.0 ,F,New Delhi,Delhi,IT,84.79,70.5,8.94,No,Not placed,unknown,769000.0,N/A,0,2023-07-16,Net Banking,student252@example.com,9771737478
+STU1253,Aditya Joshi,21.0,Female,delhi,Delhi,C.S.E,100.0,68.4,10.0,no,No,8.86,,1.0,1,2024-05-29,upi,student253@example.com,9657749020
+STU1254,Aarav Joshi,,F,Bengaluru,Karnataka,Data Science,,71.2,N/A,No,Yes,4.48,448000.0,2.0,3,2022-01-20,Cash,student254@example.com,9345829826
+STU1255,Arjun Verma,19.0,F,ujjain,Madhya Pradesh,IT,76.37,70.0,7.63,Y,placed,?,975000.0,6.0,1,,Card,student255@example.com,12345
+STU1256,Diya Tiwari,27.0,male,Gwalior,Madhya Pradesh,E.C.E,,84.1,unknown,N,not placed,8.25,825000.0,2.0,3,2022-01-18,,student256@example.com,9333264702
+STU1257,Arjun Mishra,19.0,MALE,BHOPAL,Madhya Pradesh,I.T.,77.82,,7.69,,Not placed,2.96,296000.0,unknown,1,2022-10-14,cash,student257@example.com,9792156071
+STU1258,Diya Mishra,21.0,M,Bhopal,Madhya Pradesh,DS,74.39,87.1,7.27,Yes,PLACED,8.33,833000.0 ,3.0,4,2025-02-07,upi,student258@example.com,
+STU1259,Vivaan Chauhan,22.0,female,ujjain,Madhya Pradesh,E.C.E,48.39,57.5,4.92,YES,Not Placed,4.8,480000.0,3.0,3,2025-08-16,Cash,student259@example.com,9667243311
+STU1260,Rohan Mehta,23.0,MALE, Indore ,Madhya Pradesh,IT,94.94,71.6, 9.87 ,yes,No,8.29,829000.0,1.0,0,2023-10-11,Cash,student260@example.com,
+STU1261,Vivaan Chauhan,21.0 ,MALE,DELHI,Delhi,me,65.24,90.4,6.75,Y,Yes,2.09,209000.0,6.0,5,2022-03-23,,student261@example.com, 9188506190
+STU1262,Diya Patel,,M,bengaluru,Karnataka,C.S.E,91.62,97.3,8.94,Y,Not Placed,8.05,805000.0,8.0,1,2025-01-06,Card,student262@example.com,9675944565
+STU1263,Aditya Gupta,,MALE,jaipur,Rajasthan,civil,75.9,81.6,7.4,no,Placed,4.43,443000.0,3.0,0,,Net Banking,student263@example.com,9224539647
+STU1264,Vivaan Gupta,27.0,male,Dewas,Madhya Pradesh,cse,67.59,94.4,6.95,Yes,placed,4.48,448000.0,0.0,1,2025-05-31,,student264@example.com,9472271797
+STU1265,Rishabh Patel,26.0,F,Gwalior,Madhya Pradesh,aiml,80.35,38.1,8.44,Y,Not Placed,3.65,365000.0,0.0,2,2026-01-16,Net Banking,student265@example.com,9392036942
+STU1266,Muskan Tiwari,19.0,Female,gwalior,Madhya Pradesh,ece,,62.3,5.77,NO,Not placed,5.94,594000.0,,3,2023-06-23,,student266@example.com,9494801749
+STU1267,Arjun Soni, 22.0 ,Female,Mumbai,Maharashtra,AI-ML, 60.52 ,82.9,6.04,Yes,Placed,5.0,500000.0,,1,2026-05-03,UPI,student267@example.com,9606553372
+STU1268,Rahul Soni,,Male,jaipur,Rajasthan,Mechanical,unknown,60.0,7.27,YES,not placed,4.61,N/A,5.0,1,2022-11-04,Net Banking,student268@example.com,12345
+STU1269,Muskan Khan,22.0 ,Female,Jaipur,Rajasthan,ME,43.09,72.0,4.83,Yes,placed,4.34,434000.0,3.0,4,2022-06-09,,student269@example.com,9530489781
+STU1270,Yash Khan,25.0,Female, Bhopal,Madhya Pradesh,me,62.42,73.1,6.13,NO,Placed,7.98,798000.0,5.0,1,,cash,,9705382875
+STU1271,Kavya Khan,27.0,FEMALE,Delhi,Delhi,Data Science,74.11,84.0 ,,no,not placed,6.48,648000.0,2.0,0,2023-05-12,,student.com,9125673445
+STU1272,Aarav Khan,26.0,Male, PUNE ,Maharashtra,DS,63.86,75.3,6.36,YES,PLACED,4.43,443000.0,1.0,1,N/A,,student272@example.com,9550773824
+STU1273,Rishabh Verma,18.0,Male,dewas,Madhya Pradesh,aiml,79.64,78.7,8.22,YES,Not placed,N/A,640000.0,7.0,5,2022-10-19,Cash,student273@example.com,9723597716
+STU1274,Sneha Verma,26.0,Male,bhopal,Madhya Pradesh,ece,69.26,50.0,7.25,yes,not placed,6.1,610000.0,4.0,2,2022-10-01,CARD,student274@example.com,9959870518
+STU1275,Kavya Gupta,23.0,female,ujjain,Madhya Pradesh,CSE,83.97,37.5,9.13,no,placed,7.29,729000.0 ,1.0,1,14/10/2023,Cash,student275@example.com,9276496293
+STU1276,Neha Verma,,F,dewas,Madhya Pradesh,DS,85.73,63.4,8.79,no,No,?,527000.0,4.0,3,2023-10-06,cash,student276@example.com,9228756206
+STU1277,Yash Agrawal,20.0 ,Male,BHOPAL,Madhya Pradesh,AI ML,58.02,100.0,5.74,N,placed,4.21,421000.0,1.0,5,2025-11-06,upi,student277@example.com,9481975879
+STU1278,Yash Gupta,26.0,male,Ujjain,Madhya Pradesh,C.S.E,81.92,84.9,,YES,No,,722000 INR,8.0,5,2022-04-11,,student278@example.com,9201710492
+STU1279,Arjun Sharma,19.0,Male,Dewas,Madhya Pradesh,DS,100.0,,10.0,no,placed,,1039000.0,3.0,3,N/A,CARD,student279@example.com,9836893185
+STU1280,Muskan Mishra,28.0,M,Bangalore,,DS,85.69,94.6,,,Placed,5.11,511000.0,1.0,1,2022-06-22,,student280@example.com,9968977829
+STU1281,Arjun Sharma,19.0,FEMALE,MUMBAI,Maharashtra,CSE,94.13,N/A,9.52,yes,Yes,6.61,661000.0,6.0,3,,UPI,student281@example.com,9510952606
+STU1282,Priya Singh,24.0,male,bengaluru,Karnataka,it,,82.6,6.81,Y,No,5.75,575000.0,2.0,0,2022-12-20,,student282@example.com,9795009888
+STU1283,Simran Jain,25.0,,New Delhi,Delhi,CSE,93.82,84.3,9.3,,,9.47 ,947k,2.0,3,2024-04-23,upi,student283@example.com,9790042893
+STU1284,Simran Chauhan,21.0,Male,gwalior,Madhya Pradesh,ECE,,60.8,8.91,N,,N/A,856000.0,8.0,3,2025-07-15,CARD,student284@example.com,9707363258
+STU1285,Rishabh Patel,23.0,Male,Gwalior,Madhya Pradesh,it,63.24,97.3,6.27,no,Placed,,462000.0,4.0,0,2024-03-06,,student285@example.com,9668473595
+STU1286,Rahul Verma,27.0,female,jaipur,Rajasthan,CIVIL,65.23,78.2,,no,PLACED,,N/A,8.0,5,22 April 2023,UPI,student286@example.com,9920392140
+STU1287,Priya Soni,27.0,male, PUNE ,Maharashtra,AI-ML,93.51,66.1,9.0,no,Not placed,3.52,?,5.0,4,2024-03-06,UPI,student287@example.com,9855326778
+STU1288,Muskan Patel,23.0,female,,West Bengal,data science,57.78,unknown,?,NO,PLACED,6.3,630000.0,2.0,3,2025-03-08,UPI,student288@example.com,91969131
+STU1289,Aman Sharma,21.0,FEMALE,indore,Madhya Pradesh,CSE,56.99,100.0,6.04,N,not placed,3.56,356000.0,2.0,2,unknown,Card,student289@example.com,9961596686
+STU1290,Rohan Mishra,18.0,male,Jaipur,Rajasthan,DS,28.01,,3.0,No,Not placed,1.5,150000.0,1.0,-1,2022-02-14,Net Banking,student290@example.com,9729230605
+STU1291,Ananya Patel,23.0,male,BHOPAL,Madhya Pradesh,civil,?,100.0,8.92,YES,No,8.33,N/A,unknown,1,2023-09-11,CARD,student291@example.com,
+STU1292,Sneha Gupta,27.0,M,Bangalore,Karnataka,AI ML,77.52,,8.02,yes,Placed,6.83,683000.0,6.0,4,2022-12-26,UPI,student292@example.com,9295508799
+STU1293,Aman Tiwari,,Female,Nagpur,Maharashtra,ECE,69.67,77.1,6.7,yes,Not placed,,436000.0,1.0,1,2025-06-06,CARD,student293@example.com,9443080569
+STU1294,Ananya Jain,28.0,Male,mumbai,Maharashtra,I.T.,40.91,76.6 ,3.74,no,not placed,1.5,150000.0,N/A,2,2022-07-01,cash,invalid_email,9945056299
+STU1295,Sneha Jain,18.0,MALE,Bhopal,Madhya Pradesh,AI ML,?,97.5,7.41,YES,No,2.82,282000.0,6.0,unknown,2022-04-09,Net Banking,student295@example.com,9208908082
+STU1296,Aman Patel,27.0,FEMALE,dewas,Madhya Pradesh,CSE,52.17,,4.87,Yes,PLACED,N/A,245000.0,0.0,2,2025-08-26,cash,student296@example.com,9212447665
+STU1297,Sneha Patel,23.0,Female, Bhopal,Madhya Pradesh,ME,76.8,64.4,7.72,No,Not placed, 3.59 ,359000.0,7.0,5,2022-12-15,UPI,student297@example.com,9563129902
+STU1298,Neha Patel,20.0,Male,Bengaluru,Karnataka,CSE,58.38,82.5, 5.28 ,N,not placed,,410000.0,3.0,3,2025-05-28,cash,student.com,9809311588
+STU1299,Arjun Sharma,22.0,MALE,delhi,Delhi,me,67.69,,6.85,NO,placed,7.49,749000.0,,2,2023-05-02,UPI,student299@example.com,9559138405
+STU1300,Diya Jain,22.0,female,,Madhya Pradesh,Computer Science,70.0,72.0,,Yes,not placed,6.22,622000.0,2.0,5,2025-09-17,cash,student300@example.com,9187978213
+STU1301,Sneha Jain,19.0,FEMALE,Dewas,Madhya Pradesh,civil,68.78,78.6,N/A,Y,Not Placed,,360000.0,8.0,3,2023-09-24,Card,student301@example.com,9498380251
+STU1302,Kavya Sharma,23.0 ,M,UJJAIN,Madhya Pradesh,E.C.E,N/A,100.0,4.12,NO,PLACED,1.5,150000.0,3.0, 2 ,2023-01-18,UPI,student302@example.com,9262275325
+STU1303,Aditya Tiwari,28.0,,CALCUTTA,West Bengal,Data Science,56.51,90.5,5.55,YES,not placed,5.85,585000.0,8.0,0,2022-07-18,Net Banking,student303@example.com,9978755907
+STU1304,Isha Mishra,24.0,female,Gwalior,,ECE,57.22,81.9,5.43,Y,Not Placed,7.33,733000.0,6.0,5,2025-01-01,UPI,student304@example.com,9639127345
+STU1305,Diya Patel,26.0 ,Female,Nagpur,Maharashtra,data science,49.0,,5.12,NO,placed,3.88, 388000.0 ,2.0,1 ,2025-03-16,upi,invalid_email,9235491190
+STU1306,Neha Singh,24.0,male,indore ,Madhya Pradesh,Data Science,65.04,76.2,,Y,Not placed,4.41,,1.0,0,2022-06-10,Net Banking,student306@example.com,9697391512
+STU1307,Rishabh Yadav,26.0,,Ujjain,Madhya Pradesh,DS,83.42,100.0,8.15,Yes,Yes,?,400000.0,1.0,3,2023-10-30,,student307@example.com,9259128258
+STU1308,Arjun Soni,27.0,Female,Nagpur,Maharashtra,ME,66.59,,6.38,No,PLACED,7.47,747000.0,8.0,2,2025-04-08,Net Banking,student.com,9383614547
+STU1309,Muskan Mishra,28.0,FEMALE,Ujjain,Madhya Pradesh,CSE,94.84,70.2,9.68,yes,,11.1lpa,1108000.0,6.0,1,2024-09-21,Net Banking,student309@example.com,9141642429
+STU1310,Aman Sharma,23.0,FEMALE,Ujjain,Madhya Pradesh,I.T.,61.93,75.1,,N,Placed,2.26,,5.0,2,2025-11-15,cash,student310@example.com,9401019924
+STU1311,Aman Patel,28.0,M,,Madhya Pradesh,civil,57.61,60.9,?,NO,Not placed,2.46,N/A,4.0 ,5,2022-07-21,Net Banking,student311@example.com,9749591392
+STU1312,Kavya Singh,19.0,MALE,Bangalore,Karnataka,civil,71.74,56.2,7.29,,Not placed,7.02,,0.0,25,,Card,,9170455681
+STU1313,Rohan Chauhan,26.0,,,Delhi,AI ML,36.1,83.2,4.04,no,not placed,,150000.0,0.0,1,2024-04-06,UPI,student313@example.com,9590108029
+STU1314,Karan Gupta,23.0,F,INDORE,Madhya Pradesh,Data Science,94.76,83.9,9.23,NO,Yes,7.55 ,755000.0,1.0,5,14 December 2025,UPI,student314@example.com,9359779054
+STU1315,Kavya Patel,25.0,FEMALE,jaipur,Rajasthan,Mechanical,76.93,79.1,7.88,N,Not placed,4.51,451000.0,2.0,2,2025-05-01,Cash,student315@example.com,9406090918
+STU1316,Rahul Agrawal,,female,Indore,Madhya Pradesh,data science,70.71,58.2,7.03,no,not placed,3.61,,3.0,2,2022-04-12,Net Banking,student316@example.com,9651131533
+STU1317,Isha Soni,28.0,, Indore ,Madhya Pradesh,civil,56.23,unknown,,yes,Placed,5.2 ,520000.0,3.0,2,2022-01-19,cash,student317@example.com,9865299271
+STU1318,Neha Soni,28.0,,Kolkata,West Bengal,Data Science,50.52,73.6,5.48,N,No,,378000.0,4.0,1,2023-07-18,,student318@example.com,9424425818
+STU1319,Sneha Mishra,26.0,Female,Bangalore,Karnataka,Computer Science,100.0,83.5,10.0,N,PLACED,7.94,794000.0,4.0,5,2025-07-01,Cash,student319@example.com,9617262695
+STU1320,Ananya Agrawal,23.0,M, Bhopal,Madhya Pradesh,it,70.14,75.9,7.26,Y,not placed,7.2lpa,721000.0,2.0,4,2023-07-21,upi,student320@example.com,9160961339
+STU1321,Ananya Tiwari,24.0,male,Nagpur,Maharashtra,Civil,55.42,59.4,unknown,,No,3.8,380000.0,4.0,2,2025-09-14,Net Banking,student321@example.com,9534434754
+STU1322,Muskan Agrawal,18.0,female,ujjain,Madhya Pradesh,,,47.9, 5.17 ,no,No,7.67,767000.0,5.0,4,2025-04-09,cash,student322@example.com,9282521788
+STU1323,Yash Verma,26.0,FEMALE,Bengaluru,,AI-ML,?,89.7,6.82,Y,,4.82,482000.0,5.0,5,2023-01-06,Cash,student323@example.com,9338642889
+STU1324,Yash Mehta,21.0,F,jaipur,Rajasthan,it,82.71,73.9,8.36,Y,PLACED,7.28,,7.0,0,2026-03-05,,student324@example.com,9157635190
+STU1325,Diya Verma,27.0,FEMALE,Bengaluru,Karnataka,,?,91.9,5.67,No,Yes,2.38,unknown,N/A,2,2025-04-03,Net Banking,student325@example.com,91580485
+STU1326,Ananya Mehta,20.0,FEMALE,Mumbai,Maharashtra,AI ML,76.58,65.4,7.67,N,placed,5.92,592000.0,1.0,3,2023-02-15,CARD,student326@example.com,9777566277
+STU1327,Vivaan Sharma,23.0,FEMALE,mumbai,Maharashtra,I.T.,85.37,84.6, 8.53 ,no,placed,8.35,835000.0,2.0,3,2025-07-23,,student327@example.com,9238948590
+STU1328,Neha Mehta,?,MALE,nagpur,Maharashtra,ECE,90.24,85.8,9.03,YES,Placed,5.07,507000.0,0.0,4,2025-07-21,, student328@example.com,9884539206
+STU1329,Pooja Singh,18.0,Male,jaipur,Rajasthan,Civil,50.96,73.7,4.88,Yes,not placed,2.53,253000.0,3.0,5,2023-10-22,CARD,student329@example.com,9435106513
+STU1330,Pooja Mishra,19.0,M,Mumbai,Maharashtra,AIML,68.91,85.4,6.87,No,Placed,5.9lpa,unknown,4.0,2,2024-02-25,,student330@example.com,9881503560
+STU1331,Ananya Mehta,27.0,male,gwalior,Madhya Pradesh,IT,69.03,50.3,6.57,NO,Not placed,4.47,,3.0,1,2024-12-09,Net Banking,student331@example.com,9120535029
+STU1332,Rohan Singh,21.0,Male, PUNE ,Maharashtra,me,48.64,86.4,N/A,yes,Not Placed,5.63,563000.0,5.0,5,2026-01-29,UPI,student332@example.com,9502859804
+STU1333,Simran Mishra,22.0,Male,Bangalore,Karnataka,ME,64.58,98.9,6.51,Yes,Not Placed,4.05,405000.0,0.0,0,2026-04-29,Cash,student333@example.com,9547509357
+STU1334,Simran Gupta,24.0,,,Madhya Pradesh,civil,58.19,73.8,5.68,yes,not placed,4.05,405000.0,0.0,2,2022-09-11,Net Banking,student334@example.com,9810456933
+STU1335,Rishabh Mishra,28.0,male,BHOPAL,Madhya Pradesh,ECE,unknown,78.0,7.21,No,Not Placed,7.57,757000.0,4.0,0,2024-12-01,Cash,student335@example.com,9634443249
+STU1336,Rishabh Agrawal,27.0,female,Pune,Maharashtra,it,83.19,57.2,7.43,YES,PLACED,7.3 LPA,735000.0,2.0,0,2023-02-14,,student336@example.com,9323009714
+STU1337,Aman Sharma, 25.0 ,Male,CALCUTTA,West Bengal,Civil,46.13,74.9,4.2,No,, 1.5 ,150000.0,7.0, 1 ,2023-11-09,,student337@example.com,9937009907
+STU1338,Arjun Soni,19.0,M,gwalior,Madhya Pradesh,,?,88.6,7.46,no,No,1.5,150000.0, 4.0 ,2,2026-01-21,,student338@example.com,9153773200
+STU1339,Yash Khan,20.0,F,Bhopal,Madhya Pradesh,ECE,59.26,83.5,5.41,,Not Placed,3.78,378000.0,0.0,0,2022-03-22,Card,student339@example.com,9812272035
+STU1340,Priya Soni,20.0,FEMALE,bengaluru,Karnataka,me,67.76,86.1,6.82,Y,Not Placed,,325000.0,5.0,2,2023-11-05,Card,student340@example.com,9222226183
+STU1341,Rishabh Agrawal,24.0,MALE,UJJAIN,Madhya Pradesh,Civil,87.15,75.8,8.71,NO,Yes,5.4,540000.0,2.0,0,2024-07-23,Card,student341@example.com,9847506709
+STU1342,Arjun Mehta,,FEMALE,Kolkata,West Bengal,data science,60.91,65.6,6.03,NO,placed,7.21,721000.0,,2,,UPI,student342@example.com,9834937767
+STU1343,Isha Verma,20.0,MALE,kolkata,West Bengal,ECE,46.05,N/A,5.12,Yes,Not Placed,2.76,276000.0,4.0,5,2024-09-16,CARD,student343@example.com,9113271672
+STU1344,Muskan Joshi,28.0,female,kolkata,West Bengal,civil,57.29,92.6,5.52,N,Not Placed,6.86,686000.0,6.0,5,2024-12-10,upi,student344@example.com,9617468048
+STU1345,Sneha Patel,28.0,Male,Jaipur,Rajasthan,C.S.E,78.85,,?,yes,No,5.91,591000.0,7.0,1,10-17-2025,Cash,student345@example.com,9906841821
+STU1346,Ananya Gupta,23.0,Male,dewas,Madhya Pradesh,ME,79.87,82.2,8.44,no,Yes,unknown,959000.0,6.0,1,2023-05-09,Cash,student346@example.com,9592949064
+STU1347,Aditya Agrawal,27.0,FEMALE,Dewas,Madhya Pradesh,ECE,68.51,67.5,7.01,N,Not Placed,3.99,,7.0,5 ,2024-07-06,UPI,student347@example.com,9210212429
+STU1348,Simran Yadav,24.0,Male,ujjain,Madhya Pradesh,DS,?,,9.87,No,PLACED,?,869000.0,8.0,4,2022-03-15,upi,student348@example.com,9802867083
+STU1349,Priya Agrawal,25.0,Male,Bengaluru,Karnataka,DS,46.45,64.4,5.07,no,,1.89,189000.0,5.0,4,2023-11-30,,student349@example.com,9869505738
+STU1350,Kavya Verma,23.0,Female,,Karnataka,,51.25,85.5,5.54,no,Placed,4.89,489000.0,unknown,2,2026-01-06,,student350@example.com,96880782
+STU1351,Arjun Sharma,23.0,male,gwalior,Madhya Pradesh,ECE,83.94,67.4,7.9,yes,Yes,8.89,889000.0,1.0,2,2025-12-08,upi,student351@example.com,9301373196
+STU1352,Kavya Agrawal,24.0,female,Bhopal,Madhya Pradesh,Civil,62.84,74.5,6.75,N,Not Placed,5.93,593000.0,6.0,0,18/03/2023,Cash,student352@example.com,9929084565
+STU1353,Muskan Yadav,N/A,male,DEWAS,Madhya Pradesh,ECE,75.29,100.0,7.3,Yes,Placed,7.2,720000.0,8.0,3,,,student353@example.com,9645818292
+STU1354,Rohan Verma,27.0,MALE,MUMBAI,Maharashtra,Civil,68.91,81.8,?,N,Yes,6.59,659000.0,6.0,4,2022-12-22,upi,student354@example.com,9393771337
+STU1355,Kavya Chauhan,23.0,male,Ujjain,Madhya Pradesh,AIML,,93.0,7.53,YES,PLACED,unknown,427000.0,8.0,2,2023-08-26,upi,student355@example.com,9315703009
+STU1356,Yash Tiwari,27.0,F, PUNE ,Maharashtra,CIVIL,51.28,50.5,5.85,yes,placed,,195000.0,8.0,N/A,2026-01-03,CARD,student356@example.com,9862735437
+STU1357,Isha Mishra,23.0,MALE,bhopal,Madhya Pradesh,civil,64.46,74.1,6.55,Y,Yes,6.17,617000.0,0.0,4,2025-02-25,,student357@example.com,9127135757
+STU1358,Vivaan Singh,20.0,M,Ujjain,Madhya Pradesh,Data Science,81.77,69.8,8.12,,PLACED,6.94,694000.0,4.0,N/A,2022-04-19,UPI,student358@example.com,9841520570
+STU1359,Simran Sharma,21.0,,delhi,Delhi,,64.02,100.0,6.57,NO,Not Placed,6.05,605000.0,8.0,1,2026-03-24,,student359@example.com,9355116198
+STU1360,Vivaan Soni,22.0,,Gwalior,Madhya Pradesh,E.C.E,78.61,94.4,7.92,YES,Not placed,3.88,,8.0,0,2025-11-20,UPI,student360@example.com,9898509546
+STU1361,Kavya Agrawal,21.0,female,DELHI,Delhi,CIVIL,N/A,,7.25,N,not placed,,653000.0,3.0,2,2025-06-24,,student361@example.com,9290509600
+STU1362,Rahul Joshi,19.0,,Bangalore,Karnataka,ece,87.81,78.3,8.89,Yes,Yes,,,4.0,4,2023-01-18,cash,,9239657875
+STU1363,Aarav Khan,27.0,FEMALE,mumbai,Maharashtra,CIVIL,71.85,100.0,7.38,yes,Placed,?,245000.0,2.0,2 ,07-Jun-2023,UPI,student363@example.com,9930712117
+STU1364,Yash Jain,27.0,F,Bengaluru,Karnataka,Computer Science,80.05,83.3,8.46,N,not placed,8.02,unknown,2.0,4,2025/09/17,Cash,student364@example.com,9944238354
+STU1365,Simran Yadav,20.0,MALE,gwalior,Madhya Pradesh,Computer Science,65.78,60.9,6.5,N,not placed,3.12,312000.0,3.0,5,2024-05-01,CARD,student365@example.com,9455479984
+STU1366,Diya Yadav,22.0,FEMALE,Jaipur,Rajasthan,Mechanical,58.71,86.2,6.46,Yes,Not Placed,5.32,532000.0,5.0,unknown,2023-03-24,upi,student366@example.com,9789626099
+STU1367,Vivaan Tiwari,N/A,F,nagpur,Maharashtra,ECE,48.87,84.2,5.31,No,Yes,,224000.0,4.0,4,2023-05-15,cash,student367@example.com,9126527569
+STU1368,Pooja Jain,23.0,FEMALE,Gwalior,Madhya Pradesh,,65.86,78.2,6.31,Y,,5.61,561000 INR,5.0,4,19-Nov-2024,Cash,student368@example.com,9203032434
+STU1369,Aarav Tiwari,26.0 ,Female,Mumbai,Maharashtra,AI ML,unknown,83.9,6.3,,,,364000.0,1.0,1,,Net Banking,student369@example.com,9794239754
+STU1370,Aarav Jain,28.0,F, Bhopal,Madhya Pradesh,CSE,79.56,72.8,8.56,No,Not Placed,6.2,620000.0,0.0,1,2022-11-11,cash,student370@example.com,9699238353
+STU1371,Rishabh Mehta,27.0,MALE,bhopal,Madhya Pradesh,E.C.E,71.59,91.1,,YES,Yes,,166000.0,5.0,0,2023-04-12,Net Banking, student371@example.com,9822949013
+STU1372,Diya Verma,26.0,Male, Bhopal,Madhya Pradesh,civil,,?,4.17,No,,6.69,669000.0,,0,2022-01-13,cash,student372@example.com,9944918740
+STU1373,Aditya Gupta,22.0,FEMALE,Bengaluru,Karnataka,ECE,58.97,80.6,,YES,Placed,8.19,819000.0,?,1,2025-05-27,upi,student373@example.com,9246438473
+STU1374,Yash Tiwari,24.0,male,CALCUTTA,,I.T.,100.0,94.9,10.0,N,Placed,9.57, 957000.0 ,8.0,4,,Card,student374@example.com,9232322744
+STU1375,Diya Mehta,18.0,Female,Indore,Madhya Pradesh,I.T.,80.45,70.3,7.76,no,Not placed,6.03,603000.0,3.0,3,2025-03-18,Card,student375@example.com,9272823429
+STU1376,Rishabh Singh,21.0,Female,Mumbai,Maharashtra,aiml,65.28,71.7,6.77,,No,6.67,667000.0,8.0,0,2025-06-17,cash,student376@example.com,9821216549
+STU1377,Karan Joshi,22.0,FEMALE,BHOPAL,Madhya Pradesh,it,69.41,98.7,6.54,N,placed,4.35,435000.0,3.0,0,2022-07-21,cash,student377@example.com,9765200007
+STU1378,Isha Jain,21.0,F,BHOPAL,Madhya Pradesh,me,?,51.9,5.62,,placed,3.46,346000.0,5.0,2,2023-10-13,,student378@example.com,9281075299
+STU1379,Aman Joshi,23.0,MALE, Indore ,Madhya Pradesh,,92.22,86.8,8.86,N,placed,10.58,1058000.0,5.0,3,2023-05-20,,student379@example.com,9578199481
+STU1380,Simran Verma,22.0,male,Jaipur,Rajasthan,,87.54,86.1,8.67,No,PLACED,5.31,531000.0,,4,2024-09-24,upi,student380@example.com,9382646055
+STU1381,Aditya Soni,?,Male,CALCUTTA,West Bengal,Data Science,62.04,93.2,6.86,Yes,Yes,7.82,782000.0,3.0,0,2022-06-06,cash,student381@example.com,9683545743
+STU1382,Rohan Khan,25.0,MALE,Gwalior,Madhya Pradesh,AI ML,60.18, 62.3 ,6.07,,placed,unknown,150000.0,7.0,4,2025-09-01,Cash,student382@example.com,9526044822
+STU1383,Aman Agrawal,26.0,male,JAIPUR,Rajasthan,DS,73.17,75.9,7.15,yes,No,2.49,249000.0,,1,2022-01-22,,student383@example.com,9890187877
+STU1384,Vivaan Singh,25.0,FEMALE,CALCUTTA,West Bengal,AI ML,76.22,70.5,7.21,No,PLACED,1.5,,5.0,1,2024-01-05,UPI,student384@example.com,9817888322
+STU1385,Sneha Jain,26.0,FEMALE, PUNE ,Maharashtra,C.S.E,67.56,100.0,,Yes,Not placed,4.75,₹475000,1.0,5,2024-01-10,cash,student385@example.com,9996437267
+STU1386,Simran Mishra,22.0,male,Kolkata,,ECE,58.36,84.6,5.49,YES,Not placed,4.08,408000.0,1.0,4,03-31-2025,cash,student386@example.com,9504079950
+STU1387,Priya Agrawal,26.0,F, PUNE ,Maharashtra,ece,80.26,95.2,?,NO,Placed,5.92,,8.0,1,2024/04/11,,student387@example.com,9277817899
+STU1388,Rishabh Singh,19.0,male,Pune,Maharashtra,aiml,53.95,,5.32,yes,Not placed,4.01, 401000.0 ,1.0,5,2024-11-19,upi,student388@example.com,9545188049
+STU1389,Isha Jain,19.0,female,Jaipur,Rajasthan,me,82.62,66.8,8.78,yes,Yes,6.67,667000.0,0.0,1,2024-09-13,UPI,student389@example.com,9237315592
+STU1390,Rohan Tiwari,?,Male,Nagpur,Maharashtra,,N/A,67.5,5.92,yes,Placed,5.6,N/A,2.0,2,2022-11-26,Card,student390@example.com,9654738715
+STU1391,Aarav Soni,27.0,M,,Madhya Pradesh,C.S.E,79.79,74.1,8.0,no,No,7.23, 723000.0 ,7.0,3,2025-02-28,,student391@example.com,9335540097
+STU1392,Muskan Agrawal,,male,UJJAIN,,ME,43.0,?,4.58,Y,placed,1.5,150000 INR,5.0,3,2022-10-20,Cash,student392@example.com,9346760672
+STU1393,Arjun Sharma,24.0,female,ujjain,Madhya Pradesh,ME,72.7,59.0,7.43,YES,placed,N/A,561000.0,1.0,1,2022-09-28,,student393@example.com,9760080817
+STU1394,Pooja Chauhan,18.0,Female,nagpur,Maharashtra,C.S.E,42.16,94.3,3.96,NO,placed,1.5,,8.0,0,2024-12-24,Net Banking,student394@example.com,9660540722
+STU1395,Pooja Mehta,23.0,female,Ujjain,Madhya Pradesh,DS,71.21,94.1,6.77,NO,,?,506000.0,5.0,?,2022-03-30,Cash,student395@example.com,9556865760
+STU1396,Aman Soni,22.0,Female,mumbai,Maharashtra,I.T.,,87.7,7.55,YES,PLACED,,514000.0,3.0,unknown,2024-09-04,UPI,student396@example.com,9720608968
+STU1397,Aarav Mehta,19.0,female,gwalior,Madhya Pradesh,CIVIL,N/A,,5.1,N,Yes,N/A,150000.0,5.0,0,,Card,student397@example.com,9557490881
+STU1398,Rishabh Agrawal,27.0,,bengaluru,Karnataka,Mechanical,74.98,90.7,6.67,N,PLACED,3.02,,6.0,1,2023-06-04,Net Banking,student398@example.com,9692818173
+STU1399,Priya Yadav,25.0,FEMALE,gwalior,Madhya Pradesh,it,77.91,100.0,7.8,Y,Not placed,4.77,477000.0,6.0,5,2023-01-02,Card,student399@example.com,9807899575
+STU1400,Rahul Verma,21.0,female,Bhopal,Madhya Pradesh,ME,65.07,97.2,6.28,YES,Not placed,2.97,297000.0,8.0,4,N/A,UPI,student@@example.com,9272591127
+STU1401,Aditya Agrawal,28.0,male,,Madhya Pradesh,E.C.E,60.28,64.7,6.07 ,YES,,7.1,710000.0,1.0,2,2022-01-11,upi,student401@example.com,9498181191
+STU1402,Sneha Soni,27.0,MALE,Bhopal,Madhya Pradesh,ME,73.17,74.5,?,Y,Placed,2.62,,2.0,5,2022-03-19,,student@@example.com,9571342650
+STU1403,Pooja Gupta,21.0,female, Indore ,Madhya Pradesh,cse,82.13,76.9,8.15,no,placed,12.21,,,2,2025-09-07,upi,student403@example.com,9803321425
+STU1404,Rishabh Chauhan,20.0 ,MALE, Indore ,Madhya Pradesh,I.T.,N/A,67.5,7.13,YES,Yes,7.41,741000.0,3.0,4,2022-06-27,UPI,student404@example.com,9891267770
+STU1405,Simran Gupta,19.0,F,Kolkata,,I.T.,69.81,,7.3,Y,not placed,4.33,433000.0,unknown,3,2022-07-04,,student405@example.com,9717301394
+STU1406,Neha Yadav,22.0,Female,Indore,Madhya Pradesh,ME,97.97,93.1,9.64,,PLACED,10.41,1041000.0,5.0,0,25-Dec-2022,,student406@example.com,9677569362
+STU1407,Kavya Mehta,?,FEMALE,nagpur,Maharashtra,Data Science,,89.9,7.08,no,Not placed,3.76,376000.0,7.0,5,2025-11-22,,student407@example.com,9730100172
+STU1408,Rishabh Verma,25.0,MALE,INDORE,Madhya Pradesh,CIVIL,57.7,92.4,5.65,,not placed,,299000.0,5.0,3,2022-08-27,CARD,invalid_email,9654592182
+STU1409,Rishabh Singh,18.0,M,gwalior,Madhya Pradesh,Computer Science,52.72,83.9,5.99,YES,Not placed,2.17,217000.0,unknown,4,2025-12-06,Card,student409@example.com,9611697526
+STU1410,Muskan Gupta,N/A,male,jaipur,Rajasthan,Civil,68.39,97.8,6.81,no,,5.81,?,3.0,1,2023-03-24,upi,student410@example.com,9384976854
+STU1411,Aman Agrawal,21.0,F, PUNE ,Maharashtra,,51.0,84.0,,,Not Placed,4.81,481000.0,unknown,5,2023-02-20,,student411@example.com,9759091699
+STU1412,Isha Khan,26.0,F,indore,Madhya Pradesh,ECE,87.0,100.0,N/A,Y,No,7.88,788000.0,2.0,4,2022-03-28,cash,student412@example.com,9527219856
+STU1413,Vivaan Yadav,,MALE,Pune,Maharashtra,ece,71.11,73.1,7.23,Yes,Not placed,4.92,492000.0,6.0,5,2022-09-20,Card,student413@example.com,9590910502
+STU1414,Ananya Joshi,26.0,Male,Bhopal,Madhya Pradesh,CSE,70.7,96.4,6.72,no,Yes,6.94,694000.0,1.0,2,,CARD,student414@example.com,9757965465
+STU1415,Rishabh Singh,20.0,M,delhi,Delhi,ece,89.07,76.3,8.16,N,Not placed,5.38,538000.0,2.0,3,2025-01-28,,student415@example.com,9326057528
+STU1416,Sneha Gupta,23.0,FEMALE,Ujjain,Madhya Pradesh,AI-ML,,77.7,8.53,yes,not placed,5.97,597000.0,1.0, 5 ,2024-01-18,,student416@example.com,9963382466
+STU1417,Sneha Singh,26.0,male, PUNE ,Maharashtra,DS,81.45,85.7,8.06,yes,No,5.71,571000.0,0.0,1,2024-06-04,Net Banking,student417@example.com,9636439085
+STU1418,Simran Joshi,28.0,,mumbai,Maharashtra,data science,61.73,65.1,6.74,,PLACED,N/A,433000.0,4.0,4,2024-11-24,UPI,student418@example.com,9527780790
+STU1419,Karan Agrawal,,M, Bhopal,Madhya Pradesh,ECE,87.47,99.3,9.1,No,No,6.73,673000.0,5.0 ,2,2022-05-03,CARD,student419@example.com,9486876247
+STU1420,Priya Sharma,26.0,MALE,gwalior,Madhya Pradesh,cse,74.46,77.7,7.13,N,not placed,5.93,593000.0,8.0,N/A,2023-06-12,,student420@example.com,9481295430
+STU1421,Isha Chauhan,28.0,FEMALE,JAIPUR,Rajasthan,CSE,49.14,,4.75,YES,PLACED,3.09,309000.0,7.0,5,2024-11-11,Card,student421@example.com,9279932861
+STU1422,Diya Mishra,?,MALE,Bengaluru,Karnataka,data science,72.53,unknown,7.46,No,Not Placed, 4.85 ,485000.0, 2.0 ,2,2024-05-13,upi,student422@example.com,9436598800
+STU1423,Rishabh Mishra,28.0,MALE,Jaipur,Rajasthan,IT,81.94,59.2,8.24,NO,Not placed,10.05,1005000.0,8.0,3,2023-08-20,,student423@example.com,9279656450
+STU1424,Aman Tiwari,18.0,M,mumbai,Maharashtra,CIVIL,51.99,68.5,5.38,No,not placed,3.74,374000.0,N/A,3,2022-09-14,Cash,student424@example.com,9202600029
+STU1425,Vivaan Sharma,25.0,MALE,Bhopal,Madhya Pradesh,Mechanical,73.61,84.8,7.58,No,Not Placed,7.84,784000.0,4.0,4,,Card,student425@example.com,9190528528
+STU1426,Aman Singh,24.0,M,Bangalore,Karnataka,ECE,74.56,74.6,7.69,yes,placed,9.38,,8.0,1,2023-09-26,UPI,student426@example.com,9137747372
+STU1427,Isha Jain,23.0,M,Bangalore,Karnataka,Mechanical,65.88,64.4,6.98,NO,placed,4.96,₹496000,8.0,1,2023-10-29,,student427@example.com,9777582116
+STU1428,Neha Yadav,28.0,M,Kolkata,West Bengal,I.T.,33.24,N/A,3.14,NO,not placed,1.5,150000.0, 1.0 ,3,2025-03-01,,student428@example.com,9492756851
+STU1429,Yash Sharma,22.0,,UJJAIN,Madhya Pradesh,me,73.31,80.7,7.58,yes,Not placed,5.05,505000.0,4.0,3,2022-11-15,UPI,student429@example.com,9838487369
+STU1430,Aarav Chauhan,25.0,MALE,dewas,Madhya Pradesh,Data Science,76.21,74.4,7.88,Y,not placed,7.28,728000.0,0.0,4,2023-09-06,CARD,student430@example.com,
+STU1431,Sneha Singh,26.0,male,Ujjain,Madhya Pradesh,civil,53.03,93.2,5.12,YES,Yes,4.59,459000.0,3.0,unknown,2024-06-14,Cash,student431@example.com,9553376084
+STU1432,Diya Chauhan,21.0,M,Bengaluru,,it,73.88,100.0,7.31,Y,Yes,4.91,491000.0,,0,2024-11-24,Card,student432@example.com,9246698943
+STU1433,Kavya Mishra,19.0,FEMALE,Delhi,Delhi,it,,73.8,7.05,NO,not placed,2.35,235000.0,5.0,0,2025-07-28,Card,student433@example.com,9153292024
+STU1434,Arjun Gupta,,M,Gwalior,Madhya Pradesh,AI-ML,51.14,63.1,5.45,NO,Placed,6.57,657000.0,3.0,0,2023-01-16,Card,student434@example.com,9115810687
+STU1435,Neha Gupta,21.0,FEMALE,DEWAS,Madhya Pradesh,IT,66.33,75.6,6.66,NO,Placed,6.92,692000.0,5.0,0,2023-12-02,Card,student@@example.com,9160170716
+STU1436,Simran Jain,24.0,male,DELHI,Delhi,AI ML,53.16,81.3,5.66,,Yes,,463000.0,,0,2022-05-27,upi,,9513173592
+STU1437,Vivaan Singh,21.0,,Dewas,Madhya Pradesh,,71.03,92.0,6.16,No,not placed,5.5,550000.0,7.0,3,2026-02-19,cash,student437@example.com,9446886458
+STU1438,Vivaan Joshi,28.0,Female,mumbai,Maharashtra,it,57.53,52.4,5.93,NO,PLACED,6.5,,3.0 ,2,2026-01-31,UPI,student438@example.com,9815858075
+STU1439,Neha Khan,19.0,Male,Pune,Maharashtra,AIML,65.8,91.3,7.14,Y,Not Placed,7.72,772000.0,6.0,1,2023-04-29,UPI,student439@example.com,9145090037
+STU1440,Diya Patel,25.0,F,nagpur,Maharashtra,Data Science,94.24,88.4,9.45,No,not placed,5.01,501000.0,2.0,3 ,2025-11-10,Cash,student440@example.com,9836527450
+STU1441,Vivaan Sharma,23.0,F,Nagpur,Maharashtra,Civil,64.06,66.2 ,7.17,yes,Not Placed,5.07,507000.0,,3,2026-04-05,upi,student441@example.com,9440096507
+STU1442,Priya Chauhan,28.0,FEMALE,Gwalior,Madhya Pradesh,Civil,69.97,,7.01,no,Placed,8.26,826000.0,N/A,2,2026-03-30,Card,,9369183038
+STU1443,Kavya Yadav,25.0,M,indore,Madhya Pradesh,Mechanical,58.04,80.7,5.54,NO,not placed,1.5,150000.0,2.0,4,,CARD,student443@example.com,9447549695
+STU1444,Diya Soni,25.0,male,kolkata,West Bengal,cse,58.21, 77.5 ,5.67,yes,,2.49,249000.0,4.0,?,2023-07-18,CARD,student444@example.com,9587563596
+STU1445,Sneha Joshi,28.0,,INDORE,Madhya Pradesh,C.S.E,45.5,76.8,4.02,N,not placed,3.29,329k,5.0,5,2024-11-02,Cash,student445@example.com,9806832877
+STU1446,Pooja Tiwari,24.0,FEMALE,Gwalior,Madhya Pradesh,DS,69.32,57.6,6.82,yes,PLACED,3.65,365000.0,5.0,3,24-Jan-2023,CARD,student446@example.com,9218609961
+STU1447,Aditya Sharma,26.0,,BHOPAL,Madhya Pradesh,AIML,73.11,?,6.65,Yes,not placed,5.02,502000.0,1.0,3,2025-09-11,upi,student447@example.com,9206035856
+STU1448,Sneha Tiwari,27.0,FEMALE,INDORE,Madhya Pradesh,ME,65.44,unknown,6.62,Y,Placed,3.43,343000.0,5.0,1,2025-08-07,Cash,student448@example.com,
+STU1449,Aditya Jain,28.0,Male,Pune,Maharashtra,I.T.,62.9,66.9,6.67,YES,Not placed,4.88,488k,0.0,4,2024-10-03,cash,student449@example.com,9668031793
+STU1450,Aditya Singh,,Female, Indore ,Madhya Pradesh,cse,N/A,77.2,9.59,no,Yes,5.32,,3.0,1,15 September 2023,upi,student450@example.com,9712062546
+STU1451,Simran Mehta,20.0,Female,Bengaluru,Karnataka,DS,39.15,55.8,4.01,N,,2.83,283000.0,6.0,0,,Card,student451@example.com,9950899166
+STU1452,Pooja Khan,26.0,male,Mumbai,Maharashtra,me,42.7,90.5,4.1,NO,Not placed,2.27,227000.0,5.0,4,2024-04-02,CARD,student452@example.com,9499130788
+STU1453,Ananya Mishra,28.0,female,ujjain,Madhya Pradesh,Mechanical,93.8,90.6,9.29,no,Yes, 6.1 ,611000.0,8.0,5,2024-05-31,cash,student453@example.com,9486556226
+STU1454,Aarav Joshi,25.0,,Dewas,Madhya Pradesh,IT,33.57,67.9,?,,placed,1.5,150000.0,4.0,0,,cash,student454@example.com,9338249032
+STU1455,Rishabh Soni,23.0,male,pune,Maharashtra,C.S.E,65.9,79.1,6.51,Yes,No,3.49,349000.0,5.0,1,2022-02-14,Card,student455@example.com,9384528891
+STU1456,Aman Gupta,27.0,M,Jaipur,Rajasthan,cse,70.7,84.2,6.69,YES,not placed,7.4,,1.0,5,2023-05-27,CARD,student456@example.com,9951374399
+STU1457,Muskan Agrawal,20.0,Female,DEWAS,,Mechanical,66.42,,?,Y,Placed,5.5,550000.0,6.0,0,2024-09-26,UPI,student457@example.com,
+STU1458,Neha Soni,23.0,Female,JAIPUR,Rajasthan,data science,83.25,82.0,8.11,no,Placed,7.07,707000.0,6.0,0,,cash,student458@example.com,9663052341
+STU1459,Muskan Patel,23.0,, Indore ,Madhya Pradesh,ME,49.7,79.5,4.96,,placed,2.58,258000.0,0.0,5,2025-01-10,Net Banking,student459@example.com,9578476787
+STU1460,Aditya Singh,27.0,MALE,Nagpur,Maharashtra,it,65.94,51.7,6.4,YES,placed,4.71,471000.0 ,2.0,2,2024-10-30,,student460@example.com,
+STU1461,Sneha Gupta,18.0,Female,,Maharashtra,E.C.E,70.56,63.6,7.5,YES,placed,4.19,419000.0,2.0,3,2025-01-27,,student461@example.com,9623836867
+STU1462,Karan Yadav,28.0,female,ujjain,Madhya Pradesh,AIML,83.51,84.0,8.12,No,PLACED,9.63,963000.0,unknown,2,2025-03-16,Cash,student462@example.com,9220828027
+STU1463,Priya Khan,,female,bengaluru,Karnataka,I.T.,48.9,90.9,5.24,N,Placed,2.06,206000.0,4.0,1,2024-05-17,CARD,student463@example.com,9761662253
+STU1464,Kavya Sharma,27.0,female,Dewas,Madhya Pradesh,AI ML,90.28,74.5,9.13,N,placed,8.01,801000.0,1.0,unknown,2022-10-26,UPI,student464@example.com,9360971128
+STU1465,Aarav Khan,unknown,Female,nagpur,Maharashtra,IT,65.85,89.4,6.86,NO,No,, 190000.0 ,0.0,2,2023-08-13,upi,student.com,9894582888
+STU1466,Simran Yadav,21.0,M,,Madhya Pradesh,,88.87,54.7,9.25,NO,placed,9.7,,0.0,3,2023-02-22,UPI,student466@example.com,9374294163
+STU1467,Karan Chauhan,18.0,M,Mumbai,Maharashtra,CSE,50.54,72.2,4.67,NO,Placed,2.25,225k,1.0,3,2023-08-05,cash,student467@example.com,9811871111
+STU1468,Aarav Gupta,23.0,MALE,bengaluru,Karnataka,,63.07,88.9,,YES,Not Placed,7.46,746000.0, 5.0 ,3,2022-08-09,Cash,student468@example.com,9300164147
+STU1469,Simran Soni,26.0,Male,pune,Maharashtra,CSE,59.01,75.1,5.31,no,PLACED,1.89,189000.0,5.0,3,2024-07-26,Net Banking,student469@example.com,9899283454
+STU1470,Priya Khan,,M,Mumbai,Maharashtra,AIML,83.44,100.0,7.91,Y,Placed,5.13,513000.0,4.0,3,2023-12-12,UPI,student470@example.com,9695861587
+STU1471,Ananya Soni,21.0,MALE,delhi,Delhi,,67.58,81.9,6.47,,Not Placed,5.38,538000.0,6.0,4,2022-11-07,upi,student471@example.com,9548108259
+STU1472,Neha Gupta,27.0,F,pune,,E.C.E,60.42,77.8,6.23,,not placed,4.36,436000.0,2.0,4,2022-11-09,upi,student472@example.com, 9248294102
+STU1473,Neha Soni,26.0,male,Delhi,Delhi,Civil,61.02,,6.07,yes,Not placed,3.51,,1.0,4,2022-10-04,Cash,student473@example.com,
+STU1474,Aarav Chauhan,20.0,F,JAIPUR,Rajasthan,ECE,63.86,100.0,6.58,YES,,4.21,421000.0,,5,2026-01-29,cash,student474@example.com,9263162642
+STU1475,Rahul Sharma,19.0,M,Pune,Maharashtra,ME,79.15,73.3,8.33,no,not placed,,733000.0,3.0,5,2022-09-27,UPI,student475@example.com,9485753927
+STU1476,Pooja Agrawal, 25.0 ,FEMALE,,Madhya Pradesh,civil,66.28,84.3,?,N,placed,2.16,216000.0,6.0,3,2022-10-02,,student476@example.com,9247653166
+STU1477,Vivaan Mehta,21.0,Male,MUMBAI,Maharashtra,I.T.,48.9,80.0,5.5,YES,not placed,7.57,757000.0,3.0,1,09/04/2023,Cash,student477@example.com,9290136266
+STU1478,Ananya Agrawal, 27.0 ,FEMALE,Dewas,Madhya Pradesh,AIML,78.21,85.0,7.19,YES,Yes,4.43,443000.0,0.0,4,2024-09-30,Net Banking,student478@example.com,9873309842
+STU1479,Muskan Mishra,24.0,Male,Jaipur,Rajasthan,Mechanical,?,69.3,5.48,No,No,2.68,?,7.0,0,2025-06-06,upi,student479@example.com,9656952733
+STU1480,Vivaan Yadav,24.0,MALE,,Madhya Pradesh,me,36.33,88.5,?,Yes,not placed,1.52,152000.0,4.0,3,2026-02-14,Net Banking,student480@example.com,9427012523
+STU1481,Neha Gupta,,Male,New Delhi,Delhi,,100.0,65.1,9.11,yes,No,7.01,701000.0,7.0,0,2022-12-07,Cash,student481@example.com,9293028062
+STU1482,Sneha Mehta,,F,nagpur,Maharashtra,ECE,85.62,100.0,8.13,Yes,placed,7.34,unknown,7.0,4,2022-10-05,,student482@example.com,9588212379
+STU1483,Rahul Joshi,22.0,,bhopal,Madhya Pradesh,cse,60.56,76.5 ,6.98,No,No,2.47,247000.0,,0,2023-10-26,Net Banking,student483@example.com,9880474837
+STU1484,Sneha Yadav,27.0,MALE,Gwalior,Madhya Pradesh,Computer Science,72.06,,7.59,yes,Not placed,6.03,603000.0,2.0,1,2022-11-24,Card,student484@example.com,9292056726
+STU1485,Yash Gupta,18.0,FEMALE,CALCUTTA,West Bengal,it,72.93,?,unknown,yes,Not Placed,5.01,501000.0,2.0,1,2024-05-09,UPI,student485@example.com,9768469061
+STU1486,Isha Agrawal,18.0,FEMALE,New Delhi,Delhi,ME,77.95,72.8,7.93,Yes,No,6.17,617000.0,3.0,1 ,2024-07-28,,student486@example.com,9587197988
+STU1487,Diya Mishra,25.0,Male,Ujjain,Madhya Pradesh,AI-ML,86.02,77.3,7.98,Y,not placed,8.55,855000.0,0.0,1,2022-06-12,Card,student487@example.com,9159124453
+STU1488,Rohan Agrawal,23.0,Male,bengaluru,Karnataka,civil,53.51,68.8,5.14,Y,Not placed,5.63,563000.0,1.0,0,2022-03-17,Cash,student488@example.com,9547704086
+STU1489,Yash Mishra,20.0,male,mumbai,Maharashtra,ece,33.83,100.0,3.75,N,Placed,2.03,203000.0,1.0,2,2025-10-08,CARD,student489@example.com,9495748400
+STU1490,Neha Agrawal,19.0,Female,Ujjain,Madhya Pradesh,,,82.0,6.89,NO,placed,6.24,unknown,1.0,5,2026-04-03,cash,student490@example.com,9453484964
+STU1491,Karan Joshi,24.0,female,gwalior,Madhya Pradesh,Mechanical,76.89,79.3,7.62,Yes,Not Placed,,561000.0,8.0,0,2024-12-10,,student491@example.com,9877468683
+STU1492,Yash Mehta,27.0,F,Kolkata,West Bengal,it,64.88,93.9,6.7,N,placed,1.5 ,150000.0,7.0,4,2025-12-18,,student492@example.com,
+STU1493,Yash Singh,27.0,Male,Mumbai,Maharashtra,Computer Science,,80.7,7.84,Yes,No,5.42,542000.0,1.0,5,2023-04-22,upi,student493@example.com,9958525681
+STU1494,Vivaan Khan,,F,nagpur,,Mechanical,85.99,91.3,8.33,no,Placed, 7.4 ,740000.0,3.0,5,2024-04-27,cash,student@@example.com,9373178728
+STU1495,Pooja Yadav,22.0,F,BHOPAL,Madhya Pradesh,,52.45,58.7,5.03,Yes,Not Placed,4.59,459000.0,5.0,2,2023-09-07,Net Banking, student495@example.com,9877814971
+STU1496,Rahul Singh,27.0,F,Nagpur,Maharashtra,Data Science,83.25,85.2,8.58,N,No,7.87,787000.0,7.0,0,2022-03-01,Card,student496@example.com,12345
+STU1497,Simran Soni,28.0,F,mumbai,Maharashtra,E.C.E,57.74,84.0,6.05,YES,Placed,5.51,551000.0,,N/A,2024-08-01,CARD,,9696116984
+STU1498,Muskan Tiwari,18.0,F,Gwalior,Madhya Pradesh,,87.02,87.9,8.83,N,Not Placed,9.14,914000.0,2.0,2,2023-03-03,UPI,student498@example.com,9464162131
+STU1499,Rahul Mishra,28.0,MALE,Ujjain,Madhya Pradesh,,67.58,65.7,6.7,No,PLACED,3.53,353000.0,5.0,5 ,2024-12-30,UPI,student499@example.com,9391518128
+STU1500,Aman Khan,19.0,FEMALE,UJJAIN,,Data Science,57.2,76.0,5.44,Y,not placed,2.93,,8.0,2,2024-10-14,Card,student500@example.com,9220507410
+STU1501,Karan Soni,18.0,Female,JAIPUR,Rajasthan,ECE,37.7,,3.77,Yes,No,1.5,150k,8.0,1,2026-05-12,upi,student@@example.com,12345
+STU1502,Ananya Patel,26.0,Female,Dewas,,Data Science,78.55,91.1,7.29,yes,not placed,4.15,,0.0,3,2023-09-28,Net Banking,student502@example.com,9866305263
+STU1503,Yash Soni,19.0,Male,gwalior,,civil,55.69,64.8,5.86,,Not placed,3.6,,7.0,0,2022-01-09,Cash,student503@example.com,9658966058
+STU1504,Muskan Chauhan,,M,Bangalore,Karnataka,CIVIL,63.77,49.9,6.6,no,Not placed,,253000.0,3.0,1 ,,cash,student504@example.com,9397050178
+STU1505,Kavya Tiwari,23.0,Female,gwalior,Madhya Pradesh,it,68.96,81.9,7.37,yes,placed,3.25,325000.0,4.0,0,2026-05-02,UPI,student505@example.com,9768882058
+STU1506,Karan Yadav,26.0,F,Gwalior,Madhya Pradesh,ME,20.0,80.6,3.0,N,PLACED,,303000.0,2.0,5,2022-07-29,cash,student506@example.com,9716416868
+STU1507,Yash Mishra,20.0,, PUNE ,Maharashtra,me,71.35, 71.1 ,7.42,NO,Placed,3.91,391000.0,2.0,0 ,2022-05-26,,student507@example.com,9825308245
+STU1508,Vivaan Verma,19.0,MALE,indore,Madhya Pradesh,ECE,75.62,85.1,7.93,yes,No,11.19,1119000.0,5.0,2,2024-02-25,CARD,student508@example.com,9977721640
+STU1509,Aditya Soni,28.0,FEMALE, PUNE ,Maharashtra,me,74.28,70.9,7.42,yes,Not Placed,2.48,248000.0,7.0,0,2024-12-28,,student509@example.com,
+STU1510,Kavya Jain,,female,bengaluru,Karnataka,AI ML,56.88,72.3,?,yes,PLACED,3.82,382000.0,5.0,3,2025-12-25,Card,student510@example.com,9851205475
+STU1511,Kavya Jain,23.0,Male,Bangalore,Karnataka,cse,54.84,93.7,5.48,NO,Not Placed,,351000.0,5.0,3,2023-10-28,,,9283396760
+STU1512,Muskan Patel,23.0,Female,DELHI,Delhi,E.C.E,62.75,,6.56,No,Not placed,,316000.0,8.0,5,2025-05-22,Cash,student512@example.com,9950866243
+STU1513,Sneha Mishra,26.0,MALE,Delhi,Delhi,,57.47,,5.28,no,placed,1.83,,7.0,3,08-02-2024,Cash,student513@example.com,9465839040
+STU1514,Neha Mishra,,F,Pune,Maharashtra,,60.38,90.2,6.13,,placed,?,459000.0,1.0,5,2024-06-01,,student514@example.com,9222753236
+STU1515,Ananya Yadav,27.0,Female,Nagpur,Maharashtra,Data Science,81.61,76.1,8.3,NO,placed,6.44,644000.0,4.0,3,2024-08-06,Cash,student515@example.com,9742375910
+STU1516,Sneha Khan,28.0,,BHOPAL,Madhya Pradesh,CIVIL,72.25,69.8,6.37,Yes,Not Placed,4.27,427000.0,3.0,1,2025-05-06,,student516@example.com,
+STU1517,Kavya Yadav,28.0,M,mumbai,Maharashtra,ECE,,91.0,9.41,NO,not placed,10.08,1008000.0,3.0,5,2022-11-02,CARD,student517@example.com,9421838360
+STU1518,Neha Joshi,,F,nagpur,Maharashtra,,69.42,,6.73,Yes,Yes,4.33,433000.0,2.0,2,2023-09-16,UPI,student518@example.com,9496450063
+STU1519,Simran Agrawal,18.0,F,Gwalior,Madhya Pradesh,Computer Science,unknown,94.9,7.74,Y,Placed,5.2,520000.0,3.0,3,2022-01-02,,student519@example.com,9771318744
+STU1520,Sneha Mehta,24.0,female,jaipur,Rajasthan,Civil,N/A,86.4,6.3,yes,No,N/A,,2.0,1,2024-04-11,Net Banking,student520@example.com,9486856173
+STU1521,Rohan Patel,20.0,Male,UJJAIN,Madhya Pradesh,CSE,59.19,60.9,,Yes,placed,3.55,355000.0,7.0,5,2023-08-14,Net Banking,student521@example.com,9245788098
+STU1522,Neha Agrawal,20.0,FEMALE,,Madhya Pradesh,data science,60.75,98.3,6.19,YES,placed,4.85,485000.0,7.0,4,N/A,Net Banking,student522@example.com,9692759204
+STU1523,Aman Patel,24.0,MALE,Dewas,Madhya Pradesh,me,unknown,62.1,8.16,Yes,No,6.34,?,3.0,5,2023-12-29,cash,student523@example.com,9541133739
+STU1524,Vivaan Sharma,27.0,FEMALE,Gwalior,Madhya Pradesh,Civil,78.73,63.0,,,Not Placed,7.04,704000.0,7.0,5,2024-01-22,Cash,student524@example.com,9252565264
+STU1525,Rishabh Jain,26.0,Female,kolkata,West Bengal,ME,74.02,65.4,?,No,not placed,7.34,734000.0,7.0,5,2026-03-18,Cash,student525@example.com,9834518883
+STU1526,Yash Mishra,26.0,Male,,Karnataka,it,48.97,100.0,4.58,Yes,No,3.69,369000.0,7.0,4,2025-04-02,,student526@example.com,9716290544
+STU1527,Priya Chauhan,23.0,M,CALCUTTA,West Bengal,IT,unknown,86.4,6.08,yes,Placed,3.89,389000.0,,5,2024-05-12,cash,student527@example.com,9165946817
+STU1528,Rahul Mishra,25.0,Male,bengaluru,Karnataka,civil,68.65 ,64.0,,Y,Placed,4.41,₹441000,4.0,unknown,2025-03-30,Cash,student528@example.com,9236173369
+STU1529,Rishabh Patel,19.0,,Gwalior,Madhya Pradesh,it,64.34,64.1,5.54,Y,Placed,3.25,325000.0,1.0,4,2023-07-24,Card,student529@example.com,9735408331
+STU1530,Kavya Khan,20.0,male,kolkata,West Bengal,IT,100.0,89.0,?,no,No,unknown,802000.0,2.0,4,2025-09-11,UPI,student@@example.com,9468130224
+STU1531,Rohan Agrawal,20.0,FEMALE,BHOPAL,Madhya Pradesh,,68.36,85.7,6.42,YES,Yes,6.57,657000.0,3.0,5,2025-05-04,,student531@example.com,9879535586
+STU1532,Muskan Joshi,20.0,F,Bangalore,Karnataka,,79.45,88.1,8.1,Y,Not Placed,6.45,645000.0,0.0,1,2023-03-08,,student532@example.com,9528148969
+STU1533,Simran Singh,22.0,MALE,Dewas,Madhya Pradesh,civil,78.77,86.3,7.75,YES,No,4.99,499000.0,4.0,1,,Net Banking,student533@example.com,9112737840
+STU1534,Ananya Yadav,25.0,Male,delhi,Delhi,,69.63,99.7,6.53,,Yes,2.04,204000.0,,unknown,22/02/2024,cash,student534@example.com,9386783352
+STU1535,Muskan Mehta,22.0 ,FEMALE,bhopal,Madhya Pradesh,data science,70.64,78.7,7.12,no,,5.77,577000.0,8.0,2,2025-09-02,Card,student535@example.com,9436370919
+STU1536,Aarav Agrawal,18.0,Female,Gwalior,Madhya Pradesh,Computer Science,64.43,98.9,5.88,YES,Not Placed, 2.5 ,248000.0,8.0,0,,,student536@example.com,9477437882
+STU1537,Karan Sharma,22.0,Male, PUNE ,Maharashtra,ME,66.35,55.0,6.57,No,Placed,7.72,772000.0,3.0,4,2023-05-31,Cash,student537@example.com,
+STU1538,Rohan Mehta,19.0,male,BHOPAL,Madhya Pradesh,cse,68.33,81.2,6.39,yes,PLACED,3.42,342000.0,4.0,3,2025-05-23,Cash,student538@example.com,98765ABCDE
+STU1539,Neha Joshi,22.0,F,Dewas,Madhya Pradesh,IT,62.0,73.6,6.65,yes,Not Placed,5.82,,4.0,0,2026-04-25,Net Banking,student539@example.com,9517245798
+STU1540,Rishabh Patel, 18.0 ,FEMALE,jaipur,Rajasthan,,50.22,81.5,5.2,NO,not placed,5.27,N/A,6.0,1,2023-06-13,,student540@example.com,9216426335
+STU1541,Neha Singh,26.0,Female,Mumbai,Maharashtra,ece,93.29,63.8,9.05,Y,Not Placed,5.19,519000.0,0.0,0,2026-04-24,Cash,student541@example.com,9713476544
+STU1542,Kavya Sharma,22.0,FEMALE,CALCUTTA,West Bengal,AI-ML,64.26,84.5,6.77,Yes,Placed,,481000.0,6.0,2,2026-05-11,Card,student542@example.com,9851678544
+STU1543,Aarav Yadav,24.0,,jaipur,Rajasthan,ece,62.88,80.1,6.0,YES,Yes,,786000.0,1.0,4,2025-03-22,upi,student543@example.com,9103551249
+STU1544,Muskan Yadav,unknown,F,ujjain,Madhya Pradesh,,42.28,80.6,4.94,Y,Yes,2.95,295000.0,0.0, 5 ,2022-09-06,Cash,student544@example.com,9492297332
+STU1545,Kavya Chauhan,23.0,M,gwalior,Madhya Pradesh,CIVIL,64.96,73.0,6.43,no,placed,7.04,704000.0,8.0, 0 ,2022-06-14,Net Banking,student545@example.com,9809457825
+STU1546,Sneha Soni,22.0,Female,Pune,Maharashtra,CIVIL,,99.5,3.0,N,No,1.5,150000.0,,5,2025-11-26,,student546@example.com,9889548331
+STU1547,Karan Sharma,20.0,female, PUNE ,Maharashtra,ECE,61.13,86.2,5.55,YES,Not Placed,4.44,444000.0,8.0,5,2022-03-15,cash,student547@example.com,9636531772
+STU1548,Vivaan Khan,25.0,Male,gwalior,Madhya Pradesh,I.T.,100.0,58.9,10.0,Yes,Yes,7.31,731000.0,1.0,1,,,student548@example.com,9828080516
+STU1549,Muskan Singh,20.0,Female,Gwalior,,Computer Science,74.81,78.3,7.26,yes,No,6.36,,0.0,3,2026-02-26,,student549@example.com,9360578402
+STU1550,Aarav Patel,28.0,Male,Kolkata,West Bengal,it,96.87,75.3,9.94,No,No,6.11,₹611000,2.0,4,2022-09-25,Cash,student550@example.com,9978106253
+STU1551,Diya Chauhan,19.0,female, Bhopal,Madhya Pradesh,cse,52.7,84.6,,no,Yes,4.51,451000.0,5.0,5,2024-10-15,Net Banking,student551@example.com,9448144622
+STU1552,Simran Patel,28.0,F, Bhopal,Madhya Pradesh,Data Science, 62.99 ,78.0,5.86,no,Placed,5.03,503000.0,2.0,2,25-Mar-2025,Cash,student552@example.com,9229649486
+STU1553,Neha Patel,,F,DELHI,Delhi,,82.12,71.7,8.05,yes,No,6.83,683000.0,3.0,4,2026-04-01,UPI,student553@example.com,9243205892
+STU1554,Sneha Chauhan,28.0,male,bhopal,,CSE,61.01,77.1,,NO,Not Placed,4.58,458000.0,0.0,0,2025-06-08,Card,student554@example.com,9195714674
+STU1555,Yash Mehta,28.0,FEMALE,,West Bengal,civil,62.27,68.9,6.49,yes,,4.31,431000.0,2.0,5,2025-04-30,cash, student555@example.com,9661660243
+STU1556,Rahul Mishra,24.0,Male,Dewas,Madhya Pradesh,ME,?,96.5,6.26,yes,No,3.31,331000.0,1.0,5,2023-05-05,,student556@example.com,9473504921
+STU1557,Aman Singh,18.0,Female,ujjain,Madhya Pradesh,me,38.14,92.1,3.57,,Not placed,2.85,285000.0,8.0,4,2025-02-16,,student557@example.com,9598448142
+STU1558,Rishabh Sharma,28.0,female,,Karnataka,C.S.E,36.48,,3.22,yes,No,2.36,236000.0,7.0,1,2023-03-03,Card,student558@example.com,9819560168
+STU1559,Priya Gupta,18.0,female, Indore ,Madhya Pradesh,E.C.E,68.23,64.6,6.68,Y,Not placed,6.08,608000.0,7.0,0,2025-08-13,,student559@example.com,9895016576
+STU1560,Rahul Chauhan,26.0,Male, Indore ,Madhya Pradesh,ece,69.69,,7.66,No,Not Placed,3.11,311000.0,3.0,5,2022-12-27,,student560@example.com,9736413935
+STU1561,Karan Joshi,23.0,F,Nagpur,Maharashtra,aiml,93.88,N/A,9.07,,Not placed,5.08,508k,3.0,0,2024-05-08,,student561@example.com,9892150738
+STU1562,Aman Verma,21.0,FEMALE,Ujjain,Madhya Pradesh,me,64.97,90.9,6.45,NO,,,732000.0,6.0,unknown,2024-02-09,upi,student562@example.com,9754374295
+STU1563,Priya Patel,20.0,FEMALE,Dewas,,civil,44.78,77.8,,no,Not placed,?,260000.0,4.0,1,2024-03-04,CARD,student563@example.com,9236592599
+STU1564,Rishabh Patel,27.0,Female,INDORE,Madhya Pradesh,,82.19,72.1,unknown,NO,No,5.9,590000.0,6.0,1,2022-05-03,CARD,student564@example.com,9336065965
+STU1565,Diya Soni,27.0,male,DELHI,Delhi,ME,74.99,83.7,7.93,no,Not Placed,4.3,430000.0,6.0,4,2022-11-18,,student565@example.com,9332403478
+STU1566,Rishabh Sharma,25.0,MALE,Nagpur,Maharashtra,CIVIL,78.88,94.7,7.27,no,not placed,unknown,607000.0,5.0,3,2024-08-05,upi,student566@example.com,9735409949
+STU1567,Neha Sharma,27.0,Male,mumbai,Maharashtra,E.C.E,59.93,76.9,6.11,Yes,Yes,3.34,334000.0,8.0,3,2022-01-11,,student567@example.com,9969426488
+STU1568,Isha Singh,19.0,Female,kolkata,West Bengal,ME,57.19,78.5 ,5.34,Yes,Yes,1.5,₹150000,3.0,1,2024-07-15,CARD,student568@example.com,9417602552
+STU1569,Aarav Jain,28.0,M,Pune,Maharashtra,AI-ML,78.87,61.9,8.12,NO,Placed,7.26,726000.0,7.0,3,2022-07-05,Card,student569@example.com,9854985336
+STU1570,Kavya Joshi,20.0,Male,Ujjain,Madhya Pradesh,data science,40.39,68.5,4.46,No,Yes,,150000.0,5.0,4,2024-01-29,UPI,student570@example.com,9418461071
+STU1571,Diya Yadav,22.0,female,Ujjain,Madhya Pradesh,Data Science,60.57,84.5,6.33,,Not placed,4.01,401000.0,0.0,4,2025-11-30,,student571@example.com,9155364901
+STU1572,Kavya Mishra,24.0,Male, Bhopal,Madhya Pradesh,I.T.,58.44,97.9,6.45,N,placed,6.36,636000.0,8.0,5,2024-01-19,Cash,student572@example.com,9702109541
+STU1573,Ananya Singh,21.0,Female,kolkata,West Bengal,Civil,N/A,66.7,6.65,NO,not placed,5.76,576000.0,3.0,2,2022-10-11,CARD,student573@example.com,9387073305
+STU1574,Rishabh Sharma,28.0,Female,Gwalior,Madhya Pradesh,I.T.,74.69,97.6,7.7,,No,3.26 ,326000.0,7.0,4,2024-05-16,,student574@example.com,9604834590
+STU1575,Simran Soni,26.0,,kolkata,West Bengal,E.C.E,84.83,64.0,8.35,N,Not Placed,7.14,714000.0,3.0, 3 ,2025-10-21,Cash,student575@example.com,98765ABCDE
+STU1576,Aditya Verma,20.0,male,,Madhya Pradesh,I.T.,99.93,?,10.0,No,placed,8.17,817000.0,7.0,1,2023-08-14,upi,student576@example.com,9659084094
+STU1577,Neha Tiwari,18.0,male,Bengaluru,Karnataka,E.C.E,unknown,90.4,7.54,N,Yes,9.03,903000.0,7.0,5,2023-08-24,,student577@example.com,9413013776
+STU1578,Aman Agrawal,19.0,F,,Maharashtra,ece,71.68,85.0,7.4,N,Not placed,6.4,640000.0,7.0,4,2022-02-15,,student578@example.com,9591781368
+STU1579,Yash Patel,27.0,M,delhi,Delhi,AI ML,81.42,69.4,7.95,NO,Not placed,4.26,426000.0,4.0,0,2022-09-28,Card,student579@example.com,9479160679
+STU1580,Diya Soni,25.0,male,Delhi,Delhi,Civil,75.03,88.9,7.66,Y,placed,8.94,894000.0,2.0,5,2022-12-07,Card,,9273145929
+STU1581,Ananya Mishra,19.0,male,pune,Maharashtra,ece,67.91,87.4,6.41,Y,Not placed,3.85,unknown,2.0,1,2022-03-26,UPI,student@@example.com,9814632395
+STU1582,Priya Jain,23.0,male,Jaipur,Rajasthan,ME,79.13,89.9,7.81,,Not Placed,5.96,,0.0,3,2022-10-30,,student582@example.com,9925190102
+STU1583,Rohan Sharma,25.0,F,mumbai,,CIVIL,43.71,73.0,4.68,Y,No,3.68,368000.0,4.0,4,,Card,student583@example.com,9958538383
+STU1584,Arjun Joshi,25.0,FEMALE,Nagpur,Maharashtra,CSE,76.01,78.7,7.6,yes,Not Placed,4.67,467000.0,4.0,0,2023-11-25,Net Banking,student584@example.com,9763059187
+STU1585,Aditya Khan,25.0,Male,pune,Maharashtra,,79.18,83.9,8.09,no,not placed, 5.5 ,545000.0,4.0,1,,,student585@example.com,9189753594
+STU1586,Aditya Yadav,25.0,MALE,Gwalior,Madhya Pradesh,AIML,33.55,93.4,3.19,NO,Not placed,1.5,150000.0,8.0,0,,CARD,student586@example.com,
+STU1587,Sneha Khan,unknown,Male,mumbai,Maharashtra,I.T.,79.1,72.5,8.28,N,Not placed,7.72,772000.0,4.0,3,2024-01-28,Cash,student587@example.com,9331600910
+STU1588,Neha Chauhan,?,,CALCUTTA,West Bengal,I.T.,78.94,58.9,8.32 ,yes,Yes,7.12,712000.0,6.0,1,2026-02-27,Cash,student588@example.com,9254231505
+STU1589,Pooja Khan,22.0,Female, PUNE ,Maharashtra,me,62.09,80.0,,YES,Not Placed,N/A,438000.0,0.0,3,2024-08-30,cash,student589@example.com,9545081036
+STU1590,Muskan Chauhan,,male,mumbai,Maharashtra,AI ML,51.53,59.1,4.62,yes,Yes,4.58,458000.0,4.0,4,,,student590@example.com,9145347243
+STU1591,Isha Yadav,27.0,,delhi,Delhi,AI-ML,57.93,99.5,5.61,Yes,Placed,1.5,150k,2.0,2,2023-09-15,cash,student591@example.com,9787790914
+STU1592,Yash Mehta,25.0,male,Bangalore,Karnataka,ECE,50.14,95.3,4.96,no,Placed,2.0lpa,197000.0,1.0,2,2022-09-12,,student592@example.com,9171645238
+STU1593,Isha Mishra,23.0,MALE,nagpur,Maharashtra,data science,70.56,85.0,,Y,No,8.3,830000.0,1.0,2,2025-04-05,UPI,student593@example.com,9378675934
+STU1594,Rohan Khan,27.0,FEMALE,mumbai,Maharashtra,CIVIL,62.24,59.4,6.08,yes,Not placed,4.66,466000.0,2.0,0,2022-04-30,cash,student594@example.com,9487796299
+STU1595,Vivaan Gupta,unknown,M,UJJAIN,Madhya Pradesh,Mechanical,52.58,64.6,5.38,No,not placed,3.33,,,0,2023-12-31,Card,student595@example.com,9683806675
+STU1596,Yash Gupta,23.0 ,F,jaipur,Rajasthan,CSE,68.52,N/A,6.77,N,placed,3.28,328000.0,0.0,1,2025-11-03,cash,student596@example.com,9500520940
+STU1597,Rahul Verma,24.0,female,DEWAS,Madhya Pradesh,AI ML,82.24,92.5, 7.58 ,no,not placed,N/A,416000 INR,8.0,4,N/A,Cash,student597@example.com,9548122132
+STU1598,Rohan Soni,19.0,Male,,Madhya Pradesh,E.C.E,44.06,68.9,4.38,N,PLACED,1.5,150000.0,5.0,1,2022-08-27,,student598@example.com,9741720343
+STU1599,Yash Sharma,23.0,Female,Gwalior,,AI ML,53.25,63.9,5.4,yes,placed,3.56,356000.0,3.0,2,unknown,Card,student599@example.com,9325315065
+STU1600,Arjun Verma,19.0,Male,Mumbai,Maharashtra,DS,56.45,80.5,5.45,NO,Yes,3.01,301000.0,0.0,1,2024-05-20,Cash,student600@example.com,9135210907
+STU1601,Vivaan Jain,26.0,Female,Bengaluru,Karnataka,it,94.78,96.8,9.02,Yes,Not Placed,8.92,892k,4.0,5,2025-04-29,UPI,student601@example.com,9910192189
+STU1602,Karan Mishra,19.0,female,Bhopal,Madhya Pradesh,AI-ML,80.98,,8.38,N,Placed,9.49,,1.0,1,2025-05-17,cash,student602@example.com,12345
+STU1603,Pooja Chauhan,23.0,female,JAIPUR,Rajasthan,Mechanical,50.04,,5.36 ,No,Not Placed,3.88,388000.0,0.0,4,2022-11-25,upi,,9868596889
+STU1604,Simran Sharma,22.0,Female, PUNE ,Maharashtra,AI-ML,76.82,82.8,7.82,NO,Not placed,3.71,371000.0,2.0,?,2022-12-18,Cash,student604@example.com,9294184632
+STU1605,Karan Yadav,24.0,female,,Rajasthan,ece,84.76,94.4,8.4,No,Not placed,6.66,666000.0,1.0,3,18-May-2024,Cash,student605@example.com,9658053247
+STU1606,Priya Joshi,25.0,M,Mumbai,Maharashtra,,43.5,85.2,,Yes,Not Placed,2.39,unknown,5.0,3,2026-04-11,Cash,student606@example.com,9513155580
+STU1607,Yash Tiwari,25.0,FEMALE,New Delhi,Delhi,aiml,85.99,73.3,8.8,YES,PLACED,5.34,534000.0,6.0,1,2025-05-14,Cash,student@@example.com,9961609527
+STU1608,Rahul Sharma,28.0,FEMALE,dewas,Madhya Pradesh,Civil,67.62,75.6,6.84,No,Yes,4.36,436000.0,7.0,4,2024-01-23,Cash,student608@example.com,9228009184
+STU1609,Muskan Verma,24.0,male,mumbai,Maharashtra,cse,65.9,89.6,6.44,N,not placed,1.69,169000.0,5.0,1,2024-03-31,Net Banking,student609@example.com,9231814874
+STU1610,Isha Gupta,24.0,M, PUNE ,Maharashtra,data science,95.99,,9.15,YES,Not placed,8.81,,7.0,5,2026-01-25,Net Banking,student610@example.com,9620263193
+STU1611,Kavya Verma,22.0,,Gwalior,Madhya Pradesh,I.T.,59.95,81.7,6.1,NO,No,3.79,379000.0,3.0,5,2022-10-29,Card,student611@example.com,9131915385
+STU1612,Isha Tiwari,18.0,Male, Bhopal,Madhya Pradesh,aiml,55.46,,5.23,YES,Not placed,1.76,176000.0,2.0,?,2022-05-20,Cash,,
+STU1613,Pooja Chauhan,28.0,FEMALE,,Madhya Pradesh,Data Science,66.93,?,6.93,NO,not placed,7.8,780000.0,4.0,5,2026-03-20,,student613@example.com,9626402312
+STU1614,Ananya Chauhan,22.0,Male,Gwalior,Madhya Pradesh,DS,58.72,81.4,6.05,Yes,Yes,5.0,500000.0 ,1.0,3,2025-01-15,,student614@example.com,9437755361
+STU1615,Vivaan Sharma,25.0,,UJJAIN,Madhya Pradesh,me,69.22,88.4,,Y,placed,3.07,307000.0,7.0,3,2024-07-30,Card,student615@example.com,9435501022
+STU1616,Arjun Mishra,24.0,FEMALE,CALCUTTA,West Bengal,,N/A,90.4,7.92,NO,No,?,628000.0,8.0,1,2024-09-25,UPI,student616@example.com,9520246255
+STU1617,Sneha Mishra,25.0,F,DELHI,Delhi,Data Science,78.93,75.1,8.27,Y,,10.85,1085000.0,0.0,0,2025-04-25,UPI,student617@example.com,9237651619
+STU1618,Muskan Sharma,23.0,F,jaipur,Rajasthan,ece,55.42 ,,5.65,No,Yes,,501000.0,5.0,2,2026-02-28,Net Banking,student618@example.com,9477172497
+STU1619,Aman Singh,28.0,M,Indore,Madhya Pradesh,ME,64.31,98.3,5.96,No,Not Placed,5.3,530000.0,4.0,0,2023-05-16,CARD,,9282299078
+STU1620,Vivaan Jain,26.0,MALE,indore ,Madhya Pradesh,ME,58.31,100.0,6.53,YES,PLACED, 3.3 ,330000.0,unknown,5,N/A,,student620@example.com,9731348637
+STU1621,Muskan Mehta,23.0,F,indore ,Madhya Pradesh,ME,59.21,90.0,5.79,No,No,3.79,,1.0,5,2024-02-13,upi,student621@example.com,9460742313
+STU1622,Ananya Patel,26.0,M,Dewas,Madhya Pradesh,IT,68.41,51.1,6.84,YES,not placed,3.78,378000.0,7.0,5,2026-04-16,Cash,,9675347404
+STU1623,Vivaan Gupta,22.0,MALE, PUNE ,Maharashtra,DS,60.11,98.2,5.57,no,Not Placed,5.09,509000.0,1.0,4,2023-06-28,CARD,student623@example.com,9393523362
+STU1624,Isha Mehta,27.0,female,BHOPAL,Madhya Pradesh,IT,63.54,74.1,6.63,No,PLACED,5.41,541000.0,8.0,2,23 December 2024,Net Banking,student624@example.com,9812381203
+STU1625,Neha Mehta,23.0,M,gwalior,Madhya Pradesh,ME,,,7.6,NO,placed,4.76,476000.0,0.0,5,2023-02-14,Card,student625@example.com,9719380774
+STU1626,Kavya Gupta,,MALE,DEWAS,Madhya Pradesh,,50.64,66.4,6.1,Yes,,,645000.0,5.0,3,2025/09/15,Card,student626@example.com,9358099562
+STU1627,Yash Agrawal,28.0,MALE,mumbai,Maharashtra,ECE,46.38,59.5,4.81,N,Not Placed,3.78,378000.0,3.0,3,2026-04-17,cash,student627@example.com,9984452639
+STU1628,Rishabh Tiwari,28.0,female,,,ece,76.78,74.4,7.63,no,Not Placed,6.48,648000.0,2.0,1,2022-11-25,UPI,student628@example.com,9363696611
+STU1629,Simran Mehta,25.0,MALE,New Delhi,Delhi,CIVIL,69.37,46.9,6.86,Yes,not placed,3.51,351000.0,2.0,2,2024-09-21,Card,student629@example.com,9131290846
+STU1630,Simran Patel,22.0,Male,DELHI,Delhi,Civil,70.8,100.0,7.21,NO,Placed,4.87,487000.0,0.0,0,2025-09-10,CARD,student630@example.com,9745962806
+STU1631,Priya Tiwari,19.0,Female,delhi,Delhi,ece,82.75,84.8,8.42,yes,not placed,7.85,785000.0,1.0,N/A,2024-04-13,,student631@example.com,98765ABCDE
+STU1632,Pooja Gupta,27.0,FEMALE,Bangalore,Karnataka,CSE,?,62.2,10.0,no,Not Placed,6.83,683000.0,5.0,2,2026-05-07,Net Banking,,9965265838
+STU1633,Karan Patel,21.0,Female,kolkata,West Bengal,AI-ML,76.89,65.1,7.54,no,PLACED,5.26,,7.0,3,2024-05-16,cash,student633@example.com,9732950344
+STU1634,Priya Joshi,25.0,Female, Indore ,Madhya Pradesh,it,83.61,,,,No,N/A,631000.0,3.0,2,2024-12-28,,student634@example.com,9489766149
+STU1635,Aarav Tiwari,23.0,Male,Dewas,Madhya Pradesh,DS,56.65,60.4,5.59,Yes,not placed,3.09,309000.0,4.0,4,2023-09-24,Net Banking,student635@example.com,9432074523
+STU1636,Arjun Yadav,23.0,female,Bangalore,Karnataka,data science,,84.1,9.52,NO,Yes,6.96,696000.0,0.0,3,2025-11-04,,student636@example.com,9423076194
+STU1637,Karan Agrawal,21.0,male, Bhopal,Madhya Pradesh,ece,84.34,100.0,7.88,N,Yes,2.78,278000.0,0.0,2,2023-09-02,Cash,student637@example.com,9983901883
+STU1638,Neha Soni,25.0,F,dewas,Madhya Pradesh,Civil,97.94,83.5,9.49,YES,Not Placed,8.9,890000.0,2.0,5,2026-02-18,,student638@example.com,9643672548
+STU1639,Diya Joshi,23.0,F,Bhopal,Madhya Pradesh,ECE,25.83,78.0,3.0,Yes,Placed,2.46,246000.0,2.0,5,2024-05-11,,student639@example.com,9949350526
+STU1640,Sneha Singh, 20.0 ,M,Bengaluru,Karnataka,IT,51.78,79.2,4.85,No,Not Placed,,329000.0,2.0,1,2022-01-07,Card,student640@example.com,9737819952
+STU1641,Kavya Jain,,male,Bangalore,Karnataka,I.T.,53.67,72.3,5.02,yes,Not placed,,419000.0,4.0,1,2023-10-17,Cash,,9545062150
+STU1642,Sneha Agrawal,20.0,female,JAIPUR,Rajasthan,CSE,81.74,74.7,,Yes,not placed,,390000.0,1.0, 3 ,,upi,student642@example.com,9381087533
+STU1643,Sneha Mishra,20.0,MALE,CALCUTTA,,me,63.21,77.3,7.24,Y,placed,3.46,346000.0,1.0,2,2022-04-12,Card,student643@example.com,
+STU1644,Pooja Mehta,,FEMALE,,Madhya Pradesh,data science,91.43,,9.24,NO,Not Placed,10.83,1083000.0,3.0,5,2026-01-11,upi,student644@example.com,9304595238
+STU1645,Isha Mehta,22.0,male,Delhi,Delhi,ECE,73.95,83.4,7.38,,not placed,,782000.0,4.0,5,2026-03-09,upi,student645@example.com,9549179485
+STU1646,Aarav Gupta,24.0,M,mumbai,Maharashtra,AI ML,85.54,69.2 ,8.09,NO,not placed,N/A,603000.0,5.0,4,26/10/2022,,student646@example.com,
+STU1647,Ananya Joshi,25.0,MALE, Indore ,Madhya Pradesh,CIVIL,55.2 ,77.1,?,no,Yes,3.22,322000.0,6.0,5,,cash,student647@example.com,9178442874
+STU1648,Vivaan Khan,26.0,,Bhopal,Madhya Pradesh,E.C.E,67.31,78.8,7.03,N,Placed,1.5,,0.0,2,,Net Banking,student648@example.com,9424814794
+STU1649,Rohan Soni,28.0,Male,Ujjain,Madhya Pradesh,Mechanical,,81.0,,yes,PLACED,3.49,349000.0,2.0,4,2024-01-30,,student649@example.com,9464188244
+STU1650,Ananya Joshi,20.0,,Dewas,Madhya Pradesh,,37.98,,3.58,Y,Not Placed,1.5,150000.0,5.0,0,2022-07-03,Card,student650@example.com,9636023317
+STU1651,Yash Soni,23.0,,delhi,Delhi,Mechanical,58.01,75.4,5.59,Y,Not placed,1.5,150000.0,6.0,1,2024-05-30,,student651@example.com,9891207316
+STU1652,Kavya Sharma,20.0,female,DEWAS,Madhya Pradesh,AI-ML,82.35,95.8,8.46,Yes,not placed,4.76,476000.0,2.0,0,12/02/2025,,student652@example.com,9379413359
+STU1653,Arjun Soni,25.0,FEMALE,MUMBAI,Maharashtra,Computer Science,64.78,77.9,6.69,NO,,6.06,606000.0,8.0,3,2024-06-12,,student653@example.com,9629342426
+STU1654,Priya Verma,20.0,female,Bhopal,Madhya Pradesh,DS,unknown,79.1,5.79,Y,placed,6.49,649000.0,2.0,5,2022-09-11,cash,student654@example.com,9704782275
+STU1655,Muskan Sharma,27.0,male,Bangalore,,ece,79.27,89.0,7.96,,not placed,8.79,879000.0,7.0,5,2023-03-11,Cash,student655@example.com,9452893605
+STU1656,Arjun Mehta,22.0 ,F,indore ,Madhya Pradesh,me,74.56,65.9,7.95,No,Not placed,7.5,750000.0,2.0,0,2025-10-27,Cash,student656@example.com,9594171613
+STU1657,Kavya Tiwari,,M,kolkata,West Bengal,ME,60.91,71.3,6.19,Yes,Not placed,5.14,514000.0,N/A,5,09/09/2024,,student657@example.com,9448875327
+STU1658,Karan Agrawal,,Male,Kolkata,West Bengal,DS,N/A,82.4,,Y,Not placed,,791000.0,0.0,5,2022-09-22,Cash,student658@example.com,9687504515
+STU1659,Sneha Gupta,24.0,male,Nagpur,Maharashtra,,71.05,91.2,6.74,YES,,5.63, 563000.0 ,0.0,1,2022-07-09,Card,student659@example.com,9517151813
+STU1660,Rohan Verma, 22.0 ,M,Ujjain,Madhya Pradesh,ECE,96.95,74.9,9.4,YES,PLACED,6.67,667000.0,2.0,2,2025-08-18,Cash,student660@example.com,9993409974
+STU1661,Isha Jain,26.0,MALE,jaipur,Rajasthan,ECE,50.57,67.0,4.93,Y,Yes,1.5,150000.0,1.0,3,2023-02-14,CARD,student661@example.com,9759135517
+STU1662,Neha Verma,24.0,Male,mumbai,Maharashtra,Mechanical,68.25,90.6,6.51,N,No,7.4,740000.0,3.0,5,2025-07-15,Card,student662@example.com,9631848216
+STU1663,Pooja Verma,28.0,M,gwalior,Madhya Pradesh,ECE,76.17,92.4,7.39,YES,Not Placed,,717000.0,7.0,2,2025-08-18,Card,student663@example.com,9237213199
+STU1664,Pooja Mehta,22.0,M,bengaluru,Karnataka,me,-10,N/A,5.11,Yes,Not Placed,4.12,,0.0,N/A,2023-05-25,Cash,student664@example.com,9648307963
+STU1665,Kavya Tiwari,24.0,M,ujjain,Madhya Pradesh,IT,49.19,65.5,5.13,Y,Not Placed,1.5,150000 INR,8.0,0 ,,Cash,student665@example.com,9895123177
+STU1666,Rahul Agrawal,25.0,MALE,,Karnataka,cse,75.41,58.9,7.84,No,Yes,3.91,391000.0,4.0,2,,,student666@example.com,
+STU1667,Rishabh Khan,25.0,male,Bengaluru,Karnataka,AIML,76.84,86.8,7.44,yes,Not Placed,6.73,673000.0,4.0,5 ,2025-07-01,Cash,student667@example.com,9565788042
+STU1668,Sneha Verma,18.0 ,Male,Gwalior,Madhya Pradesh,aiml,72.17,70.5,6.86,NO,No, 1.51 ,151000.0,6.0,5,2022-01-12,,student668@example.com,
+STU1669,Sneha Chauhan,27.0,M,Nagpur,Maharashtra,Computer Science,73.59,56.1,7.39,yes,placed,5.15,515000.0,0.0,1,2024-01-09,Cash,student669@example.com,9976139210
+STU1670,Karan Jain,21.0,male,INDORE,Madhya Pradesh,civil,78.87,73.8,7.77,no,Yes,7.36,736000.0,8.0,1,2022-02-24,Cash,student670@example.com,9423108101
+STU1671,Neha Sharma,20.0,Female,DEWAS,Madhya Pradesh,AIML,73.36,82.4,7.5,yes,No,2.99,299000.0,7.0,3,2024-08-28,UPI,student671@example.com,9582664425
+STU1672,Yash Mishra,21.0,MALE,nagpur,Maharashtra,cse,80.11,86.6,7.66,N,Placed,5.49,549000.0,1.0,5,2023-02-17,,student672@example.com,9546339338
+STU1673,Simran Gupta,27.0,Male,dewas,Madhya Pradesh,E.C.E,67.37,76.1,6.85,YES,No,7.61,761000.0,8.0,4,2025-05-05,,student673@example.com,9349006937
+STU1674,Aarav Mehta,18.0,F,kolkata,,ME,85.31,59.6,unknown,,PLACED,9.52,952000.0,?,3,2024-12-17,Cash,student674@example.com,9631275428
+STU1675,Kavya Joshi,28.0,MALE,nagpur,Maharashtra,Computer Science,74.19,93.3,8.12,yes,PLACED,?,?,3.0,3,2023-12-12,CARD,student675@example.com,9570417771
+STU1676,Muskan Soni,26.0,F,pune,Maharashtra,Mechanical,71.99,92.6,7.25,NO,placed,5.52,552000.0,4.0,5,2023-03-26,Net Banking,,9547601168
+STU1677,Priya Chauhan,,FEMALE,Bengaluru,Karnataka,DS,62.38,99.9,5.95,yes,not placed,6.8,680000.0,4.0,5,2026-02-13,Cash,student677@example.com,9816246415
+STU1678,Karan Patel,20.0,FEMALE,Dewas,Madhya Pradesh,Computer Science,?,58.4,7.73,,No,2.22,222000.0,4.0,1,2022-12-21,upi,,9697892214
+STU1679,Rishabh Khan,18.0,,indore ,Madhya Pradesh,AI ML,78.01,90.4, 7.59 ,Yes,Not Placed,6.07,607000.0,5.0,3,2024-01-05,Cash,student679@example.com,9763103142
+STU1680,Aman Jain,19.0,M,pune,Maharashtra,I.T.,99.27,70.9,9.56,N,Placed,10.68,1068000.0,8.0,2,2025-02-24,Card,student680@example.com,9841027438
+STU1681,Arjun Joshi,27.0,,Gwalior,Madhya Pradesh,E.C.E,99.4,78.1,10.0,NO,Not Placed,10.91,1091000.0,1.0,4,2025-10-03,Cash,student681@example.com,9984344748
+STU1682,Arjun Patel,18.0,Female,gwalior,,Data Science,56.12,71.2,6.04,no,Not placed,7.18,N/A,2.0,5,2024-11-04,cash, student682@example.com,9860384622
+STU1683,Arjun Patel,26.0,F,DEWAS,Madhya Pradesh,it,77.01,65.7,8.4,yes,Not Placed,5.78,578000.0,3.0,unknown,2024-10-17,Net Banking,student683@example.com,9925942935
+STU1684,Ananya Gupta,21.0,male,indore ,Madhya Pradesh,C.S.E,62.64,82.8,6.81,Y,Not placed,,653000.0,6.0,2,2024-08-28,upi,student684@example.com,9262791297
+STU1685,Rohan Chauhan,24.0,MALE,Gwalior,Madhya Pradesh,E.C.E,74.64,84.5,unknown,,No,6.73,,8.0,5,2023-04-13,CARD,student685@example.com,9131957698
+STU1686,Aarav Joshi,20.0,Female,dewas,Madhya Pradesh,CSE,,73.8,3.0,N,Not placed,1.5,150000.0,6.0,1,2026-04-27,Net Banking,student686@example.com,9166001117
+STU1687,Rohan Soni,18.0,,,Madhya Pradesh,civil,74.18,75.1,8.03,Y,Yes,9.16,916000.0,6.0,5,2025-09-14,cash,student687@example.com,9874759532
+STU1688,Aarav Agrawal,23.0,M,kolkata,West Bengal,me,60.55,75.9,6.03,yes,Yes,,332000.0,7.0,5,2023-12-06,,student688@example.com,9684572202
+STU1689,Kavya Joshi,27.0,F,nagpur,Maharashtra,,71.12,67.4,6.72,YES,not placed,6.01,601000.0,4.0,0,2025-08-28,UPI,student689@example.com,9677064820
+STU1690,Rohan Yadav,24.0,M,JAIPUR,Rajasthan,AIML,78.07,66.7,8.12,No,PLACED,5.3,?,8.0,2,,Card,student690@example.com,9125148911
+STU1691,Rishabh Singh,26.0,M,indore ,Madhya Pradesh,civil,72.05,,7.19,YES,,6.23,623000.0,0.0,2,2025-04-28,cash,student691@example.com,9773224887
+STU1692,Vivaan Chauhan,23.0,Female,Gwalior,,E.C.E,59.74,75.2,5.9,Y,Placed,2.65,265000.0,7.0,2,2022-09-11,upi,student692@example.com,9964778305
+STU1693,Simran Agrawal,27.0,female,,West Bengal,IT,N/A,56.3,6.35,Y,PLACED,3.97,397000.0, 2.0 ,5,2025/03/04,Net Banking,student693@example.com,9657987812
+STU1694,Ananya Yadav,21.0,female,CALCUTTA,West Bengal,data science,,?,6.37,N,No,5.37,537000.0,1.0,1,,Net Banking,student694@example.com,9989528128
+STU1695,Vivaan Mehta,19.0,male,UJJAIN,Madhya Pradesh,E.C.E,81.99,68.9,7.78,no,No,4.18,418000.0,1.0,2,2022-07-08,Net Banking,student695@example.com,9731617307
+STU1696,Sneha Agrawal,26.0,M,Gwalior,Madhya Pradesh,Mechanical,60.2,73.1,5.75,NO,Yes,1.5,150000.0,7.0,5,2026-05-15,,student696@example.com,9885675101
+STU1697,Pooja Patel,20.0,FEMALE,Ujjain,Madhya Pradesh,civil,N/A,80.5,6.28,NO,placed,3.4,340000.0,8.0,4,2022-10-23,Cash,student697@example.com,9845682242
+STU1698,Vivaan Joshi,25.0,male,Pune,Maharashtra,,61.39,65.0,6.13,N,Not Placed,2.72,272000.0,6.0, 0 ,2024-08-27,Cash,student698@example.com,9496839906
+STU1699,Pooja Patel,22.0,Female,Nagpur,Maharashtra,IT,77.17,53.0,N/A,Y,Not placed,6.39,639000.0,4.0,2,,,student699@example.com,9130040913
+STU1700,Neha Sharma,20.0,M,MUMBAI,Maharashtra,IT,unknown,100.0,7.22,no,placed,3.63,363000.0,7.0,0,2025-04-22,Cash,student700@example.com,9687913699
+STU1701,Neha Jain,19.0,M,jaipur,Rajasthan,Mechanical,66.47,53.1,6.62,NO,Not placed,3.28,328000.0,,3,2022-04-02,,student701@example.com,9918138906
+STU1702,Kavya Chauhan,26.0,FEMALE,MUMBAI,Maharashtra,civil,82.65,70.3,8.22,,placed,5.4,540000.0,5.0,0,2025-07-27,Net Banking,student702@example.com,9515790548
+STU1703,Simran Sharma,24.0,FEMALE, PUNE ,Maharashtra,civil,95.82,73.5,10.0 ,,Not Placed,9.97,997000.0,2.0,5,2023-11-26,,student703@example.com,9714174731
+STU1704,Arjun Tiwari,,Female,bengaluru,,AI-ML,75.71,83.2,7.71,Yes,not placed,2.51,251000.0,7.0,4,2025-02-23,UPI,student704@example.com,9229153072
+STU1705,Aarav Gupta,26.0,female,bengaluru,Karnataka,AI-ML,63.54,89.8,6.34,NO,Not Placed,,194000.0,8.0,4,2023-01-04,CARD,student705@example.com,9531427170
+STU1706,Aarav Khan,unknown,,Nagpur,Maharashtra,AI-ML,67.16,100.0,7.15,YES,Placed,5.25,525000.0,8.0,2,,Net Banking,student706@example.com,9376142554
+STU1707,Simran Patel,19.0,M,BHOPAL,Madhya Pradesh,AIML,83.22,,7.73,yes,PLACED,4.34,434000.0,?,1,2022-07-23,cash,student707@example.com,9537309736
+STU1708,Diya Khan,?,male,Bengaluru,Karnataka,Computer Science,?,74.2,9.22,Yes,,7.1,710000.0,6.0,0,unknown,CARD,,9252965855
+STU1709,Sneha Agrawal,23.0,Female,UJJAIN,Madhya Pradesh,C.S.E,98.47,100.0,10.0,no,not placed,8.21,821000.0,?,N/A,2023-06-13,Net Banking,student709@example.com,9223567680
+STU1710,Kavya Yadav,18.0,MALE,New Delhi,Delhi,Computer Science,72.73,56.8,7.79,NO,Placed,3.97,397000.0,6.0,5,2023-10-14,upi,student710@example.com,9119996117
+STU1711,Arjun Singh,26.0,male,Delhi,Delhi,it,N/A,62.6,6.94,YES,No,3.63,363000.0,1.0,5,2025-04-15,,student711@example.com,9940612700
+STU1712,Rahul Chauhan,23.0,female,MUMBAI,Maharashtra,me,58.27,70.5,5.64,YES,No,,,0.0,0,2025-01-11,,student712@example.com,9990531175
+STU1713,Rahul Sharma,22.0,Male,Nagpur,Maharashtra,ece,50.32,81.1,,Y,PLACED,2.58,258000.0,6.0,2,2025-08-30,upi,student713@example.com,9728309864
+STU1714,Rahul Joshi,22.0,Female,gwalior,Madhya Pradesh,it,56.51,74.8,6.06,No,Yes,4.52,452000.0,1.0,1,2022-04-04,cash,,9563816134
+STU1715,Ananya Soni,27.0,F,pune,Maharashtra,civil,N/A,84.8,5.56,Y,No,4.84,484000.0,4.0,1,2024-10-30,,student715@example.com,9466822211
+STU1716,Ananya Sharma,,male,Pune,Maharashtra,CIVIL,74.54,73.7,7.16,Yes,No,3.78,378000.0,?,0,2025-05-12,,student716@example.com,9543630426
+STU1717,Sneha Yadav,25.0,Female,Gwalior,Madhya Pradesh,Data Science,76.56,95.2,7.43,No,Placed,6.5,650000.0,7.0,5,2026-04-11,Cash,student717@example.com,9479025201
+STU1718,Sneha Patel,27.0,Male,Ujjain,Madhya Pradesh,,34.61,69.8,3.45 ,NO,Not placed, 1.5 ,150000.0,3.0,3,2024-01-04,UPI,student718@example.com,9337856110
+STU1719,Rishabh Tiwari,18.0,F,CALCUTTA,West Bengal,AIML,53.02,68.7,5.4 ,No,PLACED,3.1,310000.0,3.0,1,,,student719@example.com,9489767404
+STU1720,Diya Singh,22.0,Male, Indore ,Madhya Pradesh,AIML,32.19,48.3,3.01,YES,Not Placed,1.63,unknown,4.0,4,2024-10-06,,student720@example.com,9283048386
+STU1721,Muskan Tiwari,21.0,male,gwalior,Madhya Pradesh,Computer Science,24.04,71.0,3.0,yes,Not Placed,3.3,?,2.0,2,2025-09-13,upi,student721@example.com,9661652825
+STU1722,Aarav Joshi,10,M,CALCUTTA,West Bengal,CIVIL,61.84,83.4,6.23,NO,Placed,1.5,150000.0,6.0,5,2023-01-28,UPI,invalid_email,9446817822
+STU1723,Arjun Tiwari,24.0,FEMALE,Ujjain,Madhya Pradesh,ece,80.29,81.0,8.21,N,Placed,13.6,1360000.0,,0,2023-07-16,cash,,9551038208
+STU1724,Aarav Mehta,25.0,female,Gwalior,Madhya Pradesh,IT,34.65,100.0,3.36,No,Placed,1.71,171000.0,3.0,5,10-Oct-2023,,student724@example.com,9179929734
+STU1725,Ananya Gupta,21.0,Female,Pune,Maharashtra,civil,67.27,72.1,?,No,Placed,,528000.0,7.0, 3 ,2022-12-03,UPI,invalid_email,9736225068
+STU1726,Aman Verma,23.0,FEMALE,Bengaluru,Karnataka,AI-ML,43.73,88.5 ,4.23,N,Placed,1.5,150000.0,5.0,4,2023-05-28,upi,student726@example.com,9178287411
+STU1727,Arjun Tiwari,27.0,FEMALE,Nagpur,Maharashtra,,60.8,95.6,5.89,No,Not Placed,,462000.0,0.0,0,2024-06-17,Net Banking,student727@example.com,9436381228
+STU1728,Vivaan Soni,19.0,FEMALE,Kolkata,West Bengal,C.S.E,56.3,88.6,5.87,Y,Yes,7.28,N/A,1.0,0,2022-09-19,UPI,student728@example.com,9700498762
+STU1729,Sneha Verma,,MALE, Indore ,Madhya Pradesh,AI-ML,65.19,?,6.55,Yes,No,7.04,704000.0,6.0,3,2024-02-21,Net Banking,student729@example.com,9765946168
+STU1730,Aarav Jain,19.0,F,Nagpur,Maharashtra,,56.5,88.4,5.58,no,Not Placed,3.52,352000.0,,0,2023-11-27,Cash,student730@example.com,9736607029
+STU1731,Pooja Gupta,27.0,,Pune,Maharashtra,ECE,69.47,81.5,6.91,NO,No,,549000.0,2.0,1,2022-09-16,Card,student731@example.com,9955799705
+STU1732,Yash Mishra,?,MALE,indore ,Madhya Pradesh,me,93.25,91.8,9.63,N,PLACED,7.27,727000.0,8.0,1,2022-09-19,Card,invalid_email,9604147303
+STU1733,Yash Khan,27.0,Male,Delhi,Delhi,Mechanical,,91.4,5.68,yes,Placed,6.4,640000.0,,4,2023-12-04,UPI,,9553184702
+STU1734,Karan Chauhan,21.0,Female,jaipur,Rajasthan,it,58.34,74.8,5.26,no,No,2.58,258000.0,7.0 ,4,2023-02-15,CARD,student734@example.com,9721063811
+STU1735,Yash Mehta,23.0,F,Nagpur,,AI-ML,83.95,71.5,8.62,No,No,6.64,664000.0,0.0,3,2025-06-15,upi,student735@example.com,9103969701
+STU1736,Aman Jain,21.0,female,Bengaluru,Karnataka,AIML,73.18,61.9,7.35,NO,Not placed,1.5,150000.0,6.0,1,2025-11-20,Net Banking,student736@example.com,9297831034
+STU1737,Aditya Khan,23.0 ,Male, Indore ,Madhya Pradesh,Mechanical,,55.2,6.92,No,placed,6.51,651000.0,4.0,3,,upi,student737@example.com,9777890337
+STU1738,Aarav Singh,23.0,female,nagpur,Maharashtra,I.T.,75.47,99.3,7.21,yes,not placed,N/A,858000.0,4.0,5,2022-03-31,Card,student738@example.com,9464876250
+STU1739,Karan Sharma,21.0,male,Gwalior,Madhya Pradesh,data science,82.92,74.7,8.69,Y,Not Placed,5.07,507000.0,0.0,5,2023-01-01,Card,student739@example.com,9506865213
+STU1740,Karan Gupta,19.0,,bengaluru,Karnataka,AIML,54.81,69.5,5.3,N,Not placed,,150000.0,2.0,4 ,2023-11-25,,student740@example.com,9863368317
+STU1741,Rohan Chauhan,19.0,female,Bhopal,Madhya Pradesh,AI ML,,74.4,,YES,Not placed,6.24,624000.0,5.0,4,2022-10-23,Net Banking,,9783053289
+STU1742,Diya Mishra,18.0,female,pune,Maharashtra,Data Science,38.87,81.8,3.22,Y,placed,1.5,,5.0,1,2026-04-12,UPI,student742@example.com,9775876602
+STU1743,Muskan Soni,20.0,FEMALE,DELHI,Delhi,aiml,46.11,100.0,4.93,No,No,,311000.0,1.0,1,2024-11-06,Net Banking,student743@example.com,9906710856
+STU1744,Isha Yadav,26.0,FEMALE,bengaluru,Karnataka,AI-ML,88.22,66.2,9.01,,Not placed,7.77,777000.0,8.0,5,,,student744@example.com,9868423193
+STU1745,Muskan Mehta,25.0,Male,dewas,Madhya Pradesh,AIML,72.22,95.8,7.48,no,not placed,6.25,625000.0,7.0,1,2023-07-04,Net Banking,student745@example.com,9334713230
+STU1746,Muskan Patel,24.0,F,Delhi,Delhi,it,41.52,64.6,4.11,No,placed,2.19,219000.0,1.0,2,2024-02-12,,student746@example.com,9657079511
+STU1747,Vivaan Jain,21.0,F,jaipur,Rajasthan,E.C.E,,100.0,,NO,No,4.66,466000.0,6.0,3,2025-04-10,CARD,student747@example.com,9963830093
+STU1748,Sneha Sharma,23.0,male,Dewas,Madhya Pradesh,E.C.E,69.15 ,75.0,,no,PLACED,4.88,488000.0,1.0,2,14-Jul-2023,,student748@example.com,9416236101
+STU1749,Aditya Chauhan,26.0,M,gwalior,Madhya Pradesh,aiml,72.12,60.6,7.33,No,Not Placed,5.28,528000.0,1.0,2,2025-01-24,UPI,student749@example.com,9686291021
+STU1750,Ananya Gupta,23.0,M,Pune,Maharashtra,CIVIL,37.48,66.0,3.6,Y,not placed,4.86,486000.0,2.0,5,07-Feb-2023,cash,student750@example.com,9109163182
+STU1751,Sneha Mehta,22.0,Male,DELHI,Delhi,ECE,76.9,59.3,7.86,yes,,3.36,336000.0,3.0,1,2023-12-11,,student751@example.com,9609424194
+STU1752,Simran Chauhan,26.0,FEMALE, PUNE ,,Civil,85.32,71.4,8.5,NO,Not placed,9.24,,,2,2025-04-17,upi,student752@example.com,9560412945
+STU1753,Kavya Jain,24.0,Male,Kolkata,West Bengal,IT,47.41,58.4,4.54,yes,placed,4.36,436000.0,4.0,5,2023-03-06,UPI,student753@example.com,9636656386
+STU1754,Aman Mehta,23.0,MALE,Bangalore,Karnataka,civil,43.69,38.3,4.21,YES,PLACED,3.12,312000.0,5.0,4,2023-11-27,UPI,student754@example.com,9709431623
+STU1755,Ananya Mishra,,,indore ,Madhya Pradesh,ece,87.2,71.5, 8.58 ,no,Yes, 9.02 ,unknown,1.0,4,2022-11-11,Net Banking,student755@example.com,9302227118
+STU1756,Muskan Jain,19.0,,DEWAS,Madhya Pradesh,C.S.E,38.08,72.6,3.87,yes,Not Placed,2.57,257000.0,8.0,1,2023-11-05,UPI,student756@example.com,9987420587
+STU1757,Aarav Patel,27.0,,Kolkata,West Bengal,C.S.E,59.84,78.5,5.11,YES,PLACED,1.94,194000.0,3.0,1,2024-09-27,,student757@example.com,9808207780
+STU1758,Vivaan Khan,19.0,Male,Gwalior,Madhya Pradesh,,75.26,64.2,7.55,N,Yes,6.61,661000.0, 6.0 ,1,07-20-2024,Cash,student758@example.com,9238660514
+STU1759,Aditya Mehta,24.0,female,gwalior,Madhya Pradesh,AIML,62.52,80.4,5.92,no,PLACED,3.64,364000.0,6.0,5,2024-09-06,,student759@example.com,9270490067
+STU1760,Muskan Singh,27.0,FEMALE,Nagpur,Maharashtra,I.T.,77.76,80.2,7.57,no,Placed,6.23,623000.0,2.0,3,2023-09-28,Cash,student760@example.com,9985388850
+STU1761,Pooja Khan,27.0,FEMALE,ujjain,Madhya Pradesh,E.C.E,N/A,49.3,8.35,NO,Placed,6.08,608000.0,1.0,2,2023-05-21,,student761@example.com,9472354161
+STU1762,Diya Agrawal,22.0,male,CALCUTTA,West Bengal,E.C.E,74.81,94.8,,no,placed,,392000.0,6.0,3,2024-03-11,Net Banking,student762@example.com,9807681800
+STU1763,Sneha Joshi,27.0,Male,Mumbai,Maharashtra,AIML,63.38,67.0,6.95,,PLACED, 3.6 ,360000.0,8.0,2,2022-07-15,Cash,student763@example.com,9849519028
+STU1764,Neha Chauhan,21.0,Female,,West Bengal,IT,59.11,80.9,5.49,No,Not Placed,?,₹283000,,2,2024-10-07,Net Banking,student764@example.com,9584188831
+STU1765,Pooja Sharma,22.0,FEMALE,MUMBAI,Maharashtra,CSE,73.08,73.3,7.28,No,No,4.56,456000.0,6.0,2,2023-03-01,,student765@example.com,9308739262
+STU1766,Rishabh Verma,18.0,male,ujjain,Madhya Pradesh,IT,43.77,82.5,4.99,NO,,3.02,₹302000,7.0,0,2022-01-22,Cash,student766@example.com,9688870662
+STU1767,Kavya Patel,21.0,FEMALE,bengaluru,Karnataka,data science,71.6,87.7,6.72,Y,placed,7.96,796000.0,,0,2026-01-01,Cash,student767@example.com,9290306358
+STU1768,Sneha Patel,19.0,Female,Delhi,Delhi,Civil,71.24,100.0,6.87,Yes,PLACED,8.33,833000.0,2.0,3,2024-12-30,,,9291061870
+STU1769,Simran Singh,18.0,FEMALE,Pune,Maharashtra,CIVIL,80.4,85.7,8.12 ,,Not Placed,?,unknown,6.0,5,2025-10-14,cash,student769@example.com,9576727072
+STU1770,Vivaan Chauhan,27.0,MALE,INDORE,Madhya Pradesh,,87.21,80.0,,no,not placed,4.32,432000.0,5.0,1,2022-01-10,upi,student770@example.com,9198125433
+STU1771,Aarav Khan,24.0,female, Indore ,Madhya Pradesh,civil,65.03,82.3 ,6.48,,not placed,6.82,682000.0,1.0,5,2022-02-27,Card,student771@example.com,9877401428
+STU1772,Pooja Verma,18.0,F,mumbai,,IT, 36.78 ,?,3.04,no,not placed,2.21,221000.0,8.0,3,2024-05-01,Net Banking,student772@example.com,9229712269
+STU1773,Priya Khan,21.0,male,Pune,Maharashtra,CSE,66.49,83.9,6.35,YES,Not placed,6.79,679000.0,0.0,3,,,student773@example.com,9592606909
+STU1774,Rishabh Tiwari,N/A,F,pune,Maharashtra,Computer Science,84.67,86.2,8.42,,not placed,7.81,781000.0,, 2 ,2025-09-09,,student774@example.com,9209321507
+STU1775,Rahul Gupta,26.0,Female,kolkata,West Bengal,me,56.69,unknown,6.25,N,Yes,6.3,630k,2.0,2,2025-03-11,Card,student775@example.com,9782205574
+STU1776,Isha Verma,,F,kolkata,West Bengal,CSE,56.33,83.1 ,5.18,NO,Yes,4.23,423000.0,?,5,unknown,,student776@example.com,9640543154
+STU1777,Aarav Mishra,18.0,Female,Nagpur,Maharashtra,it,75.21,51.8,7.11,no,Yes,4.81,481000.0,3.0,4,unknown,Cash,student777@example.com,9164341850
+STU1778,Yash Singh,23.0,male,mumbai,Maharashtra,E.C.E,63.19,61.1,6.46,no,Placed,5.06,506000.0,3.0,5,2024-10-18,,student778@example.com,9893769688
+STU1779,Ananya Tiwari,20.0,Male,JAIPUR,Rajasthan,ME,64.89,67.4,6.86,YES,PLACED,8.03,803000.0,?,1,2023-07-24,CARD,student779@example.com,9468001834
+STU1780,Vivaan Soni,21.0,female,Pune,Maharashtra,,60.26,69.4,6.2,no,Yes,3.68,?,unknown,2,2025-01-09,Card,student780@example.com,9574981389
+STU1781,Isha Verma,18.0,female,Bangalore,Karnataka,C.S.E,65.77,88.4,5.91,yes,not placed,6.37,637000.0,2.0,0,2022-05-13,Card,student781@example.com,9736332312
+STU1782,Pooja Verma,21.0,MALE,gwalior,Madhya Pradesh,,69.16,72.2,6.88,NO,PLACED,5.0,,2.0,5,2023-04-29,upi,student782@example.com,9362986175
+STU1783,Aman Gupta,20.0,M,ujjain,Madhya Pradesh,ME,40.3,98.9,4.04,NO,not placed,2.74,274000.0,4.0,3,2025-05-25,Cash,student783@example.com,9486098163
+STU1784,Isha Jain,24.0,MALE,Ujjain,Madhya Pradesh,ME,83.22,63.7,8.49,YES,placed,6.36,636000.0,7.0,0,2022-12-10,Net Banking,student784@example.com,9558914339
+STU1785,Simran Patel,22.0,male,BHOPAL,Madhya Pradesh,IT,81.55,48.2,unknown,YES,No, 5.35 ,535000.0,4.0,3,2025-05-03,cash,,9502810902
+STU1786,Aditya Khan,27.0,male,Gwalior,Madhya Pradesh,Civil,74.92,unknown,7.24,NO,not placed,4.18,418000.0,2.0,1,2024-09-11,,student786@example.com,9113780688
+STU1787,Sneha Soni,23.0,MALE,gwalior,,ece,66.23 ,,6.92,N,Yes,4.45,445000.0,,2,2024-10-03,Cash,,9538932325
+STU1788,Muskan Patel,19.0,female,Indore,Madhya Pradesh,DS,21.49,72.8,3.0,YES,PLACED,1.5,150000.0,unknown,4,2024-02-28,,student788@example.com,9781804304
+STU1789,Vivaan Tiwari,23.0,,,West Bengal,ece,48.2,79.5,5.29,no,not placed,3.88,-1000,7.0,0,27 November 2025,CARD,student789@example.com,9777480312
+STU1790,Rohan Gupta,28.0,FEMALE,kolkata,West Bengal,CIVIL,58.3,84.4,5.67,yes,PLACED,2.49,249000.0,3.0,4,27/02/2022,Card,student790@example.com,9113247168
+STU1791,Sneha Mehta,19.0,Female,Bhopal,Madhya Pradesh,ME,49.53,53.5,4.82,no,Yes,3.09,309000.0,2.0,3,2025-08-12,cash,student791@example.com,9842854111
+STU1792,Sneha Mishra,26.0,M,Delhi,Delhi,civil,66.45,72.2,6.31,YES,Not Placed,5.54,554000.0,1.0,5,2024-12-27,CARD,student.com,9974270684
+STU1793,Karan Soni,22.0,MALE,Mumbai,Maharashtra,civil,46.93,88.9,4.34,Y,Placed,1.5,150000.0,2.0,3,2026-03-14,UPI,student793@example.com,9204014085
+STU1794,Neha Tiwari,24.0,M,BHOPAL,Madhya Pradesh,Civil,44.53,71.0,4.79,YES,,3.7,370000.0,,2,2024-12-11,Card,student794@example.com,9855964923
+STU1795,Rahul Yadav,21.0,Female,Mumbai,Maharashtra,E.C.E,83.65,85.3,7.98,no,placed,5.68,,3.0,0,2024-09-23,Card,student795@example.com,12345
+STU1796,Kavya Tiwari,22.0,Female,pune,Maharashtra,DS,55.52,96.6,5.13,yes,Not Placed,4.75,475000.0,4.0,0,2024-04-17,Net Banking,student796@example.com,9233875825
+STU1797,Aarav Mishra,19.0,female,DELHI,Delhi,,82.29,100.0,8.09,NO,Not Placed,7.68,768000.0,0.0,0,2023-12-02,cash,student797@example.com,9907237702
+STU1798,Vivaan Verma,28.0,female, Indore ,Madhya Pradesh,me,100.0,N/A,9.46,Yes,Yes,,452000.0,8.0,2,2025-04-07,,student798@example.com,9608128757
+STU1799,Ananya Khan,27.0,F,JAIPUR,Rajasthan,I.T.,79.4,51.6,7.81,no,Not placed, 6.9 ,688000.0,6.0,3,2024-05-29,UPI,student799@example.com,9482283477
+STU1800,Kavya Agrawal,unknown,MALE,jaipur,Rajasthan,Civil,70.96,84.0,7.17,yes,Placed,7.69,769000.0,1.0,4,2022-01-07,cash,student800@example.com,9850829666
+STU1801,Diya Tiwari,23.0 ,FEMALE,pune,Maharashtra,ME,52.76,,5.01,YES,not placed,4.51,451000.0,0.0,5,14 July 2024,,student801@example.com,9117856651
+STU1802,Ananya Tiwari,23.0,FEMALE,Bangalore,Karnataka,AI-ML,82.41,84.3,8.66,NO,Yes,4.91,491000.0,1.0,2,04 April 2022,Net Banking,student802@example.com,9611232011
+STU1803,Sneha Gupta,,female,bengaluru,,Civil,94.68,99.3,9.73,yes,Placed,,1141000.0,2.0,3,2026-02-12,Cash,student803@example.com,9423570275
+STU1804,Rahul Soni,,FEMALE,bengaluru,Karnataka,cse,,70.7,3.89,NO,not placed,3.08,308000.0,3.0,1,08-14-2024,Card,student804@example.com,9908798730
+STU1805,Neha Joshi,19.0,Male,bengaluru,Karnataka,aiml,51.2,88.6,5.6,N,Yes,4.91,491000.0,4.0,1,2022-08-05,cash,student805@example.com,9815039775
+STU1806,Rohan Soni,28.0,FEMALE,Dewas,Madhya Pradesh,CSE,72.54,64.2,6.96,N,not placed,unknown,741000.0,1.0,5,unknown,CARD,student806@example.com,
+STU1807,Simran Agrawal,24.0,MALE,CALCUTTA,West Bengal,data science,80.47,,7.9,no,not placed,2.54,254000.0,4.0,0,,cash,student807@example.com,12345
+STU1808,Muskan Soni,19.0,female,BHOPAL,Madhya Pradesh,CIVIL,50.87,100.0,,No,Not placed,2.95,295000.0,2.0,2,2023-11-28,Net Banking,student808@example.com,9719459743
+STU1809,Vivaan Mishra,,female,CALCUTTA,West Bengal,DS,84.12,60.4,8.48,YES,Yes,8.52,852000.0,5.0,2,unknown,Card,student809@example.com,
+STU1810,Aman Verma,27.0,MALE,bengaluru,Karnataka,C.S.E,68.2,,6.24 ,NO,Not placed,6.27,627000.0,2.0,2,2025-04-24,upi,student810@example.com,9636691235
+STU1811,Diya Gupta,25.0,male,Bengaluru,Karnataka,Civil,65.24,88.8,6.68,,Not placed,3.53,353000.0,4.0,4,2022-10-29,Cash,student811@example.com,9393617431
+STU1812,Karan Jain,unknown,M,Kolkata,West Bengal,Civil,71.66,52.0,7.38,YES,Placed,unknown,615000.0,5.0,1,2024-09-06,upi,student812@example.com,9886685642
+STU1813,Rahul Agrawal,18.0,FEMALE, PUNE ,Maharashtra,Civil,78.22,92.8,7.95,YES,PLACED,,651000.0, 2.0 ,0,2026-05-09,Net Banking,student813@example.com,9462291384
+STU1814,Priya Chauhan,28.0,MALE,ujjain,Madhya Pradesh,E.C.E,53.9,68.0,5.81,No,PLACED,,648000.0,4.0,unknown,2024-08-27,upi,student814@example.com,9852809702
+STU1815,Rohan Khan,24.0,Male,gwalior,Madhya Pradesh,DS,64.19,78.6,6.1,Y,No,6.32,632000.0,2.0,4,2022-07-19,Card,student815@example.com,9574469049
+STU1816,Rohan Singh,25.0,female,,West Bengal,Data Science,78.65,100.0,7.56,,,5.14,514000.0,5.0,5,2023-08-20,Cash,student816@example.com,9828338194
+STU1817,Rahul Soni,24.0,Male,mumbai,Maharashtra,C.S.E,71.7,87.1,7.09,N,No,3.73,373000.0,2.0,0,2024-05-24,Cash,student817@example.com,9653444307
+STU1818,Neha Patel,,MALE,bengaluru,Karnataka,AIML,82.1,88.1,7.89,Yes,Not Placed,8.6lpa,862000.0, 3.0 ,3,2025-04-30,,student818@example.com,9425010492
+STU1819,Sneha Chauhan,27.0,Female,,West Bengal,data science,86.72 ,79.9,8.7,NO,Yes,8.07,,4.0,5,2022-12-20,,student819@example.com,9494410130
+STU1820,Aditya Verma,19.0,FEMALE,INDORE,Madhya Pradesh,civil,54.21,78.4,4.67,no,Placed,,421000.0,7.0,2,2022-08-27,Cash,student820@example.com,9952920067
+STU1821,Isha Tiwari,20.0,MALE,nagpur,Maharashtra,I.T.,43.02,99.0,4.19,yes,Not Placed,1.73,173000.0, 5.0 ,0,2024-02-26,Card,student821@example.com,9535220327
+STU1822,Simran Agrawal,18.0,FEMALE,CALCUTTA,West Bengal,C.S.E, 57.96 ,74.0,6.29,No,not placed,,150000.0,1.0,1,2024-03-17,Card,student822@example.com,9105716605
+STU1823,Arjun Sharma,25.0,male,Gwalior,Madhya Pradesh,Mechanical,88.43,82.7,8.42,no,placed,4.83,483000.0 ,1.0,4,2023-10-06,cash,student823@example.com,9908601398
+STU1824,Pooja Gupta,19.0,F,INDORE,Madhya Pradesh,ME,94.82,,9.08,yes,Yes,,954000.0,0.0,N/A,2022-09-13,cash,student824@example.com,9149570642
+STU1825,Simran Jain,22.0,male,Gwalior,Madhya Pradesh,me,73.42,140,7.42,NO,Not placed,,382000.0,8.0,2,2025-09-11,upi,student825@example.com,9838659551
+STU1826,Aman Sharma,28.0,,BHOPAL,Madhya Pradesh,aiml,unknown,,8.75,Y,not placed,7.78,778000.0,2.0,4,2022-04-02,upi,student826@example.com,9735422310
+STU1827,Diya Mehta,22.0,Female,JAIPUR,Rajasthan,ME,96.18,78.0,9.2,Y,PLACED,8.43,843000.0,6.0,?,2022-09-21,Card,student827@example.com,9529560480
+STU1828,Neha Joshi,19.0,male,Dewas,Madhya Pradesh,ME,100.0,,9.87,no,Not Placed,9.11,911000 INR,4.0,5,2023-06-05,upi,student828@example.com,9867129446
+STU1829,Pooja Mishra,27.0,male,JAIPUR,Rajasthan,ECE,67.14,64.2,7.11,yes,Not placed,9.5,950000.0,6.0,3,2025-09-08,UPI,student829@example.com,9748118351
+STU1830,Arjun Yadav,19.0,Female,Pune,Maharashtra,,71.14,65.3,6.57,YES,Not Placed,5.19,519000.0,5.0,5,2023-07-08,Cash,student830@example.com,9489574448
+STU1831,Aman Gupta,22.0,Male,Jaipur,Rajasthan,C.S.E,85.66,84.7,8.57,YES,not placed,5.87,587000.0,6.0,0,2022-10-27,Cash,student831@example.com,9288690127
+STU1832,Isha Verma,22.0,,Gwalior,Madhya Pradesh,Civil,50.53,89.7,5.37,Y,PLACED,1.5,?,1.0,0,2025-04-20,,student832@example.com,9441446020
+STU1833,Simran Yadav,20.0,MALE,Ujjain,Madhya Pradesh,ECE,93.44, 86.0 ,9.83,yes,PLACED,,590000.0,0.0,5,08-Dec-2023,Card,student833@example.com,9806052829
+STU1834,Muskan Joshi,20.0 ,,Mumbai,Maharashtra,Computer Science,,75.9,4.79,N,,6.0,600000.0,6.0,5,2024-02-15,,student834@example.com,9296606987
+STU1835,Pooja Gupta,23.0,M,Dewas,Madhya Pradesh,ece,79.3,74.6, 7.57 ,no,PLACED,8.04,804000.0,1.0,2,2024-08-17,,student835@example.com,9927402258
+STU1836,Aditya Verma,19.0,female,jaipur,Rajasthan,C.S.E,52.56,100.0,5.16,yes,Placed,6.04,604000.0,1.0,5,2025-07-23,cash,student836@example.com,9695024527
+STU1837,Pooja Soni,18.0,male,DEWAS,Madhya Pradesh,ECE,78.86,76.1,7.7,NO,Not Placed,5.36,,6.0,0,2024-05-18,upi,student837@example.com,9992706183
+STU1838,Neha Joshi,18.0,F,kolkata,West Bengal,aiml,74.85,79.1,7.28,Yes,No,5.21,521000.0,2.0,5,2026-01-02,upi,student838@example.com,9287705313
+STU1839,Pooja Khan,99,Male, Bhopal,Madhya Pradesh,E.C.E,69.26,,7.09,NO,Yes,3.54,354000.0,2.0,2,2022-10-01,,student839@example.com,9462880277
+STU1840,Arjun Gupta,21.0,M,Bangalore,Karnataka,ece,49.55,54.4,4.33,Y,PLACED,1.5,150000.0,3.0,0,2025-01-09,Net Banking,student840@example.com,9333499326
+STU1841,Vivaan Soni,28.0,FEMALE,Delhi,Delhi,me,56.66,100.0,5.48,NO,Placed, 3.85 ,385000.0,5.0,0,2024-11-21,,student841@example.com,9452779815
+STU1842,Aarav Khan,23.0,male,delhi,Delhi,ECE,74.41,79.8,7.41,N,Placed,3.5,350000.0,1.0,3,2022-08-08,,student842@example.com,9312111726
+STU1843,Rohan Mehta,26.0,Female,Bhopal,Madhya Pradesh,ece,91.21,100.0,8.53,Yes,placed,5.04,504000.0,4.0,1,2024-11-19,,,9524513309
+STU1844,Neha Soni,22.0,male,JAIPUR,Rajasthan,,63.52,64.5,6.53,Y,Not Placed,,337000.0,7.0,5,2024-01-17,,student844@example.com,9273768263
+STU1845,Neha Sharma,23.0,F,Mumbai,Maharashtra,DS,100.0,94.7,10.0,no,Not Placed,10.35,1035000.0,3.0,2,2026-03-11,UPI,student845@example.com,9243538161
+STU1846,Ananya Soni,24.0,Male,UJJAIN,Madhya Pradesh,AI-ML,85.69,70.1,8.28,no,No,6.75,675000.0,4.0,0,2026-03-04,Net Banking,student846@example.com,9625132584
+STU1847,Rohan Khan,25.0,MALE,gwalior,Madhya Pradesh,ME,81.79,,7.63,YES,placed,4.45,,N/A,0,,,student847@example.com,
+STU1848,Aarav Chauhan,23.0,female,MUMBAI,Maharashtra,C.S.E,66.82,76.9,7.37,N,Yes,3.11,311000.0,0.0,3,2024-10-21,,student848@example.com,
+STU1849,Neha Singh,25.0,male,Delhi,Delhi,Civil,76.09,98.8,8.4,yes,not placed,6.01,601000.0,4.0,N/A,2022-06-19,cash,student849@example.com,9852645523
+STU1850,Karan Jain,28.0,Female, PUNE ,Maharashtra,CIVIL,75.86,86.0,7.65,yes,not placed,5.74,574000.0,,1,2024-05-28,Cash,student850@example.com,9242051544
+STU1851,Karan Soni,18.0,,UJJAIN,Madhya Pradesh,E.C.E,74.98,42.5,7.74,Yes,not placed,6.24,624000.0,1.0,0,2023-07-15,Net Banking,,9537332024
+STU1852,Aman Singh,22.0,F,Gwalior,,ECE,64.44,100.0,,NO,Placed,3.61,361000.0,8.0,3,2025-12-04,,student852@example.com,9426728893
+STU1853,Rishabh Khan,22.0,MALE,BHOPAL,Madhya Pradesh,aiml,99.86,,9.79,N,Placed,,800000.0,2.0,0,2024-01-15,UPI,student853@example.com,9155974840
+STU1854,Yash Jain,23.0,M,Bangalore,Karnataka,me,81.45,80.9,7.69,No,,5.0,500000.0,2.0,2,2023-03-11,,student854@example.com,9490392385
+STU1855,Arjun Tiwari,22.0,Male,JAIPUR,Rajasthan,CIVIL,58.28,76.9,5.98,yes,Not placed,4.83,483000.0,5.0,5,2022-08-17,,student855@example.com,9897717178
+STU1856,Priya Singh,26.0,M,nagpur,Maharashtra,AI ML,39.58,92.9,4.05,YES,Not Placed,4.45,445000.0,1.0,1,2025-05-23,Cash,student856@example.com,
+STU1857,Karan Joshi,28.0,FEMALE,Nagpur,Maharashtra,Computer Science,75.11,93.4,7.67,No,Not placed,8.36,836000.0,N/A,5,2023-01-26,,student857@example.com,9917104656
+STU1858,Rohan Sharma,26.0,, PUNE ,Maharashtra,AI ML,76.36,76.6,8.43,YES,PLACED,?,837000.0,8.0,2,2026-01-16,CARD,student858@example.com,9581554115
+STU1859,Aditya Jain,19.0,MALE,Bengaluru,Karnataka,ME,77.18,60.1,7.27,Yes,placed,6.02,9999999,4.0,5,2024-06-12,Card,student859@example.com,9411016150
+STU1860,Karan Joshi,,, Indore ,Madhya Pradesh,ECE,70.33,69.4,7.08,,placed,8.15,815000.0,7.0,4,2022-05-05,,student860@example.com,9703978257
+STU1861,Rishabh Singh,24.0,male,Ujjain,Madhya Pradesh,CSE,79.13,,7.87,,not placed,4.71,471000.0,0.0,4,2025-05-28,,student861@example.com,9640970200
+STU1862,Yash Agrawal,26.0,female,Kolkata,West Bengal,I.T.,61.8,72.2,6.01,Y,Not Placed,1.85,?,2.0,1,2023-06-15,UPI,student862@example.com,9672911909
+STU1863,Rohan Soni,22.0,M,Pune,Maharashtra,AI-ML,65.96,70.2,5.57,Y,Placed,?,?,3.0,1,unknown,Cash,student863@example.com,9101503196
+STU1864,Diya Khan,23.0,F,Bengaluru,Karnataka,cse,85.42,72.7,8.55 ,Y,placed,4.8,480000.0,6.0,4,2025-07-19,cash,student864@example.com,9448574326
+STU1865,Priya Singh,28.0,M,indore,Madhya Pradesh,AI-ML,95.13,100.0,9.57,Y,Placed,9.87,N/A,8.0,unknown,2022-01-22,Cash,student865@example.com,9875888196
+STU1866,Rishabh Agrawal,24.0,female,Kolkata,West Bengal,data science,70.8,?,6.94,,not placed,5.37,,5.0,2,2025-09-01,upi,student866@example.com,9724556746
+STU1867,Kavya Singh,,,bengaluru,Karnataka,IT,60.73,74.9,6.04,yes,No,4.0,400000.0,1.0,3,2022-11-15,Card,student867@example.com,9593266377
+STU1868,Muskan Jain,20.0,male,MUMBAI,Maharashtra,Civil,68.84,63.2,6.63,Y,,2.48,248000.0,4.0,1,2023-01-22,Card,student868@example.com,9977783087
+STU1869,Karan Verma,28.0,male,ujjain,Madhya Pradesh,Computer Science,83.65,48.5,8.77,YES,not placed,,964000.0,7.0,5,29-May-2025,Net Banking,student869@example.com,9207625222
+STU1870,Aarav Mishra,26.0,Female,CALCUTTA,West Bengal,ECE,63.17,41.6,6.19,YES,Placed,4.19,419000.0,1.0,0,2022-10-09,UPI,student870@example.com,9241926172
+STU1871,Rohan Tiwari,19.0,Male,,Maharashtra,Data Science,51.83,70.8,?,Yes,Not Placed,4.99,499000.0,8.0,5,2023-07-03,,student871@example.com,9859624835
+STU1872,Isha Chauhan,21.0,FEMALE,Bhopal,Madhya Pradesh,data science,53.21,55.6,5.21,yes,,2.85,285000.0,5.0,3,2022-10-13,Card,student872@example.com,9361787772
+STU1873,Rishabh Tiwari,26.0,Female,indore ,Madhya Pradesh,Computer Science,75.94,70.5,7.77,Yes,Not Placed,9.53,953000.0,8.0,2,2025/11/18,Cash,student873@example.com,9649264485
+STU1874,Aman Sharma,20.0,female,ujjain,Madhya Pradesh,E.C.E,81.05,77.3,8.04,YES,placed,5.7, 570000.0 ,N/A,5,2022-01-03,cash,student874@example.com,9342541514
+STU1875,Arjun Jain,24.0,male,Bengaluru,Karnataka,CSE,86.89,69.2,8.7,no,,7.16,716000.0,4.0,2,N/A,,student875@example.com,9761099368
+STU1876,Aditya Soni,19.0,Male,JAIPUR,Rajasthan,me,59.97,58.8,6.11,yes,placed,4.11,411000.0,6.0,4,2024-01-09,CARD,student876@example.com,9743827930
+STU1877,Rohan Soni,28.0,M,Mumbai,Maharashtra,ME,76.0,70.5,8.03,Y,Not placed,4.75,475000.0,1.0,2,2024-05-20,,student877@example.com,9810529016
+STU1878,Aditya Chauhan,22.0,,JAIPUR,Rajasthan,Data Science,95.39,53.5,9.69,yes,placed,9.01,901000.0,5.0,1,2025-12-27,Net Banking,student878@example.com,9579635523
+STU1879,Arjun Mishra,25.0,MALE,Kolkata,West Bengal,CIVIL,55.27,83.9,5.97,Y,placed,1.5,?,1.0,2,,Card,student@@example.com,9295283935
+STU1880,Isha Mehta, 23.0 ,FEMALE,UJJAIN,Madhya Pradesh,CIVIL,76.04,43.1,7.27,YES,,8.43,843000.0,2.0,5,2023-10-16,upi,student880@example.com,9511441988
+STU1881,Simran Yadav,26.0,FEMALE,Ujjain,Madhya Pradesh,,58.69,61.6,5.8,no,Yes,7.6,760000.0,1.0,4,2024-10-15,Net Banking,student881@example.com,9665803901
+STU1882,Aditya Singh,21.0,,Nagpur,Maharashtra,CSE,38.69,63.3,4.39,no,Placed,5.67,567000.0,,4,2025-12-10,,student882@example.com,9243444042
+STU1883,Priya Agrawal,18.0,male, Bhopal,Madhya Pradesh,I.T.,N/A,60.7,7.37,NO,placed,8.48,₹848000,8.0,3 ,2023-12-17,upi,student883@example.com,93262775
+STU1884,Rohan Verma,18.0,male,Pune,Maharashtra,ece,78.86,66.6,7.87,Yes,Yes,5.87,587000.0,5.0,0,N/A,Cash,student@@example.com,9811619517
+STU1885,Diya Agrawal,19.0,male,nagpur,Maharashtra,C.S.E,73.29,98.3,7.64,yes,Not placed,3.96,396000.0,2.0,0,2024-09-03,upi,student885@example.com,9182748233
+STU1886,Rohan Chauhan,27.0,male,indore ,Madhya Pradesh,ECE,90.02,82.4,9.24,yes,PLACED,10.3,1030000.0,7.0,3,2024-05-02,CARD,student886@example.com,95767130
+STU1887,Arjun Patel,,Male,bengaluru,Karnataka,CIVIL,50.21,77.5,4.83,Yes,placed,unknown,150000.0,8.0,1,2023-08-11,,student887@example.com,9525621256
+STU1888,Simran Joshi,28.0,M,Ujjain,Madhya Pradesh,Mechanical,,100.0,6.71,Y,not placed,4.82,₹482000, 6.0 ,1,2024-07-19,cash,student888@example.com,9198716092
+STU1889,Karan Mehta,24.0,Male,Gwalior,Madhya Pradesh,,78.25,79.7,7.79,YES,placed,,373000.0,?,4,2022-09-14,Cash,student889@example.com,9976773369
+STU1890,Ananya Tiwari,25.0,MALE,Kolkata,West Bengal,Data Science,71.72,67.4,6.41,YES,placed,6.7,670000.0,0.0,2,2024-09-04,Net Banking,student890@example.com,
+STU1891,Aditya Khan,19.0,F,New Delhi,Delhi,CSE,83.33,78.7,8.41,no,PLACED,8.68,868000.0,2.0,4,2022-08-02,Cash,student891@example.com,9170135921
+STU1892,Yash Singh,27.0,female,pune,Maharashtra,civil,71.59,90.7,7.05,Yes,not placed,7.62,762000.0,4.0,0,2022-01-23,UPI,student892@example.com,9705310487
+STU1893,Ananya Verma,N/A,M,dewas,Madhya Pradesh,,73.13,80.7,6.87,N,PLACED, 5.57 ,557000.0,6.0,4,2022-04-09,upi,student893@example.com,
+STU1894,Arjun Khan,23.0,MALE,Ujjain,Madhya Pradesh,Civil,54.69,69.1,5.18,No,placed,1.5,150000.0,0.0,4,2022-09-23,,student894@example.com,9612124417
+STU1895,Rahul Patel,18.0,FEMALE,Nagpur,Maharashtra,cse,100.0,96.6,10.0,No,not placed,6.3,630000.0,3.0,5,2023-08-18,Card,student895@example.com,9925520324
+STU1896,Pooja Joshi,20.0,F,CALCUTTA,West Bengal,ece,69.14,59.9,6.67,yes,Not placed,3.18,318000.0,4.0,2,unknown,Net Banking,student896@example.com,9142963526
+STU1897,Aman Singh,unknown,Female,Kolkata,West Bengal,AI ML,87.83,72.5,9.16,NO,Not Placed,8.66,?,0.0,1,2024-03-04,,student897@example.com,
+STU1898,Kavya Khan,25.0,male,bhopal,,I.T.,100.0,57.3,10.0 ,,Not Placed,10.56,1056000.0,,4,2022-07-12,CARD,student898@example.com,9479426514
+STU1899,Kavya Gupta,19.0,FEMALE,Bhopal,Madhya Pradesh,I.T.,52.43,92.1,5.36,NO,placed,2.99,299000.0,1.0,4,2023-01-02,,student899@example.com,9142512277
+STU1900,Neha Agrawal,22.0,male,Jaipur,Rajasthan,ece,54.82,67.9,6.2,N,Not placed,?,432000.0,5.0,0,2024-04-01,Net Banking,student900@example.com,9643251546
+STU1901,Vivaan Mishra,22.0,Male,Dewas,Madhya Pradesh,Civil,80.51, 66.9 ,7.78,no,Placed,8.01,801000.0,2.0,0,2025-10-29,cash,student901@example.com,9503535467
+STU1902,Aditya Singh,27.0,MALE,mumbai,Maharashtra,Data Science,,72.2,4.65,,Not Placed,2.82,282000.0,,3,2024-03-28,,student902@example.com,9789862456
+STU1903,Aditya Patel,25.0,,Gwalior,Madhya Pradesh,ece,65.13,83.5,6.76,YES,not placed,6.26,626000.0,6.0,2,2022-08-12,Cash,student903@example.com,12345
+STU1904,Karan Joshi,27.0,FEMALE,JAIPUR,Rajasthan,,52.23,74.0,5.64,Y,No, 5.3 ,unknown,0.0,4,2024-09-22,Card,student904@example.com,9604623813
+STU1905,Ananya Mishra,28.0,,MUMBAI,Maharashtra,Mechanical,46.03,82.9,3.91,YES,Placed,1.89,189000.0,5.0,N/A,2023-03-14,,student905@example.com,9329158874
+STU1906,Neha Gupta,21.0,M,INDORE,Madhya Pradesh,Civil,98.36,64.7,9.54,yes,Not Placed,,?,2.0,0,02-16-2022,,student906@example.com,9534938971
+STU1907,Kavya Agrawal,22.0,MALE,Bhopal,Madhya Pradesh,me,43.32,69.1,4.54,no,PLACED,1.5,150000.0,2.0,0,2025-12-29,,student@@example.com,9560135199
+STU1908,Karan Khan,22.0,,JAIPUR,Rajasthan,E.C.E,64.22,,6.57,NO,placed,5.21,521000.0,6.0,2,2022-12-03,Net Banking,student908@example.com,9983706382
+STU1909,Karan Verma,26.0,male, Indore ,Madhya Pradesh,I.T.,62.57,83.2,6.21,N,Placed,5.16,516000.0,2.0,3,07 May 2025,Card,student909@example.com,
+STU1910,Neha Gupta,19.0,Male,Jaipur,Rajasthan,E.C.E,60.05,75.4,5.66,yes,No,3.66,366000.0,1.0,0,2025-10-12,upi,student910@example.com,
+STU1911,Simran Chauhan,?,male,Pune,Maharashtra,me,55.02,62.4,5.59,YES,not placed,4.03,403000.0,5.0,1,2025-11-27,upi,student911@example.com,9829745265
+STU1912,Priya Sharma,18.0,M,nagpur,Maharashtra,it,80.53,72.0,8.2,No,No,7.51,751000.0,7.0,3,2024-01-29,Net Banking,student912@example.com,9477666117
+STU1913,Pooja Chauhan,26.0,F,jaipur,Rajasthan,Computer Science,75.12,,7.56,yes,No,6.47,647000.0,6.0,2,2024-05-22,Card,student913@example.com,9693514629
+STU1914,Neha Mehta,20.0,M,nagpur,Maharashtra,DS,68.11,48.8,6.87,YES,PLACED,9.04,904000.0,1.0,0,2025-01-16,Cash,student914@example.com,9196248006
+STU1915,Neha Verma,18.0,FEMALE,bengaluru,Karnataka,CIVIL,62.24,67.8,6.35,No,No,5.05,505000.0,8.0,4,2025-06-16,,student915@example.com,9816948303
+STU1916,Aman Chauhan,24.0,FEMALE,DELHI,Delhi,me,87.08,60.4,8.96,YES,Not Placed,8.42,842000.0,unknown,3,2023-03-10,,student916@example.com,9476468571
+STU1917,Sneha Sharma,24.0,F,Dewas,Madhya Pradesh,Data Science,65.73,82.7,6.93,no,PLACED,6.69,669000.0,4.0,5,2025-08-13,,student917@example.com,9430064674
+STU1918,Aarav Soni,28.0,MALE,UJJAIN,Madhya Pradesh,cse,49.71,89.5,4.95,Yes,Placed,3.08,,2.0,2,2023-05-10,CARD,invalid_email,9459800080
+STU1919,Aman Yadav,27.0,MALE,mumbai,Maharashtra,AI-ML,69.17,75.9,7.33,YES,Placed,5.41,541000.0,6.0,N/A,2024-05-30,Net Banking,student919@example.com,9881805071
+STU1920,Pooja Patel,24.0,MALE,,Maharashtra,aiml,50.09,N/A,5.07,No,,,529000.0,8.0,0,2023-10-14,Net Banking,student920@example.com,9918375813
+STU1921,Rahul Khan,22.0,female,Bengaluru,Karnataka,C.S.E,77.65,66.1,8.63,,Placed,7.47,747000.0,6.0,0,2025-02-06,Card,student921@example.com,9129869705
+STU1922,Muskan Mehta,26.0,Male,Nagpur,Maharashtra,CIVIL,88.41,75.9,9.03,yes,No,8.94,894000.0,5.0,1,2022-06-11,upi,student922@example.com,9800640935
+STU1923,Simran Agrawal,N/A,female,pune,Maharashtra,CIVIL,87.49,92.8,9.05,YES,PLACED,N/A,689000.0,0.0,2,2023-02-01,Cash,student923@example.com,9254371352
+STU1924,Muskan Agrawal,18.0,Female,Bengaluru,Karnataka,cse,58.85,82.7,6.21,NO,Not Placed,3.93,393000.0,1.0,1,2025-07-31,cash,student924@example.com,9381314639
+STU1925,Isha Agrawal,unknown,F,Mumbai,Maharashtra,data science,85.04,unknown,8.18,no,Yes,4.99,499000.0,1.0,3,2022-06-08,UPI,student925@example.com,95442554
+STU1926,Aditya Singh,25.0,MALE, Bhopal,Madhya Pradesh,,65.75,82.3,-2,N,No,6.96,696000.0,2.0,1,2025-07-05,cash,student926@example.com,9110888052
+STU1927,Diya Agrawal,28.0,,mumbai,,C.S.E,74.79,78.6,6.98,N,Not placed,2.81,281000.0,,4,2025-03-07,UPI,student927@example.com,9270068104
+STU1928,Karan Mishra,22.0,Male,Gwalior,Madhya Pradesh,Mechanical,72.5,48.1,7.6,,placed,5.58,558000.0,N/A,2,2022-09-07,Cash,student928@example.com,9332956649
+STU1929,Aman Verma,23.0,male,indore,Madhya Pradesh,IT,100.0,100.0,9.94,Y,No,8.24,824000.0,3.0,0,2022-10-11,CARD,student929@example.com,9860298947
+STU1930,Kavya Joshi,,FEMALE,gwalior,Madhya Pradesh,ECE,83.93 ,100.0,7.82,YES,not placed,2.89,289000.0,4.0,1,2023-08-26,upi,student930@example.com,9837722327
+STU1931,Arjun Mishra,22.0,M,kolkata,West Bengal,AIML,58.05,86.2,5.98,no,No,,600000.0,6.0,3,2024-03-15,Net Banking,student931@example.com,9740304225
+STU1932,Diya Verma,22.0,MALE,CALCUTTA,West Bengal,ECE,48.8,45.6,5.18,,Not placed,1.71,171000.0,5.0,5,2023-10-15,Cash,student932@example.com,9582543215
+STU1933,Rishabh Mishra,18.0,MALE,mumbai,Maharashtra,IT,35.7,80.0,3.85,N,Yes,1.52,152000.0,0.0,0,2024-11-13,Card,student933@example.com,9968700591
+STU1934,Priya Singh,24.0,,jaipur,Rajasthan,AI-ML,60.67,75.8,5.94,N,Not placed,1.61,161000.0,2.0,2,16/01/2023,Cash,student934@example.com,9110343356
+STU1935,Ananya Singh,18.0,FEMALE,Jaipur,Rajasthan,me,56.57,85.3,,,not placed,4.15,415000.0,8.0,0,2026-01-08,Net Banking,student@@example.com,9404528485
+STU1936,Karan Verma,21.0,M,nagpur,Maharashtra,civil,52.08,75.5,4.45,No,Yes,2.72,272000.0,6.0, 2 ,2024-12-15,CARD,student936@example.com,9312762389
+STU1937,Isha Sharma,18.0,M, PUNE ,Maharashtra,ece,90.86,57.4,8.88,No,Not Placed,7.86,786000.0,7.0,1,2024-10-08,CARD,student937@example.com,9734765132
+STU1938,Aarav Gupta,unknown,Male,UJJAIN,,CIVIL,88.05,71.7,8.56,Yes,No,?,337000 INR,4.0,1,26/03/2025,Net Banking,student938@example.com,9139737245
+STU1939,Ananya Tiwari,26.0,Male,Gwalior,Madhya Pradesh,cse,69.66,,7.06,NO,Not Placed,5.23,523000.0,6.0,5,2022-03-22,cash,student939@example.com,9394928476
+STU1940,Aditya Yadav,23.0,F,jaipur,Rajasthan,ece,73.15,,7.03,Yes,Yes,6.71,671000.0,4.0,5,,,student940@example.com,
+STU1941,Diya Verma,19.0,Male,Bangalore,Karnataka,AI ML,71.61,78.2 ,,,Placed,7.35,735000.0,2.0,0,2024-02-05,CARD,student941@example.com,9838303704
+STU1942,Rahul Verma,24.0,female,kolkata,West Bengal,civil,78.64,70.3,8.21,N,Placed,5.64,564000.0,0.0,2,,UPI,student942@example.com,9218974458
+STU1943,Rishabh Khan,22.0,MALE,Indore,Madhya Pradesh,I.T.,55.49,,4.93,yes,placed,3.77,377000.0,7.0,0,2022-06-03,Card,student943@example.com,9442880849
+STU1944,Kavya Tiwari,27.0,Female,mumbai,Maharashtra,ME,unknown,60.8,3.14,no,No,1.5,150000.0,7.0,2,2024-04-26,CARD,student944@example.com,
+STU1945,Aditya Gupta,25.0,M,kolkata,West Bengal,Civil,150,73.4,6.19,No,Not placed,2.2,220000.0,8.0,1,,upi,student945@example.com,9846213062
+STU1946,Vivaan Singh,19.0,Male,BHOPAL,Madhya Pradesh,CIVIL,75.43,70.3,7.65,no,No,4.32,432000.0,6.0,1,2024-10-09,,student946@example.com,9212243302
+STU1947,Pooja Yadav,21.0,F,jaipur,Rajasthan,data science,70.9,96.2,7.3,Y,No,4.79,479000.0,2.0,4,,,student947@example.com,9239651408
+STU1948,Kavya Agrawal,23.0,, PUNE ,Maharashtra,DS,72.12,74.6,7.21,YES,not placed,4.84,484000.0,1.0,2,2024-02-29,Net Banking,student948@example.com,9276304457
+STU1949,Arjun Patel,22.0,FEMALE,Bengaluru,Karnataka,Computer Science,,-20,6.19,No,not placed,2.48,,0.0,3,2025-03-28,Card,student949@example.com,9386427794
+STU1950,Pooja Jain,25.0,F,indore ,Madhya Pradesh,IT,45.78,55.6,4.15,,Not Placed,2.35,235000.0,5.0,3,2025-09-17,upi,student950@example.com,9261727042
+STU1951,Pooja Khan,26.0,Male,ujjain,Madhya Pradesh,ece,53.72,,12.5,Y,Not placed,1.5,150000.0,1.0,0,,Net Banking,student951@example.com,9885980740
+STU1952,Karan Mehta,-5,male,Ujjain,Madhya Pradesh,me,78.48,89.4,7.5,Y,No,6.51,651000.0,8.0,3,2023-08-26,Cash,student952@example.com,9831390546
+STU1953,Arjun Singh,28.0,Female,indore,Madhya Pradesh,cse,54.3,79.4 ,4.99,Yes,PLACED,1.5,150000.0,3.0,0,2023-05-25,Cash,student953@example.com,9395772367
+STU1954,Sneha Mehta,27.0,MALE,pune,Maharashtra,CSE,61.87,76.3,6.05,no,,2.02,202000.0,7.0,unknown,2025-12-03,Card,student954@example.com,9943668641
+STU1955,Yash Joshi,23.0,M,Pune,Maharashtra,civil, 61.6 ,,6.14,Yes,Not Placed,4.58,458000.0,2.0,4,2025-07-28,,student955@example.com,9893592650
+STU1956,Ananya Tiwari,21.0,Female,DELHI,Delhi,AIML,57.28,94.4,5.32,yes,Not placed,4.23,423000.0,?,1,2022-12-15,UPI,student956@example.com,9815145748
+STU1957,Aarav Patel,,M,DEWAS,Madhya Pradesh,cse,86.91,84.7,8.62,yes,,6.03,603000.0,5.0,3,2023-11-16,UPI,student957@example.com,9624316008
+STU1958,Vivaan Agrawal,25.0,Male,Pune,Maharashtra,me,84.58,58.1,?,Y,not placed,5.72,572000.0,8.0,4,2022-08-13,Card,student958@example.com,9910667004
+STU1959,Yash Chauhan,19.0,F,mumbai,Maharashtra,E.C.E,87.8,83.3,8.44,,Not placed,6.23,623000.0,8.0,2,2022-07-24,,student959@example.com,9372233117
+STU1960,Priya Gupta,25.0,F,Jaipur,Rajasthan,ME,58.17,68.1,6.16,NO,Not Placed,1.81,181000.0,4.0,5,2022-01-28,UPI,student960@example.com,9258806824
+STU1961,Rohan Khan,21.0,FEMALE,Ujjain,Madhya Pradesh,Computer Science,93.74,89.6,9.76,no,Yes,7.4,N/A,,1,2025-09-12,Cash,student961@example.com,9308136381
+STU1962,Rishabh Soni,28.0,FEMALE,Ujjain,Madhya Pradesh,ME,65.6,57.9,6.38,yes,PLACED,5.41,N/A,5.0,2,2022-08-10,Net Banking,student962@example.com,9732592673
+STU1963,Karan Sharma,22.0,F,,Madhya Pradesh,DS,88.74,62.5,8.75,No,Yes,6.85,685000.0,7.0,4,2023-09-26,CARD,student963@example.com,9409676308
+STU1964,Rohan Jain,18.0,male,Bhopal,Madhya Pradesh,Mechanical,45.67,86.3,,,placed,1.89,189000 INR,4.0,3,2024-10-18,cash,student964@example.com,9169381431
+STU1965,Vivaan Singh,18.0,,delhi,Delhi,Data Science,60.77,66.9,6.07,No,Placed,3.79,379000.0,7.0,?,2024-07-18,UPI,student965@example.com,9562055622
+STU1966,Vivaan Gupta,28.0,male,JAIPUR,Rajasthan,I.T.,62.05,67.8,6.32,Y,placed,7.43,743000.0,1.0,5,2022-01-02,cash,student966@example.com,9253163103
+STU1967,Muskan Soni,21.0,Female,kolkata,West Bengal,I.T.,70.24,91.9,6.54,no,Placed,4.98,498000.0,7.0,2,2024-06-03,upi,student967@example.com,9971565999
+STU1968,Neha Mehta,?,Female,Bengaluru,Karnataka,I.T.,50.44,57.3,4.79,Y,PLACED,4.91,,2.0,4,2024-03-02,Net Banking,student968@example.com,9828988247
+STU1969,Karan Gupta,27.0,male,Jaipur,Rajasthan,E.C.E,83.2,?,7.78,no,PLACED,5.7,570000.0,4.0,0,2022-10-13,cash,student969@example.com,97084520
+STU1970,Rahul Mehta,25.0,MALE,Bengaluru,Karnataka,C.S.E,72.83,80.5,6.64,,No,3.2,320000.0,5.0,4,2025-01-22,CARD,student970@example.com,9602917984
+STU1971,Neha Mehta,24.0,FEMALE,Jaipur,Rajasthan,cse,66.97,85.5,5.93,Yes,,3.73,373000.0,1.0,1,2024-08-13,cash,student971@example.com,9944639764
+STU1972,Priya Patel,27.0,M,pune,Maharashtra,,70.29,89.9,7.27,YES,placed,6.55,655000.0,6.0,5,,UPI,student972@example.com,9596936109
+STU1973,Aditya Sharma,25.0,M,Gwalior,Madhya Pradesh,Data Science,55.2,51.3,5.38,No,Not placed,5.22,522000.0,1.0,2,2022-04-22,,student973@example.com,9841518482
+STU1974,Muskan Tiwari,18.0,Male,Jaipur,Rajasthan,civil,90.3,87.9,,no,placed,8.28,828000.0,8.0,5,2022-09-06,,student974@example.com,9246461343
+STU1975,Rohan Gupta,28.0,M, PUNE ,Maharashtra,CIVIL,59.1,76.2,6.49,Yes,,,294000.0,3.0,0,2025-08-03,Cash,student975@example.com,9100038346
+STU1976,Pooja Verma,27.0,female,,Maharashtra,aiml,93.84,73.5,9.85,No,No,5.8,,0.0,4,2022-09-05,,student976@example.com,9519525848
+STU1977,Sneha Jain,19.0,male,indore ,Madhya Pradesh,Data Science,77.37,67.7,7.24,no,,5.86,586000.0,7.0,5,,Cash,student977@example.com,9564236248
+STU1978,Rahul Patel,28.0,female,Mumbai,Maharashtra,AIML,84.15,66.2,7.89,no,No,6.01,601000.0,7.0,?,2022-02-14,cash,student978@example.com,9816760816
+STU1979,Priya Tiwari,27.0,M,bhopal,Madhya Pradesh,ECE,66.6,85.7,6.99,YES,Not Placed,5.08,508000.0,,3,2024-10-06,Net Banking,student979@example.com,9259092607
+STU1980,Arjun Mishra,?,MALE,,Madhya Pradesh,cse,97.69,,9.65,Y,Placed,?,521000.0,7.0,0,2024-07-25,CARD,student980@example.com,9249576019
+STU1981,Aarav Patel,25.0,F,,Madhya Pradesh,ME,63.8,73.3,6.72,no,Not placed,5.7 LPA,572000.0,8.0,3,2023-07-22,Cash,student981@example.com,9287364597
+STU1982,Muskan Khan,?,FEMALE,Bangalore,Karnataka,civil,49.13,80.4,5.15,yes,PLACED,5.92,592000.0,4.0,3,2023-12-22,,student982@example.com,9792707365
+STU1983,Diya Tiwari,24.0,male,Dewas,Madhya Pradesh,ME,82.2 ,88.7,8.24,Y,placed,7.26,N/A,5.0,4,2024-08-24,CARD,student983@example.com,9727594817
+STU1984,Vivaan Sharma,24.0,male,Nagpur,Maharashtra,AI ML,,unknown,8.68,No,Not Placed,5.66,566000.0,7.0,5,2022-05-19,,student984@example.com,9447526614
+STU1985,Rahul Joshi,21.0,MALE,pune,Maharashtra,DS,74.07,95.2,7.2,YES,Not Placed,1.5,150000.0,0.0,4,04/08/2022,cash,student985@example.com,9222915292
+STU1986,Priya Mishra,19.0,Male, Indore ,Madhya Pradesh,AIML,61.4,90.8,6.33,N,Not Placed,5.23,523000.0,7.0,3,2024-06-23,Card,student986@example.com,9784398502
+STU1987,Karan Gupta,26.0,FEMALE,nagpur,Maharashtra,ece,63.52,60.1,6.53,,not placed,3.18,318000.0,3.0,5,2023-02-14,Card,student987@example.com,9566071607
+STU1988,Muskan Sharma,21.0,Female,Gwalior,Madhya Pradesh,AI ML,,86.0,9.8,Yes,placed,,718000.0,0.0,2,2022-06-26,Net Banking,student988@example.com,9710202137
+STU1989,Rahul Tiwari,19.0,FEMALE,Gwalior,Madhya Pradesh,AI-ML,66.51,74.6,7.04,no,No,5.58,558000.0,8.0,2,2023-11-29,CARD,student989@example.com,9764086621
+STU1990,Kavya Mehta,20.0,MALE,Gwalior,Madhya Pradesh,DS,56.29,100.0,5.65,,Not Placed,5.1,510000.0,2.0,4,2022-05-18,cash,student990@example.com,12345
+STU1991,Vivaan Mishra,25.0,F, Bhopal,Madhya Pradesh,CSE,58.27,83.1,5.94,no,PLACED,1.5,150000.0,4.0,3,2023-04-18,,student991@example.com,9172963783
+STU1992,Simran Mishra,22.0,,Mumbai,Maharashtra,data science,100.0,96.1,9.86,Y,Yes,,636000.0,0.0,4,2022-06-03,Cash,student992@example.com,9725747220
+STU1993,Aarav Sharma,22.0,F,dewas,Madhya Pradesh,ece,73.56,79.2,7.48,Y,not placed,6.07 ,,5.0,0,unknown,Card,student993@example.com,9319293841
+STU1994,Vivaan Singh,23.0,FEMALE,gwalior,Madhya Pradesh,,76.1, 98.3 ,unknown,Yes,Not placed,4.2,420000.0 ,?,3,2026-04-01,Cash,student994@example.com,9692088353
+STU1995,Vivaan Verma,20.0,Male,Dewas,Madhya Pradesh,E.C.E,?,100.0,N/A,no,Not placed,N/A,648000.0,6.0,3,2023-07-09,cash,student995@example.com,9939174153
+STU1996,Aarav Chauhan,18.0,female,Pune,Maharashtra,me,71.89 ,48.9,7.38,YES,Placed,4.63,463000.0,8.0,3,2022-04-24,UPI,student996@example.com,9515672079
+STU1997,Neha Yadav,20.0,male,Ujjain,Madhya Pradesh,C.S.E,98.78,67.2,9.29,NO,,6.87,687000.0,5.0,2,2024-05-30,upi,student997@example.com,9468428348
+STU1998,Aman Verma,18.0,Male,,Madhya Pradesh,AI-ML,36.39,88.5,3.0,YES,Placed,1.5,,0.0,5,2023-05-03,upi,student998@example.com,9972546113
+STU1999,Rohan Jain,19.0,male,indore ,,IT,34.76,73.5,4.05,,Not placed,2.6,260000.0,5.0, 4 ,2022-04-27,upi,student999@example.com,9413975774
+STU2000,Isha Tiwari,27.0,Female,MUMBAI,Maharashtra,CIVIL,54.18,?,5.42,No,Not Placed,4.31,₹431000,4.0,4,2024-03-25,upi,student1000@example.com,
+STU2001,Kavya Joshi,23.0 ,M,kolkata,West Bengal,it,46.13,86.3,3.67,Y,not placed,1.5,,8.0,2,2023-03-28,CARD,student1001@example.com,9849226645
+STU2002,Vivaan Khan,26.0,MALE,,Madhya Pradesh,civil,60.19,86.9,6.03,NO,PLACED,1.6,,1.0,1,2022-08-02,Card,student1002@example.com,9659414065
+STU2003,Simran Singh,22.0,Female,Pune,Maharashtra,IT,52.24,80.8,5.2,yes,Placed,2.18,218000.0,3.0,5,2026-02-28,,student1003@example.com,9797833491
+STU2004,Isha Agrawal,19.0,Male,dewas,Madhya Pradesh,IT,60.31,87.7,5.85,Y,Yes,3.78,378000.0,4.0,0,2022-02-13,UPI,student1004@example.com,9399673271
+STU2005,Aarav Agrawal,24.0,MALE,nagpur,Maharashtra,ECE,100.0,58.1,9.35,NO,Placed,9.2,,3.0,1,N/A,Net Banking,student1005@example.com,9298026764
+STU2006,Vivaan Tiwari,,M,bengaluru,Karnataka,C.S.E,57.14,73.5,5.44,N,Placed,3.02,unknown,5.0, 2 ,2024-12-26,upi,student1006@example.com,9913093378
+STU2007,Diya Mehta,23.0,MALE,Indore,,Data Science,unknown,89.2,9.66,Yes,Not Placed,5.58,558000.0,8.0,3,2026-01-26,cash,student1007@example.com,9674195660
+STU2008,Muskan Chauhan,24.0,M,Dewas,Madhya Pradesh,AI ML,49.58,38.3,4.67,YES,No,4.36,,3.0,1,2025-03-18,UPI,student1008@example.com,9401399464
+STU2009,Aman Chauhan,22.0,M,Bangalore,Karnataka,it,76.27,74.9,7.62,YES,Placed,4.64,464000.0,,2,2022/06/25,cash,student1009@example.com,9807842761
+STU2010,Diya Sharma,28.0,Female,,Delhi,IT,71.28,88.7,6.56,N,PLACED,5.26,526000.0,2.0,3,2026-04-30,,student1010@example.com,9118539966
+STU2011,Vivaan Khan,,,Dewas,Madhya Pradesh,Civil, 82.92 ,72.2,8.54,no,Yes,11.96,1196000.0,0.0,4,2024-08-13,Cash,student1011@example.com,9396831273
+STU2012,Aditya Jain,26.0,male,nagpur,Maharashtra,it,66.33,83.5,6.37,Y,,,?,7.0,1,,upi,student1012@example.com,9776820465
+STU2013,Vivaan Singh,20.0,Female,MUMBAI,Maharashtra,Civil,,80.7,7.18,Yes,placed,5.77,577000.0,8.0,3,2025-06-19,CARD,,
+STU2014,Rishabh Gupta,21.0,Male,Gwalior,Madhya Pradesh,Civil,91.4,84.3,9.48,N,Placed,7.5,750000.0,3.0,2,2022-05-05,Cash,,9183192595
+STU2015,Pooja Verma,25.0,female,Gwalior,Madhya Pradesh,,80.0,81.9,7.67,N,Not placed,,651000.0,unknown,0,,Net Banking,,9403959566
+STU2016,Diya Chauhan,18.0,,MUMBAI,Maharashtra,I.T.,52.13,69.1,5.28,YES,Not placed,3.84,384000.0,7.0,2,2023-10-31,UPI,student1016@example.com,9272134580
+STU2017,Rohan Soni,18.0,Male,Jaipur,Rajasthan,C.S.E,N/A,unknown,5.1,no,Not placed,1.84,,,5,2023-08-19,CARD,student1017@example.com,
+STU2018,Rohan Mehta,27.0,,UJJAIN,Madhya Pradesh,Computer Science,43.4,76.0,4.18,no,Yes,2.3,230000.0,N/A,5,2022-03-08,Cash,student1018@example.com,9666674119
+STU2019,Pooja Yadav,27.0,FEMALE, Indore ,Madhya Pradesh,it,62.19,49.9,6.08,Y,not placed,3.64,364000.0,4.0,1,,CARD,student1019@example.com,9360998015
+STU2020,Ananya Joshi,21.0,Female,Jaipur,Rajasthan,CIVIL,78.14,68.2,8.4,no,No,3.3,330000.0,6.0,2,2024-07-22,Cash,student1020@example.com,9477940598
+STU2021,Priya Tiwari,26.0,FEMALE,gwalior,Madhya Pradesh,Mechanical,88.98,74.9,9.2,no,No,7.76,776000.0,6.0 ,1,2022-06-06,Card,student1021@example.com,9677260679
+STU2022,Muskan Tiwari,24.0,male,pune,Maharashtra,ME,86.23,72.6,,Y,PLACED,,912000.0,5.0,2,2025-10-12,Cash,student1022@example.com,9187516357
+STU2023,Rohan Mishra,24.0,,ujjain,Madhya Pradesh,Civil,66.18,81.1,7.05,no,placed,3.4,340000.0,7.0,0,2024-10-31,Card,student1023@example.com,9229696032
+STU2024,Simran Joshi,22.0,FEMALE,UJJAIN,Madhya Pradesh,Civil,77.53,69.7,7.71,No,placed,?,611000.0,0.0,3,2026-04-17,UPI,student1024@example.com,9840931861
+STU2025,Pooja Agrawal,19.0,MALE,MUMBAI,Maharashtra,ece,44.0,67.1,4.87,N,placed,4.45,445000.0,6.0,5,29/09/2022,upi,student1025@example.com,9864486473
+STU2026,Ananya Mishra,19.0,Female,New Delhi,Delhi,Civil,67.0,81.4,6.6,Yes,Not Placed,7.2,720000.0,5.0,3,2023-11-21,Net Banking,, 9777350700
+STU2027,Isha Joshi,24.0,male,Dewas,Madhya Pradesh,CIVIL,64.79,81.2,6.88,yes,Not Placed,3.67,367000.0,2.0,0,2023-08-16,CARD,student1027@example.com,9823602225
+STU2028,Ananya Jain,25.0,,Bengaluru,Karnataka,Mechanical,92.94,56.6,9.86,Y,,7.68,768000.0,?,2,2024-02-16,,student1028@example.com,9466271821
+STU2029,Pooja Mishra,27.0,MALE,INDORE,Madhya Pradesh,I.T.,64.12,51.5,6.25,N,Yes,N/A,250000.0,5.0,?,11-26-2024,Card,student1029@example.com,9145026751
+STU2030,Pooja Gupta,21.0,F,Kolkata,West Bengal,Computer Science,58.28,76.1,6.16,N,PLACED,4.65,465000.0,2.0,0,2024-05-31,cash,student1030@example.com,9394042584
+STU2031,Rahul Gupta,25.0,,dewas,Madhya Pradesh,ME,72.92,62.7,6.98,,,,,,1,2023-04-04,Cash,student1031@example.com,9322096099
+STU2032,Rahul Sharma,26.0,Male,Gwalior,Madhya Pradesh,Mechanical,56.24,100.0,5.54,no,,3.6,360000.0,7.0,0,2026-03-26,CARD,student1032@example.com,9318120920
+STU2033,Kavya Yadav,27.0,male,Delhi,Delhi,Data Science,85.13,95.8,8.47,NO,PLACED,6.12,612000.0,1.0,5,2024-05-23,Cash,student1033@example.com,9577176303
+STU2034,Aditya Agrawal,25.0,male,ujjain,Madhya Pradesh,it,?,82.7,7.02,No,Not placed,unknown,523000.0,1.0,?,2023-06-23,,student1034@example.com,9880998560
+STU2035,Pooja Khan,23.0,M,BHOPAL,,ece,77.9,100.0,7.92,No,Not placed,6.77,677000.0,0.0,3,2022-11-17,Cash,student1035@example.com,9857099319
+STU2036,Simran Tiwari,23.0,Male,gwalior,Madhya Pradesh,,43.7,41.2,4.51,Yes,not placed,2.29,229000.0,2.0,4,unknown,Net Banking,student1036@example.com,9336448207
+STU2037,Isha Patel,21.0,FEMALE,Bengaluru,Karnataka,data science,59.76,81.4,5.95,yes,No,6.08,608000.0,4.0,1,,,student1037@example.com,9781582020
+STU2038,Karan Sharma, 26.0 ,MALE,Bhopal,Madhya Pradesh,CSE,69.38, 67.5 ,7.28,NO,not placed,5.12,512000.0 ,2.0,0,2026-01-21,Net Banking,student1038@example.com, 9838714681
+STU2039,Muskan Singh,27.0,F,delhi,Delhi,ECE,76.42,71.3,,yes,PLACED, 5.8 ,580000.0,3.0,2,2024-02-18,,student1039@example.com,9626371835
+STU2040,Priya Yadav,24.0,FEMALE,Bengaluru,Karnataka,I.T.,68.21,84.7,6.73,,not placed,1.6lpa,, 1.0 ,unknown,2025-05-09,,student1040@example.com,9580148263
+STU2041,Neha Verma,21.0,male,JAIPUR,Rajasthan,ece,61.08,89.1,6.0,N,Not Placed,3.66,366000.0,5.0,5,2025-09-18,Net Banking,student1041@example.com,9856793425
+STU2042,Diya Mehta,25.0,female,mumbai,Maharashtra,,83.78,68.0,7.84,Y,PLACED,5.83,583000.0,8.0,1,2024-09-28,,student1042@example.com,9165287000
+STU2043,Ananya Mehta,23.0,MALE,gwalior,Madhya Pradesh,data science,60.25,,5.96,NO,Yes,unknown, 494000.0 ,6.0,2,20-Jun-2023,UPI,student1043@example.com,9388103439
+STU2044,Vivaan Gupta,21.0,FEMALE,Dewas,Madhya Pradesh,E.C.E,67.85,82.3,7.42,no,,5.04,504000.0,8.0, 1 ,2023-11-27,Cash,student1044@example.com, 9758530127
+STU2045,Diya Yadav,,Male,Nagpur,Maharashtra,civil,72.45,70.9,6.95,Yes,Yes,,409000.0,1.0,5,2022-09-22,CARD,student1045@example.com,9478709419
+STU2046,Vivaan Yadav,19.0,female,gwalior,Madhya Pradesh,IT,60.34 ,83.0,,no,placed,3.76,376000.0,8.0,3,2025-09-03,upi,,9411586438
+STU2047,Neha Singh,23.0,female,MUMBAI,Maharashtra,,61.33,77.1,6.27,Yes,Placed,4.87,487000.0,8.0,0,2023-11-10,Net Banking,student1047@example.com,9949698571
+STU2048,Yash Gupta,18.0,,Dewas,Madhya Pradesh,AI-ML,88.55,44.0,8.02 ,no,Placed,5.43,543000.0,4.0,5,2022-11-18,Cash,student1048@example.com,9972947639
+STU2049,Rohan Agrawal,28.0,M,Ujjain,Madhya Pradesh,data science,85.56,56.1,7.5,No,Not Placed,6.78,678000.0,1.0,4,2024-03-31,Net Banking,student1049@example.com,9121640386
+STU2050,Rohan Verma,26.0,,indore,Madhya Pradesh,aiml,71.9,62.7,6.85,Y,Not placed,3.29,329000.0,?,4,2025-05-23,UPI,student1050@example.com,9424435363
+STU2051,Arjun Gupta,25.0,FEMALE,Delhi,Delhi,ECE,69.77,69.2,7.15,Y,Yes,1.5,150000.0,1.0,1,2023-02-20,,student1051@example.com,9702365149
+STU2052,Simran Yadav,25.0,female,delhi,Delhi,ece,54.29,62.2,5.34,Yes,No,2.41,241000.0,,2,2023-08-06,Cash,student1052@example.com,9585621597
+STU2053,Sneha Chauhan,27.0,female,Pune,Maharashtra,ece,80.77,52.0,8.09,N,No,7.4,740000.0,1.0,5,2022-02-20,cash,student1053@example.com,9456949875
+STU2054,Arjun Yadav,28.0,male,MUMBAI,Maharashtra,AIML,97.71,71.3,,NO,not placed,5.12,512000.0,1.0,1,2022-06-21,Net Banking,student1054@example.com,
+STU2055,Muskan Chauhan,26.0,,Dewas,Madhya Pradesh,cse,29.73,89.8,3.0,NO,PLACED,2.92,N/A,,2,20/01/2026,CARD,student1055@example.com,9995847952
+STU2056,Muskan Mishra,18.0,MALE,mumbai,Maharashtra,data science,46.03,85.3,5.26,Yes,PLACED,4.04,404000.0,3.0,4,2023-10-21,,student1056@example.com,9685821445
+STU2057,Aman Khan,23.0,FEMALE,dewas,Madhya Pradesh,CIVIL,72.43,78.1,6.69,NO,Not Placed,7.3,730000.0,1.0,3,2025-08-28,Cash,student1057@example.com,9503389825
+STU2058,Pooja Joshi,18.0,Female,Mumbai,Maharashtra,AI ML,58.23,85.1,5.28,no,No,1.5,150000.0,1.0,0,2022-11-28,Net Banking,student1058@example.com,9631700342
+STU2059,Isha Patel,28.0,MALE,MUMBAI,Maharashtra,E.C.E,90.96,73.1,9.6,Yes,PLACED,7.92,,,3,12-10-2024,cash,student1059@example.com,9873032900
+STU2060,Ananya Mishra,22.0,F,bengaluru,Karnataka,ME,38.53,90.5,3.65,yes,,2.77,,4.0,4,2024-12-06,upi,student1060@example.com,9962014673
+STU2061,Diya Gupta,23.0,,Nagpur,Maharashtra,E.C.E,68.4,56.4,6.9,no,Not placed,9.04,904000.0,2.0,1,2024-11-29,,student1061@example.com,9110545422
+STU2062,Rohan Jain,24.0,Female,jaipur,Rajasthan,Computer Science,75.89, 77.2 ,7.97,Y,not placed,6.65,665000.0,3.0,5,2023-01-03,Cash,student1062@example.com,9677384799
+STU2063,Vivaan Mishra,23.0,FEMALE,Dewas,Madhya Pradesh,me,71.35,62.7,7.22,yes,Not Placed,7.31,?,5.0,5,2022-07-13,upi,student1063@example.com, 9470395234
+STU2064,Rishabh Gupta,18.0,MALE,Bangalore,Karnataka,Mechanical,54.62,97.9,5.43,Y,Not placed,,188000.0,6.0,unknown,2023-01-30,,student1064@example.com,
+STU2065,Karan Gupta,20.0,male,Nagpur,Maharashtra,it,83.96,74.0,,No,placed,6.5,650000.0,8.0,N/A,30-Jul-2022,Net Banking,,9454506806
+STU2066,Rishabh Chauhan,27.0,FEMALE,Nagpur,Maharashtra,AI ML,67.04,,6.81,yes,Placed,1.5,,3.0,1,2025-05-23,Cash,student1066@example.com,12345
+STU2067,Rahul Jain,20.0,Male,Nagpur,Maharashtra,IT,50.06,91.0,4.96,No,Placed,2.01,,2.0,4,unknown,,student1067@example.com,9556775928
+STU2068,Yash Yadav,25.0,Female,Bangalore,Karnataka,AI ML,46.26,62.9,3.92,YES,Yes,1.63,163000.0,6.0,5,2023-11-01,,student1068@example.com,9481169366
+STU2069,Pooja Verma,26.0,female,DELHI,Delhi,aiml,unknown,,5.82,Y,placed,4.56,456000.0,6.0,4,2023-10-12,,student1069@example.com,9626233893
+STU2070,Arjun Yadav,22.0,MALE,Kolkata,West Bengal,CIVIL,100.0,56.8,10.0,N,placed,10.25,1025000.0,0.0,2,unknown,,student1070@example.com,9927580907
+STU2071,Neha Singh,,female,bengaluru,Karnataka,E.C.E,?,80.8,5.39,N,placed,3.76,376000.0,0.0,1,2026/01/31,,student1071@example.com,9487611538
+STU2072,Muskan Gupta,21.0,F,gwalior,Madhya Pradesh,C.S.E,92.15,86.5,9.39,N,PLACED,7.05,705000.0,8.0,0,2022-01-12,cash,student1072@example.com,9136000620
+STU2073,Isha Mehta,22.0,Male,Bangalore,,Civil,,, 4.85 ,Y,PLACED,1.5lpa,N/A,0.0,4,2025-08-07,UPI,student1073@example.com,9870978314
+STU2074,Kavya Jain,27.0,male,DEWAS,Madhya Pradesh,ece,51.12,79.8,4.77,No,Placed,1.5lpa,150000.0,5.0,0,2025-07-18,,student1074@example.com,12345
+STU2075,Aditya Mehta,20.0,Female,CALCUTTA,West Bengal,cse,61.22,58.9,5.78,NO,Placed,5.12,512000.0,5.0 ,0,2022-09-27,cash,student1075@example.com,9308501740
+STU2076,Aarav Khan,27.0,F,bengaluru,Karnataka,,,55.6,,yes,Not placed,3.76,₹376000,8.0,0,2026-02-19,Net Banking,student@@example.com,
+STU2077,Aditya Singh,28.0,male,bengaluru,Karnataka,civil,64.85,71.5,6.5,Y,Not Placed,1.51,,2.0,3,2022-05-06,UPI,student1077@example.com,9395843204
+STU2078,Pooja Mehta,21.0,male,Nagpur,Maharashtra,Civil,75.92, 83.4 ,7.45,Yes,PLACED,7.51,751000.0,4.0,4,2025-11-11,CARD,student1078@example.com,9226395063
+STU2079,Aditya Mishra,25.0,FEMALE,Jaipur,Rajasthan,,49.96,93.8,5.05,No,Not Placed,2.5 LPA,,2.0,5,2025-03-09,,student1079@example.com,9299349714
+STU2080,Aarav Chauhan, 27.0 ,,JAIPUR,Rajasthan,Data Science,67.68,76.5,7.2,Yes,not placed,3.48,348000.0,5.0,3,2025-07-07,Cash,student1080@example.com,9877686250
+STU2081,Karan Joshi,22.0,male, PUNE ,Maharashtra,I.T.,55.8,92.5,5.37,Yes,Yes,5.03,503000.0,4.0,1,2025-10-26,cash,student1081@example.com,9250781347
+STU2082,Aman Agrawal,23.0,female,nagpur,Maharashtra,it,95.19,72.4,9.76,no,placed,6.16,616000.0,4.0,2,2024-04-27,,student1082@example.com,9384053184
+STU2083,Muskan Khan,unknown,F,Bhopal,,DS,80.08,,8.17,NO,placed,5.32,,0.0,4,2023-12-29,Net Banking,student1083@example.com,9267186137
+STU2084,Neha Khan,27.0,M,,,aiml,41.42,85.0,3.42,N,PLACED,N/A,150000.0,1.0,4,2023-03-08,upi,student1084@example.com,9377255013
+STU2085,Vivaan Soni,25.0,Female,pune,Maharashtra,Mechanical,83.06,80.7,8.99,yes,No,unknown,923000.0,2.0,3,2023-06-19,,student1085@example.com,9499735559
+STU2086,Muskan Soni,24.0,Male,,Maharashtra,it,57.54,78.4,5.74,No,Not placed,1.5 LPA,unknown,0.0,1,2025-09-10,Net Banking,student1086@example.com,9610559862
+STU2087,Arjun Patel,23.0,F,Jaipur,Rajasthan,it,52.95,70.1,4.58,yes,No,2.62,262000.0,8.0,1,2025-08-19,UPI,student1087@example.com,9571382013
+STU2088,Muskan Joshi,25.0,MALE,nagpur,Maharashtra,Civil,64.01,54.6,6.54,YES,No,5.98,598000.0,3.0,2,2025-04-30,CARD,student1088@example.com,9745256477
+STU2089,Sneha Gupta,25.0,Male,JAIPUR,Rajasthan,aiml,,73.5,7.37,No,Yes,6.83,683000.0,6.0,N/A,2025-10-21,Net Banking,student1089@example.com,9736810563
+STU2090,Rahul Soni,20.0,M,indore ,Madhya Pradesh,ME,72.92,66.5,7.39,no,placed,7.78,N/A,2.0,5,2024-11-14,CARD,student1090@example.com,
+STU2091,Rohan Chauhan,19.0,F, Indore ,Madhya Pradesh,ece,58.45,100.0,5.66,YES,placed,3.78,378000.0,7.0,0,2023-09-26,Card,student1091@example.com,9315184874
+STU2092,Aditya Patel,22.0,female,Mumbai,Maharashtra,Data Science,57.24,81.1,5.11,no,Yes,2.14,, 1.0 ,5,2023-09-22,upi,student1092@example.com,9265504351
+STU2093,Priya Sharma,26.0,FEMALE,Bangalore,Karnataka,AI ML,50.53,,5.4,N,Not Placed,4.6,460000.0,7.0,4,,Net Banking,student1093@example.com,9850309046
+STU2094,Sneha Agrawal,25.0 ,FEMALE, PUNE ,Maharashtra,CIVIL,30.05,100.0,3.11,no,Not Placed, 1.5 ,150000.0,6.0,1,2025-09-30,CARD,student1094@example.com,9919312568
+STU2095,Ananya Soni,N/A,M,MUMBAI,,data science,70.51,80.5,6.82,YES,Yes,5.36,536000.0,,N/A,2026-05-03,CARD,student1095@example.com,9624318145
+STU2096,Aman Soni,27.0,male,Bangalore,Karnataka,DS,58.28,72.3,,no,Not placed,1.5 ,150000.0,5.0,2,2022-02-25,UPI,student1096@example.com,9755590808
+STU2097,Aman Patel,24.0,FEMALE,Nagpur,Maharashtra,aiml,70.33,86.2,7.21,Yes,not placed,6.91,,4.0,3,2022-06-08,Cash,student1097@example.com,9464628392
+STU2098,Neha Patel,28.0,M,Ujjain,Madhya Pradesh,IT,73.19 ,70.5,?,YES,No,3.4 LPA,343000.0,0.0,2,2023-01-04,Net Banking,student1098@example.com,9292755937
+STU2099,Pooja Agrawal,24.0,Female,Mumbai,Maharashtra,ece,53.59,64.5,5.74,No,Not placed,5.51,551000.0,1.0,5,,Net Banking,student1099@example.com,12345
+STU2100,Rohan Mishra,20.0,MALE, Indore ,Madhya Pradesh,CIVIL,75.8,93.0,7.27,NO,Placed,6.12,612000.0,7.0,5,2023-10-16,Net Banking,student1100@example.com,9553609821
+STU2101,Rishabh Joshi,22.0,Female,indore ,Madhya Pradesh,Mechanical,66.0,89.9,6.56,NO,,4.02,402000.0,7.0,5,2024-05-20,CARD,student1101@example.com,9674477822
+STU2102,Neha Yadav,19.0,MALE,,Rajasthan,Data Science,76.65,90.3,7.43,No,placed,5.56,556000.0,0.0,2,2023-01-02,cash,,9312185392
+STU2103,Kavya Mehta,27.0,Male,Gwalior,Madhya Pradesh,ECE,,N/A,5.18,Y,Placed,4.29,429000.0,1.0,3,2026-01-30,,student1103@example.com,9494175052
+STU2104,Priya Gupta,27.0,MALE,INDORE,Madhya Pradesh,I.T.,72.19,50.7,7.1,Y,Placed,,,8.0,2,2025-11-06,Card,student1104@example.com,9414863712
+STU2105,Kavya Khan,24.0,M,jaipur,Rajasthan,CIVIL,89.92,,9.43,Yes,Not Placed,9.58,958000.0,5.0,5,2022-02-05,UPI,student1105@example.com,9670445247
+STU2106,Rahul Verma,24.0,Female,CALCUTTA,West Bengal,AI-ML,53.59,62.1,5.48,yes,No,2.01,N/A,6.0,2,2023-05-25,CARD,student1106@example.com,9591806906
+STU2107,Pooja Mishra,27.0,FEMALE,kolkata,West Bengal,cse,69.64,71.2,6.34,No,Not placed,1.5,150000.0,5.0,0,2023-05-15,Card,student1107@example.com,9754288322
+STU2108,Sneha Yadav,28.0,Female,kolkata,West Bengal,IT,71.63,70.1,6.97,Y,Yes,6.42,642000.0,,0,2022/07/27,Card,student1108@example.com,9901834996
+STU2109,Aditya Agrawal,28.0,MALE,New Delhi,Delhi,cse,86.78,74.2,8.56,no,PLACED,7.82,782000.0,4.0,N/A,2026-03-02,upi,student1109@example.com,9845452922
+STU2110,Isha Singh,,MALE,indore ,Madhya Pradesh,,46.29,81.1,4.82,yes,PLACED,,403000.0,8.0,5,2025-03-20,UPI,student1110@example.com, 9749208541
+STU2111,Yash Gupta,20.0,Male,Ujjain,Madhya Pradesh,E.C.E,37.01,67.3,3.39,no,Placed,1.5,150000.0,6.0,5,2025-10-20,Card,student1111@example.com,9395030606
+STU2112,Ananya Verma,25.0,,DELHI,Delhi,AIML,75.69,99.0,7.4,Yes,Not placed,4.74,474000.0,3.0,0,2025-05-11,cash,student1112@example.com,9881860106
+STU2113,Muskan Mehta,27.0,F,CALCUTTA,West Bengal,ME,86.39,82.2,9.08,YES,No,8.01,801000.0,8.0,0,2024-08-01,CARD,student1113@example.com,9465712145
+STU2114,Rohan Jain,23.0,FEMALE,JAIPUR,Rajasthan,AI-ML,49.49,59.3,4.41,yes,Yes,3.54,354000.0,4.0,3,2024/06/29,,student1114@example.com,9809419607
+STU2115,Isha Yadav,19.0,F,Nagpur,Maharashtra,CSE,87.02,100.0,9.0,no,Not placed,9.49,949000.0,4.0,2,2025-07-17,CARD,student1115@example.com,9584793554
+STU2116,Rohan Mishra,25.0,male,bengaluru,Karnataka,Mechanical,58.72,,6.17,N,Yes,5.04,504000 INR,6.0,0,2022-03-02,cash,student1116@example.com,9697472351
+STU2117,Sneha Soni,25.0,male,CALCUTTA,West Bengal,ECE,,83.4,7.09,No,Not Placed,7.61,761000.0,6.0,1,2023-04-26,upi,student.com,9218791028
+STU2118,Rahul Chauhan,22.0,MALE,Nagpur,Maharashtra,Mechanical,88.72,85.6,9.17,YES,Not placed,,851000.0,3.0,3,2023-01-01,cash,student1118@example.com,9442956891
+STU2119,Ananya Yadav,,MALE,JAIPUR,Rajasthan,AI-ML,60.62,88.6,5.57,YES,No,5.52,552000.0,7.0, 2 ,2022-08-05,,student1119@example.com,9268542889
+STU2120,Aarav Yadav,24.0,F,MUMBAI,Maharashtra,data science,48.89,82.0,4.59,NO,,N/A,355000.0,,3,2023-08-14,Net Banking,,9549113543
+STU2121,Aarav Mishra,?,female,Ujjain,Madhya Pradesh,aiml,67.46,55.7,?,No,Yes,4.04,404000.0,0.0,2,N/A,upi,student1121@example.com,9278733850
+STU2122,Aditya Khan,28.0,Male,nagpur,Maharashtra,Civil,82.1,78.0,8.35,YES,not placed,4.96,496000.0,2.0,3,2024-08-24,CARD,student1122@example.com,9876379876
+STU2123,Karan Khan,20.0,male,,Maharashtra,it,58.57,71.6,6.16,,Placed,,730000.0,3.0,4,2024-08-25,,student1123@example.com,9593054651
+STU2124,Kavya Singh,28.0,male, PUNE ,Maharashtra,E.C.E,55.12,unknown,4.75,No,Not placed,1.5,150000.0,2.0,1,2025-05-20,,student1124@example.com,9875291270
+STU2125,Vivaan Tiwari,18.0,MALE, Bhopal,Madhya Pradesh,,52.66,59.1,4.71,NO,Yes,3.42,,,3,2026-03-14,,student1125@example.com,9868773997
+STU2126,Diya Tiwari,,Male,Gwalior,Madhya Pradesh,ece,64.57,83.3,6.7,NO,,N/A,535000.0,4.0,3,2026-01-05,UPI,student1126@example.com,9490169075
+STU2127,Kavya Mehta,26.0,,Ujjain,Madhya Pradesh,Computer Science,78.52,77.0,7.44,yes,PLACED,7.59,759000.0,1.0,5,2025-07-12,Card,student1127@example.com,9493488269
+STU2128,Rohan Soni,28.0,female,UJJAIN,Madhya Pradesh,,58.57,64.9,5.79,NO,not placed,2.23,223000.0 ,4.0,0,2023-11-27,CARD,student1128@example.com,9789380446
+STU2129,Isha Chauhan,19.0,female,CALCUTTA,West Bengal,DS,,82.8,6.25,Y,Not placed,2.76,276000.0,?,5,2024-07-27,,student1129@example.com,9455044770
+STU2130,Rishabh Mishra,22.0,Male,dewas,Madhya Pradesh,,60.2,93.0,6.19,yes,,N/A,804000.0,8.0,2,2025-03-09,UPI,student1130@example.com,9337320065
+STU2131,Yash Gupta,27.0,male,jaipur,Rajasthan,me,86.88,94.0,8.2,Y,No,7.89,unknown,7.0,5,2024-01-13,cash,student1131@example.com,9265830066
+STU2132,Diya Gupta,20.0,MALE,CALCUTTA,West Bengal,I.T.,67.15,70.3,6.77,,Placed,6.65,665000.0,3.0,4,2022-10-28,cash,student1132@example.com,9259303944
+STU2133,Priya Joshi,18.0,MALE,Nagpur,Maharashtra,ECE,76.01,65.7,7.86,yes,Not placed,5.0,500000.0, 2.0 ,4,2023/06/16,CARD,student1133@example.com,
+STU2134,Rahul Agrawal,24.0,FEMALE,jaipur,Rajasthan,AI ML,71.47,73.8,7.07,NO,Yes,6.66, 666000.0 ,0.0,5,2024-09-20,,student1134@example.com,9467613766
+STU2135,Aman Patel,,M,pune,Maharashtra,me,51.36,,,No,not placed,1.5,150000.0,5.0,3,2023-02-27,,student1135@example.com,9711397169
+STU2136,Pooja Soni,,female,Bangalore,Karnataka,civil,73.92,86.2,7.36,no,Not placed,5.49,549000.0,,3,2026-03-09,Cash,student1136@example.com,9453814126
+STU2137,Simran Yadav, 19.0 ,,gwalior,Madhya Pradesh,DS,74.57,74.8,7.94,Yes,No,7.74,774000.0,8.0,1,,,,9374955292
+STU2138,Aman Singh,20.0,FEMALE,kolkata,West Bengal,AI-ML,81.97,,8.17,Yes,PLACED,5.95,₹595000,8.0,2,2025-11-13,Cash,student1138@example.com,9897908769
+STU2139,Pooja Gupta,19.0,Male,pune,Maharashtra,AIML,51.91,83.0,5.0,no,,4.18,418000.0,7.0,3,29/09/2022,Cash,student1139@example.com,9676528107
+STU2140,Aditya Singh,23.0,FEMALE,INDORE,Madhya Pradesh,Computer Science,,100.0,4.77,NO,Not Placed,3.14,,7.0 ,1,2025/07/22,Cash,student1140@example.com,9682364097
+STU2141,Isha Gupta,21.0,Male,Nagpur,Maharashtra,Mechanical,80.67,70.0,8.37,YES,Not Placed,4.49,449000.0,7.0,5,2025-05-10,upi,student1141@example.com,9732366865
+STU2142,Kavya Sharma,27.0,M,bengaluru,Karnataka,DS,91.23,78.2,8.91,YES,PLACED,?,,7.0,5,2026-03-28,Card,student1142@example.com,9452873867
+STU2143,Yash Tiwari,25.0,M,gwalior,Madhya Pradesh,,,69.8,7.83,no,Not placed,5.71,571000.0,4.0,5,2024-11-19,cash,student1143@example.com,9772078335
+STU2144,Rahul Jain,19.0,Male,DEWAS,Madhya Pradesh,I.T.,49.17,100.0,4.72,NO,No,4.19,419000.0,N/A,1,2026-03-30,Cash,student1144@example.com,9916513883
+STU2145,Arjun Soni,28.0,FEMALE,ujjain,Madhya Pradesh,IT,71.35,64.2,7.13,yes,not placed,6.75,675000.0,1.0,1,2023-09-16,upi,student1145@example.com,9429853852
+STU2146,Pooja Jain,22.0,Female,gwalior,Madhya Pradesh,civil,64.99,94.7,6.86,Y,,6.7,670000.0 ,2.0,2,2023-10-18,Card,student1146@example.com,9306055421
+STU2147,Diya Tiwari,20.0,male,UJJAIN,Madhya Pradesh,IT,60.65,,5.85,NO,Yes,4.29,429000.0,4.0,1,2022-11-20,cash,student1147@example.com,9606786457
+STU2148,Yash Khan,23.0,F,delhi,Delhi,Data Science,76.73,47.6,7.67,N,No,6.22,622000.0,,3,2022-10-24,Net Banking,student@@example.com,9918937789
+STU2149,Sneha Sharma,,MALE,Ujjain,Madhya Pradesh,it,,96.1,6.5,yes,No,7.01,701000.0,4.0,0,2026-04-11,,student1149@example.com,9323992251
+STU2150,Priya Sharma,22.0,F,Bangalore,Karnataka,ECE,64.54,91.1,7.03,YES,Not placed,7.59,759000.0,8.0,4,2023-08-27,upi,student1150@example.com,9956281850
+STU2151,Kavya Agrawal,27.0,M,Pune,Maharashtra,,,74.4,4.93,No,not placed,3.8,380000.0,2.0,2,2024-10-27,,student1151@example.com,9874451303
+STU2152,Sneha Joshi,25.0,FEMALE,Nagpur,Maharashtra,aiml,78.98,66.3,7.92,Y,Yes,?,258000.0 ,?,0,2022-04-05,UPI,student1152@example.com,9786796049
+STU2153,Priya Jain,N/A,,JAIPUR,Rajasthan,cse,91.07,70.8,9.13,NO,placed,6.99,unknown,1.0,2,2025-01-06,Net Banking,student1153@example.com,9985096875
+STU2154,Yash Mishra,20.0,female,Mumbai,Maharashtra,me,86.34,38.3,8.63,No,,6.8,680000.0,3.0,2 ,2025-04-22,cash,student1154@example.com,9697724623
+STU2155,Aarav Patel,22.0,Female,gwalior,Madhya Pradesh,data science,60.74,100.0,5.76,N,Not placed,5.23,523000.0,unknown,5,2025-11-13,upi,student1155@example.com,9297718851
+STU2156,Kavya Khan,25.0,F,Jaipur,Rajasthan,AI-ML,73.7,,7.14,Y,PLACED,4.03,403000.0,0.0,1,2023-04-12,Cash,student1156@example.com,9789600203
+STU2157,Isha Chauhan,24.0,Male,ujjain,Madhya Pradesh,Data Science,85.54,84.0,8.01,Yes,Not placed,5.3lpa,534000.0,0.0,4,2024-03-22,Net Banking,student1157@example.com,9134449945
+STU2158,Isha Gupta,23.0,F,gwalior,Madhya Pradesh,Civil,74.18,89.7,7.18,No,Not Placed,1.5,150000.0,1.0,4,,Cash,student1158@example.com,9670975568
+STU2159,Muskan Soni,26.0,FEMALE,Mumbai,Maharashtra,Mechanical,76.37,60.9,6.93,no,Not Placed,1.5,150000.0,6.0,2,29-Jun-2022,, student1159@example.com,9584567424
+STU2160,Ananya Verma,20.0,male,CALCUTTA,West Bengal,civil,81.02,79.8,8.02,N,No,8.82,882000.0,8.0,5,2025-08-25,,student1160@example.com,9123067767
+STU2161,Aarav Mishra,27.0,MALE,ujjain,Madhya Pradesh,CSE,78.2,100.0,7.33,Yes,not placed,unknown,550000.0,5.0,3 ,2023-08-25,Card,student1161@example.com,9377941235
+STU2162,Ananya Yadav,27.0,FEMALE,Pune,Maharashtra,Civil,unknown,74.8,4.13,no,Not placed,3.17,317000.0,2.0,N/A,2025-10-13,Card,student1162@example.com,9321345622
+STU2163,Aarav Yadav,20.0,Male,Delhi,Delhi,Data Science,68.73,unknown,7.12,yes,Not placed,9.21,921000.0,1.0,2,2022-07-26,CARD,student1163@example.com,9347072130
+STU2164,Yash Patel,21.0,MALE,Bangalore,Karnataka,it,62.96,64.8, 6.38 ,no,not placed,3.07,307000.0,5.0,0,2023-02-18,Card,student1164@example.com,9572060870
+STU2165,Kavya Agrawal,N/A,female,BHOPAL,Madhya Pradesh,E.C.E,91.71,74.0,8.97,,No,6.52,652000.0,7.0,3,2022-02-22,,student1165@example.com,9320795960
+STU2166,Aditya Patel,27.0,Female,Ujjain,Madhya Pradesh,aiml,79.49,75.8,7.72,no,Not Placed,8.99,899000.0,,5,2022-09-13,CARD,,9904965545
+STU2167,Karan Verma,24.0,,Jaipur,Rajasthan,ECE,,78.5,5.66,Y,,,150000.0,7.0,0 ,2023-01-27,UPI,student1167@example.com,9508053172
+STU2168,Priya Khan,24.0,M,ujjain,Madhya Pradesh,Data Science,75.68,63.2,N/A,No,Yes,,₹441000,4.0,1,2022-07-24,Cash,student1168@example.com,9798396734
+STU2169,Aarav Gupta,24.0,,Bangalore,Karnataka,CSE,79.08,93.5, 8.21 ,yes,not placed,6.98,698000.0,2.0,4,2024-08-23,UPI,,9237383441
+STU2170,Isha Chauhan,20.0,Male,Gwalior,Madhya Pradesh,Computer Science,64.3,?,6.94,no,PLACED,3.87,387000.0,5.0,4,,Net Banking,student1170@example.com,9983958713
+STU2171,Rahul Soni,24.0,male,MUMBAI,Maharashtra,civil,51.41,87.3,4.86,yes,Not placed,1.5,150k,1.0,1,2022-12-20,UPI,student1171@example.com,9634246035
+STU2172,Priya Soni, 22.0 ,M,pune,Maharashtra,ME,44.9,71.2,4.46,N,Placed,2.84,,,N/A,2024-04-06,UPI,student1172@example.com,9605198031
+STU2173,Vivaan Yadav,,MALE,indore ,Madhya Pradesh,DS,83.22,85.4,8.26,yes,placed,6.23,N/A,1.0,0,2024-04-14,CARD, student1173@example.com,9339121961
+STU2174,Arjun Jain,24.0,FEMALE,BHOPAL,Madhya Pradesh,ECE,76.16,95.8,7.66,NO,placed,5.08,508000 INR,0.0,2,unknown,,student1174@example.com,9604107803
+STU2175,Simran Khan,20.0,Female,New Delhi,Delhi,ece,52.11,57.8,5.44,NO,not placed,4.52,452000.0,2.0,1,2023-10-24,Card,student1175@example.com,9964842647
+STU2176,Aditya Joshi,21.0,Female,Mumbai,Maharashtra,Civil,77.24,76.2,8.22,YES,PLACED,5.67, 567000.0 ,1.0,1,unknown,upi,student1176@example.com,9369155621
+STU2177,Ananya Joshi,28.0,FEMALE,MUMBAI,Maharashtra,civil,83.28,77.5,8.12,Y,placed,7.5,N/A,5.0,3,2023-09-09,CARD,student1177@example.com,9809960056
+STU2178,Vivaan Joshi,27.0,MALE,MUMBAI,Maharashtra,CIVIL,74.55,83.0,7.48,Yes,not placed,5.66,N/A,2.0,0,2026-02-17,Card,student1178@example.com,9781429478
+STU2179,Sneha Khan,21.0,Male, Indore ,Madhya Pradesh,, 100.0 ,94.6,10.0,NO,No,8.7,870000.0,5.0,1,28/11/2022,Net Banking,student1179@example.com,9585443094
+STU2180,Rishabh Yadav,25.0,FEMALE,pune,Maharashtra,Computer Science,84.11,85.3,,Y,Not placed,6.22,622000.0,5.0,1,2025-06-26,cash,student1180@example.com,9466127696
+STU2181,Arjun Tiwari,26.0,F,Dewas,Madhya Pradesh,data science,66.71,35.0,6.74,Y,Not Placed,,N/A,5.0,3,2024-07-23,UPI,student1181@example.com,9683384105
+STU2182,Kavya Agrawal,19.0,Female,mumbai,Maharashtra,CSE,93.48,78.3,8.93,Y,,7.23,723000.0,5.0,2,2023-04-11,,student1182@example.com,9568327642
+STU2183,Rahul Mehta,19.0,female,gwalior,,AIML,51.26,84.6,5.23,no,Placed,4.98,unknown,?,5,2024-10-30,CARD,student1183@example.com,9664331521
+STU2184,Pooja Yadav,20.0,Male,nagpur,Maharashtra,Data Science,,78.5,5.06,N,not placed,4.33,433000.0,,1,N/A,CARD,student1184@example.com,9270456296
+STU2185,Diya Singh,28.0,male, Bhopal,Madhya Pradesh,Mechanical,76.3,84.9,7.63,YES,not placed,6.64,664000.0,4.0,0,2022-12-06,Net Banking,student1185@example.com,9418360616
+STU2186,Isha Jain,26.0,F,UJJAIN,Madhya Pradesh,aiml,,74.0,9.42,Y,Placed,5.91,591000.0,,2,unknown,cash,student1186@example.com,9324148755
+STU2187,Aditya Sharma,27.0,,Kolkata,West Bengal,AI ML,54.11,79.4,5.8,yes,,3.42,342000.0,2.0,1,2025-05-01,Net Banking,student1187@example.com,9944296998
+STU2188,Sneha Mishra,28.0,female,MUMBAI,Maharashtra,AI-ML,,72.3,6.24,N,Not Placed,4.89,489000.0,3.0,?,,Card,student1188@example.com,9531043494
+STU2189,Rohan Singh,27.0,FEMALE,Bhopal,Madhya Pradesh,AI-ML,44.04,95.9,4.17,Y,Not placed,3.39,339000.0,0.0,5,2025-10-08,,student1189@example.com,9659011768
+STU2190,Diya Jain,26.0,female,Delhi,Delhi,CIVIL,47.68,87.4,5.0,NO,,3.69,369000.0,1.0,4,2022-07-30,,student1190@example.com,9265009000
+STU2191,Vivaan Mehta,23.0,,Bhopal,Madhya Pradesh,C.S.E,52.09,,4.79,NO,Yes,2.31,231000.0,2.0,5,2023-07-12,,student1191@example.com,9914389724
+STU2192,Arjun Verma,21.0,F,DELHI,Delhi,AI ML,,89.2,8.45,NO,,5.04,504000.0,6.0,0,,Cash,student1192@example.com,9926722781
+STU2193,Pooja Khan,22.0,MALE,Delhi,Delhi,CIVIL,78.33,78.3,7.02,Y,Not placed,6.63,663000.0,1.0,0,2023-05-31,Cash,student1193@example.com,9865680590
+STU2194,Isha Singh,21.0,MALE,dewas,Madhya Pradesh,CIVIL,67.61,94.8,6.38,Y,Not Placed,1.5,150000.0,7.0,4,2025-04-14,Net Banking,student1194@example.com,9751361677
+STU2195,Vivaan Mishra,28.0,Female,Gwalior,Madhya Pradesh,Mechanical,72.47,82.1,6.66,No,Not Placed,3.06,306000.0,1.0,1,2024-02-23,CARD,student1195@example.com,9722901319
+STU2196,Sneha Joshi,27.0,Male,Bangalore,Karnataka,,100.0,73.7,10.0,NO,No,7.33,?,8.0,0,2024-05-13,Net Banking,student1196@example.com,9973124622
+STU2197,Aarav Singh,24.0,male,Bangalore,Karnataka,CSE,34.56,75.6,3.36,N,Not Placed,1.5,150000.0,4.0,3,2025-10-02,UPI,student1197@example.com,9882819390
+STU2198,Priya Khan,22.0,female,dewas,Madhya Pradesh,it,66.17,81.7,6.56,NO,Placed,2.44,244000.0,5.0,3,2024-01-05,cash,student1198@example.com,9925289923
+STU2199,Simran Tiwari,21.0,F,MUMBAI,Maharashtra,Civil,75.78,50.7, 6.86 ,YES,Not placed,6.38,638000.0,2.0,3,2025-02-17,,student1199@example.com,9458375577
+STU1685,Rohan Chauhan,24.0,MALE,gwalior,Madhya Pradesh,E.C.E,74.64,84.5,7.48,,No,6.73,,8.0,?,2023-04-13,CARD,student685@example.com,9131957698
+STU2135,Aman Patel,,M,Pune,Maharashtra,me,51.36,,,No,not placed,1.5,150000.0,5.0,3,2023-02-27,,student1135@example.com,9711397169
+STU2129,Isha Chauhan,19.0,female,kolkata,West Bengal,data science,,82.8,6.25,Y,Not placed, 2.76 ,276000.0,4.0,5,2024-07-27,,student1129@example.com,9455044770
+STU1605,Karan Yadav,24.0,female,,Rajasthan,ECE,84.76,94.4,8.4,No,Not placed,6.66,666000.0,1.0,N/A,2024-05-18,Cash,student605@example.com,9658053247
+STU1877,Rohan Soni,28.0,M,MUMBAI,Maharashtra,me,76.0,70.5,8.03,Y,Not placed,4.75,475000.0,1.0,2,2024-05-20,,student877@example.com,9810529016
+STU2023,Rohan Mishra,24.0,,UJJAIN,Madhya Pradesh,civil,66.18,81.1,7.05,no,placed,3.4,340000.0,7.0 ,0,2024-10-31,Card,student1023@example.com,9229696032
+STU1651,Yash Soni,23.0,,delhi,Delhi,ME,58.01,75.4,5.59,Y,Not placed,1.5,150000.0,6.0,1,2024-05-30,,student651@example.com,9891207316
+STU1268,Rahul Soni,,Male,jaipur,Rajasthan,ME,69.23,60.0,7.27,YES,not placed,4.61,461000.0,5.0,1,2022-11-04,Net Banking,student268@example.com,9873403266
+STU2151,Kavya Agrawal,27.0,M,Pune,Maharashtra,,,74.4,4.93,No,not placed,3.8,380000.0,2.0,2,2024-10-27,,student1151@example.com,9874451303
+STU1973,Aditya Sharma,25.0,M,gwalior,Madhya Pradesh,DS,55.2, 51.3 ,5.38 ,No,Not placed,5.22,unknown,1.0,2,2022-04-22,,student973@example.com, 9841518482
+STU1959,Yash Chauhan,19.0,F,MUMBAI,Maharashtra,ece,87.8,83.3,8.44,,Not placed,6.23,623000.0,8.0,2,2022-07-24,,student959@example.com,9372233117
+STU1216,Priya Sharma,19.0,Female,Kolkata,West Bengal,ECE,58.2,72.6,5.92,no,,4.61,461000.0,5.0,4,2024-10-22,Net Banking,student216@example.com,9930598266
+STU1950,Pooja Jain,25.0,F,Indore,Madhya Pradesh,it,45.78,55.6,4.15,,Not Placed,2.35,235000.0,5.0,3,09-17-2025,upi,student950@example.com,9261727042
+STU1968,Neha Mehta,28.0,Female,Bengaluru,Karnataka,I.T.,50.44,57.3,4.79,Y,PLACED,4.91,,2.0,4,2024-03-02,Net Banking,student968@example.com,9828988247
+STU2005,Aarav Agrawal,24.0,MALE,nagpur,Maharashtra,ece,100.0,58.1,9.35,NO,Placed,N/A,,3.0,1,2024-10-11,Net Banking,student1005@example.com,9298026764
+STU1047,Muskan Mehta,18.0,FEMALE,nagpur,Maharashtra,C.S.E,54.45,56.8,5.29,N,PLACED,4.86,486000.0,6.0,3,2026-04-17,,student47@example.com,9624232414
+STU1709,Sneha Agrawal,?,Female,UJJAIN,Madhya Pradesh,Computer Science,98.47,100.0,10.0,no,not placed,8.21,821000.0,3.0,3,2023-06-13,Net Banking,student709@example.com,9223567680
+STU1433,Kavya Mishra,19.0,FEMALE,New Delhi,Delhi,it,,73.8,7.05,NO,not placed,2.35,235000.0,5.0,0,2025-07-28,Card,student433@example.com,9153292024
+STU1423,Rishabh Mishra,28.0,MALE,Jaipur,Rajasthan,it,81.94,59.2,unknown,NO,Not placed,10.05,1005000.0,8.0 ,3,2023-08-20,,student423@example.com,9279656450
+STU1212,Sneha Mehta,18.0,MALE,Bengaluru,Karnataka,ME,57.8,70.6,5.56,NO,Placed,2.62,,0.0,5,2022-07-11,Card,student212@example.com,9188783547
+STU1613,Pooja Chauhan,28.0,FEMALE,,Madhya Pradesh,Data Science,66.93,68.0,6.93,NO,not placed,7.8,780000.0,4.0,5,2026-03-20,,student613@example.com,9626402312
+STU1888,Simran Joshi,28.0,M,UJJAIN,Madhya Pradesh,Mechanical,,100.0,6.71,Y,not placed,4.82,482000.0,6.0,1,2024-07-19,cash,student888@example.com,12345
+STU1416,Sneha Gupta,23.0,FEMALE,ujjain,Madhya Pradesh,AIML,,77.7,8.53,yes,not placed,5.97,597000.0,1.0,5,2024-01-18,,student416@example.com,9963382466
+STU1569,Aarav Jain,28.0,M,Pune,Maharashtra,AIML,78.87,61.9,8.12,NO,Placed,7.26,N/A,7.0,3,2022-07-05,Card,student569@example.com,9854985336
+STU2198,Priya Khan,22.0,female,Dewas,Madhya Pradesh,it,66.17,81.7,N/A,NO,Placed,2.44,244000.0,5.0,3,2024-01-05,cash,student1198@example.com,9925289923
+STU1380,Simran Verma,22.0,male,jaipur,Rajasthan,, 87.54 ,86.1,8.67,No,PLACED,5.31,531000.0,,4,2024-09-24,upi,student380@example.com,9382646055
+STU2103,Kavya Mehta,27.0,Male,Gwalior,Madhya Pradesh,ECE,,43.0 ,5.18,Y,Placed,4.29 ,429000.0,1.0,3,2026-01-30,,student1103@example.com,9494175052
+STU1318,Neha Soni,28.0,,CALCUTTA,West Bengal,data science,50.52,73.6,5.48,N,No,,378000 INR,4.0,1,2023-07-18,,student318@example.com,9424425818
+STU2071,Neha Singh,,female,Bangalore,Karnataka,ece,55.53,80.8,5.39,N,placed,3.76,376000.0,0.0,1,2026-01-31,,student1071@example.com,9487611538
+STU1969,Karan Gupta,27.0,male,JAIPUR,Rajasthan,ece,83.2,81.4,7.78,no,PLACED,5.7,570000.0,4.0,0,2022-10-13,cash,student969@example.com,9708452006
+STU1922,Muskan Mehta,26.0,Male,nagpur,Maharashtra,Civil, 88.41 ,75.9,N/A,yes,No,8.94,?,5.0,1,2022-06-11,upi,student922@example.com,9800640935
+STU1066,Pooja Mehta,27.0,FEMALE,Nagpur,Maharashtra,E.C.E,63.96,60.5,6.97,Y,Yes,2.59,259000.0,4.0,4,2023-04-08,UPI,student66@example.com,9754586204
+STU1448,Sneha Tiwari,27.0,FEMALE,Indore,Madhya Pradesh,ME,65.44,87.4,6.62,Y,Placed,3.43,343000.0,5.0,1,2025-08-07,Cash,student448@example.com,
+STU1749,Aditya Chauhan, 26.0 ,M,gwalior,Madhya Pradesh,aiml,72.12,unknown,7.33,No,Not Placed,5.28,528000.0,1.0,2,2025-01-24,UPI,student749@example.com,9686291021
+STU1688,Aarav Agrawal,23.0,M,Kolkata,West Bengal,ME,60.55,75.9,6.03,yes,Yes,,332000.0,7.0,5,2023-12-06,,student688@example.com,9684572202
