@@ -130,7 +130,7 @@ Students are ranked separately within their respective cities using `groupby()`,
 
 The analysis identifies:
 
-* City topper
+* City topper find
 * Top 2 students from each city
 * Individual city rank
 
