@@ -177,7 +177,7 @@ The analysis creates:
 * Add Seaborn visualizations
 * Create an interactive Streamlit dashboard
 * Add Scikit-Learn placement prediction
-* Add correlation and statistical analysis
+* Add correlations and statistical analysis
 
 ---
 
