@@ -8,7 +8,7 @@ A Python and Pandas based project for analyzing student academic performance, pl
 
 The project analyzes a cleaned student dataset to extract meaningful insights using **Pandas and NumPy**.
 
-The analysis focuses on department performance, placement outcomes, student scoring, city-wise performance, rankings, and group-level comparisons.
+The analysis focuses on department performance, placement outcomes, student scoring, city-wise performance, rankings, and group-level comparison.
 
 ---
 
